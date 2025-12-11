@@ -1,0 +1,413 @@
+{
+  "futbol": {
+    "id": "futbol",
+    "url": "/eventos/apuestas-mundial-fifa",
+    "seo": {
+      "metaTitle": "Apuestas en la Copa Mundial de Fútbol",
+      "metaDescription": "Descubre cómo se apuesta al campeón, goleador y grupos en el Mundial de Futbol de la FIFA ⚽. Consulta las estadísticas clave y consejos aquí."
+    },
+    "indexTitle": "Apuesta para el Mundial de Fútbol",
+    "floating": "Vive el Mundial",
+    "top": {
+      "title": "Apuestas en la Copa Mundial de Fútbol: Guía completa",
+      "description": "Es el evento más importante del deporte más popular en el mundo, que está regido por la Federación más poderosa del orbe. Cada cuatro años las selecciones de los países se enfrentan para nombrar al campeón del mundo… al mejor de todos.*Hace un siglo cuando comenzaron las primeras pláticas para determinar a la nación que podría considerarse la mejor en el fútbol, jamás se imaginó que el campeonato llegara a tal magnitud. Hace 100 años los directivos y mentes maestras de este deporte debatían si con los Juegos Olímpicos sería suficiente nombrar al monarca mundial, o bien, se requeriría de un campeonato independiente que alternara cada cuatro años el ciclo.*La decisión fue tomada y así fue, que en 1930 surgió la primera Copa Mundial de fútbol… el resto es historia."
+    },
+    "content": [
+      {
+        "title": "La historia de la Copa Mundial de fútbol",
+        "description": "En 1928 la FIFA decidió que lo correcto sería “independizarse” de los Juegos Olímpicos para nombrar a la mejor selección del mundo.*En aquella época los uruguayos y argentinos eran las potencias que dominaban, por lo tanto, federativos indicaron que sería buena idea comenzar este torneo independiente a los JJOO, en Sudamérica.*Uruguay en 1930 celebraba el centenario de su Independencia, así que la capital, Montevideo, con apenas tres estadios fue la sede para dicho evento, la cual sufrió rechazo de naciones europeas que consideraban injusto no organizar el primer campeonato en el viejo continente.*Tras la pausa por la Segunda Guerra Mundial que impidió las ediciones de 1942 y 1946, el Mundial reapareció en Brasil en 1950. Aunque ha habido cambios importantes, la esencia del fútbol permanece intacta.*Para México este evento siempre ha sido importante: el Tri y Francia disputaron el primer partido oficial en una Copa. México será la primera nación en ser sede tres veces del Mundial."
+      },
+      {
+        "title": "Tabla de campeones de Copas del Mundo",
+        "description": "",
+        "table": {
+          "headers": [
+            "Año",
+            "Sede",
+            "Campeón",
+            "Subcampeón",
+            "Equipos",
+            "México"
+          ],
+          "rows": [
+            ["1930", "Uruguay", "Uruguay", "Argentina", "13", "Grupos"],
+            ["1934", "Italia", "Italia", "Checoslovaquia", "16", "N/P"],
+            ["1938", "Francia", "Italia", "Hungría", "15", "N/P"],
+            ["1950", "Brasil", "Uruguay", "Brasil", "13", "Grupos"],
+            ["1954", "Suiza", "Alemania", "Hungría", "16", "Grupos"],
+            ["1958", "Suecia", "Brasil", "Suecia", "16", "Grupos"],
+            ["1962", "Chile", "Brasil", "Checoslovaquia", "16", "Grupos"],
+            ["1966", "Inglaterra", "Inglaterra", "Alemania", "16", "Grupos"],
+            ["1970", "México", "Brasil", "Italia", "16", "4tos"],
+            ["1974", "Alemania", "Alemania", "Holanda", "16", "N/P"],
+            ["1978", "Argentina", "Argentina", "Holanda", "16", "Grupos"],
+            ["1982", "España", "Italia", "Alemania", "24", "N/P"],
+            ["1986", "México", "Argentina", "Alemania", "24", "4tos"],
+            ["1990", "Italia", "Alemania", "Argentina", "24", "N/P"],
+            ["1994", "EUA", "Brasil", "Italia", "24", "8vos"],
+            ["1998", "Francia", "Francia", "Brasil", "32", "8vos"],
+            ["2002", "Corea-Japón", "Brasil", "Alemania", "32", "8vos"],
+            ["2006", "Alemania", "Italia", "Francia", "32", "8vos"],
+            ["2010", "Sudáfrica", "España", "Holanda", "32", "8vos"],
+            ["2014", "Brasil", "Alemania", "Argentina", "32", "8vos"],
+            ["2018", "Rusia", "Francia", "Croacia", "32", "8vos"],
+            ["2022", "Qatar", "Argentina", "Francia", "32", "Grupos"]
+          ]
+        }
+      },
+      {
+        "title": "Selecciones con más títulos en los Mundiales",
+        "description": "",
+        "table": {
+          "headers": ["Selección", "Títulos", "Ediciones", "Récord"],
+          "rows": [
+            ["Brasil", "5", "1958, 1962, 1970, 1994, 2002", "114-76-19"],
+            ["Alemania", "4", "1954, 1974, 1990, 2014", "68-21-23"],
+            ["Italia", "4", "1934, 1938, 1982, 2006", "45-21-17"],
+            ["Argentina", "3", "1978, 1986, 2022", "47-17-24"],
+            ["Francia", "2", "1998, 2018", "39-14-20"],
+            ["Uruguay", "2", "1930, 1950", "25-13-21"],
+            ["Inglaterra", "1", "1966", "32-22-20"],
+            ["España", "1", "2010", "31-17-19"]
+          ]
+        }
+      },
+      {
+        "title": "Máximos goleadores en la historia del Mundial",
+        "description": "",
+        "table": {
+          "headers": ["Jugador", "Selección", "Goles", "Partidos"],
+          "rows": [
+            ["Miroslav Klose", "Alemania", "16", "24"],
+            ["Ronaldo", "Brasil", "15", "19"],
+            ["Gerd Müller", "Alemania", "14", "13"],
+            ["Just Fontaine", "Francia", "13", "6"],
+            ["Lionel Messi", "Argentina", "13", "26"],
+            ["Kylian Mbappé", "Francia", "12", "14"],
+            ["Pelé", "Brasil", "12", "14"]
+          ]
+        }
+      },
+      {
+        "title": "Tipos de Apuesta en Codere para el Mundial",
+        "description": "En la Copa del Mundo de fútbol podrás encontrar diversas opciones en Codere para realizar tus apuestas. Estas son las más populares:",
+        "subitems": [
+          {
+            "title": "Campeón del Mundo",
+            "description": "Cada selección participante tendrá un momio basado en sus probabilidades matemáticas para ser campeón. Aquí se trata de elegir a la selección que podrá coronarse dentro de las Apuestas Anticipadas."
+          },
+          {
+            "title": "Finalistas",
+            "description": "Se trata de elegir qué selecciones serán protagonistas de la gran final, independientemente del resultado final."
+          },
+          {
+            "title": "Máximo Goleador",
+            "description": "El campeón de goleo o Bota de Oro premia al jugador con más goles en tiempo regular o extra. No se consideran goles en penales."
+          },
+          {
+            "title": "Ganadores por Grupo",
+            "description": "Cuando se definen los grupos, podrás elegir a la selección que crees que ganará su sector. Los momios cambian conforme avanza el torneo."
+          },
+          {
+            "title": "Portero Menos Goleado",
+            "description": "Consiste en elegir al portero que recibirá la menor cantidad de goles en todo el torneo."
+          }
+        ]
+      },
+      {
+        "title": "Apuesta informado y disfruta el Mundial",
+        "description": "La Copa Mundial de fútbol es una celebración global llena de historia, pasión y oportunidades para aficionados y apostadores.*Conocer antecedentes, equipos exitosos, goleadores y tipos de apuestas en plataformas como Codere Apuestas Online te ayuda a tomar mejores decisiones.*Ya sea que elijas al campeón, goleador o portero menos goleado, lo más importante es disfrutar el torneo con responsabilidad."
+      }
+    ]
+  },
+  "baloncesto": {
+    "id": "baloncesto",
+    "url": "/eventos/apuestas-mundial-baloncesto",
+    "seo": {
+      "metaTitle": "Cómo hacer apuestas en la Copa del Rey",
+      "metaDescription": "Apuesta con estrategia y vive la experiencia en baloncesto y la Copa del Rey. Conoce los mercados, pronósticos y sumérgete en el mundo de los deportes."
+    },
+    "indexTitle": "Apuesta para Mundial de Baloncesto",
+    "floating": "Encesta y gana",
+    "top": {
+      "title": "Apuestas en la Copa del Rey: Todo para pronosticar correctamente",
+      "description": "El futbol español tiene un torneo alterno que se juega a lo largo de la temporada de Liga y es nombrado como la Copa del Rey.*Este torneo ha sido un escaparate para vibrar y observar a los equipos “cenicienta”, aquellos que sería imposible de considerar con posibilidades en un torneo largo de semana a semana, pero que en duelos de eliminación directa provocan grandes sorpresas a los favoritos como Real Madrid y Barcelona.*Es por eso, que la Copa del Rey combina el sabor añejo de la tradición futbolera del país con la enorme posibilidad de regalarnos resultados inesperados.*Aquí te damos una pequeña guía con los cinco puntos y factores más importantes para que prepares tus mejores picks en la Copa del Rey."
+    },
+    "content": [
+      {
+        "title": "Tipos de Apuesta comunes en Copa del Rey",
+        "description": "La más famosa es al ganador, la cual se puede hacer previo al comienzo del torneo o al avanzar de cada ronda, incluso minutos antes de arrancar la Final. Los momios de los participantes se van modificando.*En Principal encontramos el conocido moneyline o línea de partido al elegir el resultado del juego (Local, Empate, Visita).*En la parte de Hándicap podremos elegir a uno de los dos equipos con goles de ventaja o desventaja, dependiendo del favorito o el underdog.*En goles tomaremos las famosas Altas o Bajas con la cantidad de tantos entre los dos conjuntos, ya sea el Over de 1.5, 2.5, y 3.5, o bien, el Under con los mismos parámetros."
+      },
+      {
+        "title": "Ganadores de la Copa del Rey",
+        "description": "La primera edición de la Copa del Rey se fundó el 6 de abril de 1903 por parte de la Real Federación Española de Fútbol.*Históricamente se trata de un torneo que han dominado el FC Barcelona con 31 títulos y el Athletic Club con 24.*Las mayores sorpresas de los últimos tiempos se registraron en 1986 cuando en la final el Zaragoza derrotó 1-0 al Barcelona, en 2002 cuando el Deportivo La Coruña ganó 2-1 al Real Madrid y en 2004 cuando Zaragoza derrotó en la gran Final 3-2 al Real Madrid."
+      },
+      {
+        "title": "Características que debes conocer de la Copa del Rey",
+        "description": "La Copa del Rey maneja varias etapas entre su mes de inicio (octubre) hasta la gran final que se desarrolla a finales de abril.*En la edición número 121 perteneciente a la temporada 2024-2025 participaron 125 equipos a lo largo de ocho rondas:*Ronda Preliminar con 20 equipos de las primeras divisiones regionales.*Primera Eliminatoria con 110 clubes con 16 equipos de la Primera división, 21 equipos de la Segunda División, 16 equipos de la Primera Federación, 35 equipos de la Segunda Federación, 8 equipos de la Tercera Federación y 4 equipos semifinalistas de la Copa Federación. A estos 110 conjuntos se le suman 10 más de la ronda Preliminar.*Segunda Eliminatoria en la que se ubican 1 equipo ganador de la Primera Federación, así como los 55 que avanzaron en la ronda anterior.*Dieciseisavos de Final en la que llegaron los 28 ganadores de la ronda anterior… y así en los Octavos de Final, Cuartos de Final, Semifinales (ronda donde se juegan partidos a ida y vuelta) y en la gran Final."
+      },
+      {
+        "title": "Cómo apostar en vivo a la Copa del Rey",
+        "description": "Como en cualquier pronóstico en vivo de futbol, en Codere tendremos una de las más amplias opciones para que vivas al máximo la emoción.*Una vez que arranque el partido, contarás con las estadísticas más completas actualizadas cada minuto. De esta forma podrás jugar en vivo al marcador, al próximo anotador del gol, la cantidad de tiros de esquina y mucho más, como en cualquier encuentro de futbol."
+      },
+      {
+        "title": "Cómo estudiar y analizar la Competición",
+        "description": "Estudiar los partidos de la Copa del Rey es mucho más complejo que los de la liga española, ya que la disparidad y el nivel entre todas las ligas puede ser tan grande como inimaginable.*Por un lado, tenemos a clubes con las mayores nóminas a nivel mundial, y del otro lado hasta podríamos ver a equipos que cuentan con jugadores semiprofesionales, que no viven del futbol.*Ya en las rondas más importantes como Octavos, Cuartos, Semifinales y Final, es importante que consultes la alineación titular de cada club. Recuerda que hay escuadras como el Real Madrid o el Barcelona que anteponen el cierre de la Liga y en todo caso la Champions, a la Copa del Rey.*En varias ocasiones son “suplentes” los que van de titulares. Esta es la parte más importante para analizar, sobre todo cuando consultemos el historial entre ambos, démosle mayor importancia a los antecedentes cuando se han enfrentado en Copa del Rey, no tanto en Liga.*Hay equipos como el Athletic que suelen jugar muy bien esta clase de compromisos."
+      },
+      {
+        "title": "Los mejores momios están en codere",
+        "description": "Infórmate día a día, sobre todo en las competencias populares y en las que encontrarás información en los portales oficiales y especializados en la Copa del Rey. Tampoco olvides aumentar la experiencia en Codere Apuestas Deportivas. ¡Noticias, rumores, sanciones, todo eso cuenta!"
+      }
+    ]
+  },
+  "f1": {
+    "id": "F1",
+    "url": "/eventos/apuesta-gran-prix",
+    "seo": {
+      "metaTitle": "Apuestas del Gran Premio de México",
+      "metaDescription": "Descubre el emocionante mundo de las apuestas en el Grand Prix de México. Aprende cómo apostar, así como qué tipos de estrategias puedes utilizar."
+    },
+    "indexTitle": "Apuesta para el Grand prix",
+    "floating": "Rueda a la meta",
+    "top": {
+      "title": "Apuesta al Gran Premio de México con esta guía completa",
+      "description": "Desde que regresó la Fórmula 1 a México hace algunos años el Gran Premio de la Ciudad de México ha sido un tremendo éxito.*Considerado en varias ocasiones como uno de los más emocionantes y mejor organizados, ya sea por directivos, pilotos y escuderías, se ha convertido en una tradición del mes de noviembre con la máxima velocidad de automovilismo.*El Gran Premio de México que lleva décadas de celebrarse en el mismo recinto, es sin duda uno de los principales eventos en este país.*Aquí te presentamos la guía completa para que sepas qué tipos de apuestas se manejan en el GP de la Ciudad de México."
+    },
+    "content": [
+      {
+        "title": "Tipos de Apuesta en el GP de México",
+        "description": "La más popular es al Ganador de la carrera, pero de igual forma existen diversas opciones y aquí te enumeramos las más atractivas:",
+        "ul": [
+          "Ganador: Esta la puedes encontrar desde antes de las primeras prácticas, antes de la Clasificación o ya cuando se tenga la parrilla de salida con la Pole Position. Recuerda que es muy importante saber las posiciones en las que arrancarán cada uno de los pilotos.",
+          "Uno contra Uno: Aquí se te presenta como si fuera un partido entre dos rivales (de similares características) para que elijas cuál terminará en mejor posición al final.",
+          "Escudería ganadora: Otra propuesta que va de la mano con qué equipo o escudería se llevará la victoria.",
+          "Pilotos props: Cada piloto cuenta con props previos: Ganador, Top-3, Top-5, Top-10, si será el último en parar en pits, si en algún momento será primer lugar o si será el primero en abandonar la competencia."
+        ]
+      },
+      {
+        "title": "Ganadores del Gran Premio de México",
+        "description": "A lo largo de diversas etapas en la historia, el Gran Premio de México ha sido sede de enormes competencias y excelentes campeones.",
+        "table": {
+          "headers": ["Año", "Ganador"],
+          "rows": [
+            ["1962", "Jim Clark"],
+            ["1963", "Jim Clark"],
+            ["1964", "Dan Gurney"],
+            ["1965", "Richie Ginther"],
+            ["1966", "John Surtees"],
+            ["1967", "Jim Clark"],
+            ["1968", "Graham Hill"],
+            ["1969", "Danny Hulme"],
+            ["1970", "Jacky Ickx"],
+            ["1986", "Gerhard Berger"],
+            ["1987", "Nigel Mansell"],
+            ["1988", "Alain Prost"],
+            ["1989", "Ayrton Senna"],
+            ["1990", "Alain Prost"],
+            ["1991", "Ricardo Patrese"],
+            ["1992", "Nigel Mansell"],
+            ["2015", "Nico Rosberg"],
+            ["2016", "Lewis Hamilton"],
+            ["2017", "Max Verstappen"],
+            ["2018", "Max Verstappen"],
+            ["2019", "Lewis Hamilton"],
+            ["2021", "Max Verstappen"],
+            ["2022", "Max Verstappen"],
+            ["2023", "Max Verstappen"],
+            ["2024", "Carlos Sainz Jr."]
+          ]
+        }
+      },
+      {
+        "title": "Características que debes conocer del Gran Premio de México",
+        "description": "",
+        "ul": [
+          "Circuito: Autódromo Hermanos Rodríguez.",
+          "Longitud: 4.304 kilómetros.",
+          "Número de vueltas: 71.",
+          "Distancia Total: 305.354 km.",
+          "Curvas: 17, 10 a la derecha y 7 a la izquierda.",
+          "Zonas de DRS: 3 (recta principal, entre las curvas 3 y 4, y entre las curvas 11 y 12).",
+          "Aceleración a fondo: 45% de la vuelta.",
+          "Sentido: Dirección de las manecillas del reloj."
+        ]
+      },
+      {
+        "title": "Cómo apostar en vivo al Gran Premio de México",
+        "description": "Como en todos los Grandes Premios de la Fórmula 1 las opciones no son tantas a la hora de la competencia, ya que por las características del deporte no suele haber tantos cambios.*Las principales opciones en la apuesta en vivo de la F1 son al ganador de la carrera o si terminará en el pódium de los tres primeros."
+      },
+      {
+        "title": "Cómo estudiar y analizar el automovilismo",
+        "description": "Debemos entender que el automovilismo se basa la mitad en el rendimiento del piloto y la otra mitad en la potencia de la máquina.*Técnicamente se dice que una cosa es ser el mejor conductor y otra tener la mejor escudería y el monoplaza más veloz, pues las características del auto, la estrategia ideal y los ingenieros influyen enormemente.*El clima es un factor fundamental que debes conocer, considerando que la altura de la Ciudad de México supera los 2,200 metros sobre el nivel del mar.*El desgaste de las llantas, frenos y la administración del combustible son distintos por el mismo factor de altitud.*Para tener una mayor certeza en tus apuestas, infórmate durante la semana previa en portales especializados de F1. En Codere podrás consultar los momios de cada evento. Recuerda: noticias, rumores y sanciones influyen en un buen análisis."
+      }
+    ]
+  },
+  "esports": {
+    "id": "esports",
+    "url": "/eventos/apuestas-esports",
+    "seo": {
+      "metaTitle": "Guía de Apuestas para los E-sports",
+      "metaDescription": "Pronostica a los e-Sports o deportes electrónicos desde la aplicación de tu móvil. Descubre los mercados de apuestas más populares en LoL, Fifa y más."
+    },
+    "indexTitle": "Guía de apuestas para Esports",
+
+    "floating": "Dale play al gaming",
+    "top": {
+      "title": "Apuestas E-sports: guía para pronosticar inteligentemente",
+      "description": "Los eSports llegaron para quedarse. Es cierto, la Pandemia ayudó a que se hiciera la única opción o por lo menos la más atractiva, pero en el mundo de las apuestas de los videojuegos se ha mantenido en el gusto del público.*Es una fusión extraña pero deseada. Existen dos industrias consideradas entre las tres más populares en el gusto del mundo las apuestas y los videojuegos.*Ahora es una realidad porque te presentamos una pequeña Guía para que pronostiques de la forma más acertada a los e-Sports, que es la abreviatura de deportes electrónicos."
+    },
+    "content": [
+      {
+        "title": "Tipos de Apuesta comunes a los e-Sports",
+        "description": "Al comparar las apuestas en eSports con las apuestas deportivas tradicionales, encontramos tanto similitudes como diferencias importantes.*La principal va relacionada al predecir el resultado, el ganador. Para ello, al igual que en otras ligas, se marca un favorito y un underdog con base al rendimiento, estadísticas y récords. Aquí se trata de elegir al ganador.*En nuestro sitio de Codere encontrarás diversas ligas en el apartado de FIFA e-Sports; la H2H GG League (8 minutos de juego), la Volta Battle (6 minutos de juego) y la Batalla de Futbol (8 minutos de juego).*En estas que recién te mencionamos de primera instancia encontrarás la clásica de ganador, pero también en el recuadro azul (más opciones) podrás hacerlo al hándicap, 1ra parte, goles, equipos, resultado final etc.*Si estás empezando en este mundo y quieres potenciar tus ganancias, una excelente opción es combinar tus pronósticos en una sola apuesta."
+      },
+      {
+        "title": "Videojuegos más populares en eSports",
+        "table": {
+          "headers": ["Videojuego", "Tipo"],
+          "rows": [
+            ["Fortnite", "Battle Royale"],
+            ["Call of Duty", "Battle Royale"],
+            ["FIFA", "Simulación"],
+            ["League of Legends", "MOBA"],
+            ["Dota 2", "MOBA"]
+          ]
+        },
+        "description": "Dentro de los videojuegos más populares de los últimos tiempos podemos encontrar los siguientes:*PUBG Mobile; Basado en el PUBG BATTLEGROUNDS bajo un estilo battle royale, hasta 100 jugadores caen en una isla y se trata de conformar a los últimos sobrevivientes utilizando armas, vehículos y objetos a lo largo del mapa.*Valorant; Se trata de un shooter táctico en primera persona con dos equipos integrados por cinco personas cada una. Se deben ganar al menos 13 rondas como Atacante o Defensores.*Free Fire MAX; Es el 2do capítulo de la colaboración de Free Fire x NARUTO que cuenta con una historia más inmersiva, en la que los Akatsuki lanzaron un ataque sorpresa contra la Aldea Oculta de la Hoja, por lo que debes unir fuerzas con los ninjas de la aldea para evitar la invasión."
+      },
+      {
+        "title": "Características que debes conocer de los eSports",
+        "description": "Parte primordial a la hora de apostar en los eSports es que conozcas bien los videojuegos en los que quieras invertir; duración, reglas, características y protagonistas principales.*Considera que los eSports abarcan diversos géneros de juego; los shooters en primera persona, los de estrategia en tiempo real y los de simulación deportiva son los más populares… pero hay más.*Tus pronósticos van con relación al equipo o jugador, por eso es importante que sepas de quiénes se trata. Recuerda que también puedes elegir al grupo que logra un objetivo dentro del mismo juego, o incluso a la puntuación más alta en un partido.*Algo importante a considerar es que a diferencia de un deporte, apostar a los eSports comprende líneas muy volátiles, ya que se trata de jugadores y apostadores más jóvenes que el promedio. La volatilidad de los momios se basa en un parche o actualización del juego, el traspaso de un jugador destacado, cambios de reglas en los juegos y evolución de las estrategias."
+      },
+      {
+        "title": "Cómo apostar en vivo a los eSports",
+        "description": "Al igual que en las ligas deportivas esta opción se encuentra disponible y con mayores variantes dependiendo del tipo de videojuego, características del mismo y momento en el que se encuentre. Puedes encontrar esta opción en el apartado de ESports en la página oficial de apuestas de Codere.*Por supuesto que existen y se pueden realizar, pero también es importante que sepamos que las opciones van a ser por lo general las mismas a las que te encuentras previo a un partido, solo que con la actualización debida basada en el tiempo y resultado parcial."
+      },
+      {
+        "title": "Cómo estudiar y analizar los eSports",
+        "description": "Es prioridad el que conozcas a los jugadores, que ya para estas alturas son profesionales dentro de su ámbito. Tienen estadísticas previas al alcance de todos, pero también debes entender que al ser una variable con no más de siete años en el mercado principal, pues los números no son tan vastos.*Los eSports requieren más de agudeza mental que condición física. La duración puede ser menor, pero al mismo tiempo existen torneos de varias horas, más que un partido de beisbol o futbol americano.*En Codere Apuestas Deportivas Online podrás disfrutar diariamente de eventos de este tipo, con más de 50 opciones disponibles cada semana.*Infórmate día a día, sobre todo en las competencias populares y en las que encontrarás información en los portales oficiales y especializados en eSports. ¡Noticias, rumores, sanciones, todo eso cuenta!"
+      }
+    ]
+  },
+  "nfl": {
+    "id": "NFL",
+    "url": "/eventos/apuestas-super-bowl",
+    "seo": {
+      "metaTitle": "Cómo realizar apuestas en Super Bowl ",
+      "metaDescription": "Aprende estrategias, tipos de apuestas y consejos para mejorar tus posibilidades de ganar en el Super Bowl de NFL. Regístrate y vive la mejor experiencia."
+    },
+    "indexTitle": "Apuestas para el Superbowl",
+    "floating": "Da la patada inicial",
+    "top": {
+      "title": "Apuestas Super Bowl: Conoce la mejor estrategia para tus pronósticos",
+      "description": "El futbol americano, y en específico la NFL es considerada como la liga por experiencia donde más y mejor se apuesta. Parte del éxito que tiene este deporte radica en que hay poca gente que una vez que lo entiende, no se apasiona.*Al hablar de volumen por partido es donde más se hacen pronósticos tanto en Estados Unidos como en México, y cuando se trata del Super Bowl, no hay comparación con cualquier otro evento.*Debido a eso te presentamos una pequeña guía para que pronostiques de la manera más acertada posible al Super Bowl de la NFL."
+    },
+    "content": [
+      {
+        "title": "Tipos de Apuesta comunes en el Super Bowl",
+        "description": "En Codere Apuestas Deportivas Online puedes pronosticar de diversas formas al evento rey por excelencia, mejor conocido como el Súper Domingo.*En el moneyline o resultado eliges al ganador del partido sin importar el margen o la diferencia de puntos. Se trata de una opción básica pero que no pierde popularidad.*En el hándicap o línea de puntos seleccionas a quien cubrirá la Línea, ya sea el favorito o el underdog. Esta es la modalidad de mayor tradición y popularidad en el mundo de las apuestas.*Finalmente, el over y under con la línea de los totales puedes pronosticar a las altas o a las bajas con la cantidad de puntos que anotarán entre los dos equipos, así como la designación del Jugador Más Valioso (MVP).*Además, para este juego podrás hacer apuestas exóticas, esas en las que decides cuánto tiempo durará la interpretación del himno de Estados Unidos, si será cara o cruz el resultado del volado, cuántas canciones y cuáles estarán en el show de medio tiempo, así como el color de la bebida rehidratante con la que bañarán al coach ganador al final del partido."
+      },
+      {
+        "title": "Máximos ganadores del futbol americano",
+        "description": "",
+        "table": {
+          "headers": ["Equipo", "Títulos"],
+          "rows": [
+            ["New England Patriots", "6"],
+            ["Pittsburgh Steelers", "6"],
+            ["Dallas Cowboys", "5"],
+            ["San Francisco 49ers", "5"],
+            ["Kansas City Chiefs", "4"],
+            ["Green Bay Packers", "4"],
+            ["New York Giants", "4"],
+            ["Denver Broncos", "3"],
+            ["Oakland Raiders", "3"],
+            ["Washington Redskins", "3"]
+          ]
+        }
+      },
+      {
+        "title": "Características que debes conocer del Super Bowl",
+        "description": "La NFL es la liga más poderosa y acaudalada del mundo, en parte porque realiza ajustes importantes al reglamento y sistemas de juego cada año.*El deporte evoluciona y cada vez se hace más explosivo, rápido y atlético, pero también más aéreo. Durante la década de los 90s cuando los Dallas Cowboys dominaron, existía la estadística que señalaba que con un buen ataque terrestre se podía ganar cualquier partido.*Hoy la NFL se convirtió en un circo aéreo donde los receptores son mejor valorados por encima de los corredores. Se anotan más puntos, hace décadas el promedio era de 40 por partido, hoy ronda los 48.*Si bien existen posiciones que han cobrado mayor relevancia al pasar de los años, considera algo importante; su nombre es football y su apellido es quarterback. La posición más fundamental y por las que se rigen gran parte de las líneas de apuesta es la de Mariscal de Campo.*“Las ofensivas llenan los estadios, las defensivas ganan los partidos, y los equipos especiales ganan los campeonatos”, esa era una frase ochentera que hasta la fecha sigue vigente, y aplica perfectamente para el Super Bowl.*Considera algo que es muy importante; el medio tiempo en un partido de NFL dura 14 minutos, en el Super Bowl la pausa llega hasta los 28 minutos."
+      },
+      {
+        "title": "Cómo apostar en vivo al Super Bowl",
+        "description": "Todo lo que tiene que ver con apuestas en la NFL es un éxito, en el caso de hacerlo en vivo, no es la excepción para el Super Bowl.*Pronosticar durante el transcurso de un partido es igual de emocionante que al hacerlo previamente, además aquí encontramos las más diversas y completas opciones.*Tipo de la siguiente anotación, jugador que anotará un TD, altas y bajas a determinado número de yardas de algún jugador, así como resultado, margen de victoria, over de cierta cantidad de puntos, etc. Lo podrás hacer cada vez que comience una ofensiva o una vez que termine la jugada, ya sea con que se detenga el reloj o al pedirse un tiempo fuera."
+      },
+      {
+        "title": "Cómo estudiar y analizar el Super Bowl",
+        "description": "Al ser un deporte altamente demandante en el aspecto físico se juega dos semanas después de las finales de conferencia.*Lo ideal siempre es pronosticar una noche antes del partido, o incluso el mismo día.*En la NFL el reporte de lesionados se da a conocer los jueves al medio día, por eso es importante considerar los estatus: Probable = 70% de probabilidades de jugar; Questionable = 40–60%; Doubtful = 10–20%; Time Decision = se define minutos antes del partido.*Una vez que conoces las ausencias para el encuentro, es súper importante poner atención a las estadísticas del quarterback, quienes deciden gran parte del resultado.*Las características del estadio y la sede cuentan, pero no son decisivas: si es domo, el clima, tipo de superficie, etc.*Infórmate día a día, especialmente en competencias populares y portales oficiales donde encontrarás estadísticas, rumores, sanciones y más."
+      }
+    ]
+  },
+  "mlb": {
+    "id": "MLB",
+    "url": "/eventos/apuestas-serie-mundial-mlb",
+    "seo": {
+      "metaTitle": "Apuestas en la Serie Mundial de Béisbol MLB",
+      "metaDescription": "Aprende cómo apostar en la Serie Mundial de la MLB ⚾. Obtén consejos, pronósticos y las mejores cuotas para aumentar tus posibilidades de ganar."
+    },
+    "indexTitle": "Apuesta para la Serie Mundial de MLB",
+    "floating": "Roba el home",
+    "top": {
+      "title": "Guía de cómo apostar en la Serie Mundial de Béisbol",
+      "description": "Definir al campeón del béisbol estadounidense siempre ha sido considerado como el “campeón mundial” debido al nivel con el que cuenta, y si bien este aspecto podría estar a debate (entiendo a la gente que quizá no esté de acuerdo), es un hecho que así se le conoce desde hace más de un siglo.*Definir al campeón del béisbol estadounidense siempre ha sido considerado como el “campeón mundial” debido al nivel con el que cuenta, y si bien este aspecto podría estar a debate (entiendo a la gente que quizá no esté de acuerdo), es un hecho que así se le conoce desde hace más de un siglo.*Pero más allá de esto, te presentamos una pequeña Guía para que pronostiques de la forma más acertada posible al deporte de las inteligencias. Recuerda que el béisbol es el deporte más estadístico, es por eso que te aconsejamos que vayas relacionándote con las terminologías y categorías más importantes, créeme que cuando lo haces, disfrutas y comprendes aún más este bello deporte."
+    },
+    "content": [
+      {
+        "title": "Tipos de Apuesta comunes en la Serie Mundial ",
+        "description": "La principal que encontraremos previo al comienzo de las finales, incluso antes de cada serie de playoffs es la clásica de ganador, que en este caso es al campeón. Se trata de pronosticar a favor de qué equipo levantará el título.*La segunda que va de la mano es en cuántos juegos se acabará la Serie Mundial, y aquí existen dos vertientes; hacerlo en el número exacto de juegos (4, 5, 6 o 7) sin importar el ganador, o bien, en que un equipo se corone campeón exactamente en el resultado de los partidos (4-0, 4-1, 4-2 o 4-3). Recordemos que la Serie Mundial es a ganar 4 de 7 encuentros.*Por supuesto que también existe la opción previa al comienzo de cada juego con elegir el ganador del duelo, las altas y bajas o el hándicap.*Una opción que debes considerar solo estará abierta previo al arranque del Juego 1 es la de quién será el MVP. Esta es muy rara que vaya actualizándose, así que debes seleccionar previo al canto del “Playball” sobre qué jugador consideras el favorito. Como en el béisbol la posición más determinante es la del Pitcher, es muy probable que sea por ahí si es que ubicas a un lanzador con mucho renombre."
+      },
+      {
+        "title": "MVP de Series Mundiales por posición",
+        "table": {
+          "headers": ["Posición", "Cantidad"],
+          "rows": [
+            ["Pitcher", "29"],
+            ["Tercera Base", "10"],
+            ["Outfielder o Jardinero", "10"],
+            ["Shortstop", "8"],
+            ["Cátcher", "7"],
+            ["Primera Base", "4"],
+            ["Bateador Designado", "3"],
+            ["Segunda Base", "1"]
+          ]
+        }
+      },
+      {
+        "title": "Máximos ganadores de la Serie Mundial",
+        "description": "El actual campeón son Los Ángeles Dodgers. Los New York Yankees son la franquicia más exitosa con los mejores jugadores de la historia.",
+        "subcontent": [
+          {
+            "title": "Máximos ganadores",
+            "table": {
+              "headers": ["Equipo", "Títulos"],
+              "rows": [
+                ["New York Yankees", "27"],
+                ["St. Louis Cardinals", "11"],
+                ["Boston Red Sox", "9"],
+                ["Oakland Athletics", "9"],
+                ["Los Ángeles Dodgers", "8"],
+                ["San Francisco Giants", "8"],
+                ["Cincinnati Reds", "5"],
+                ["Pittsburgh Pirates", "5"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Características que debes conocer del Béisbol en una Serie Mundial",
+        "description": "El pitcher abridor representa más del 50% de la probabilidad de victoria. Analiza victorias/derrotas, ERA, WHIP, Quality Start y Run Support para aumentar tus posibilidades."
+      },
+      {
+        "title": "Cómo apostar en vivo a la Serie Mundial",
+        "description": "Las apuestas en vivo más recomendables son: ganador del juego, altas/bajas y hándicap. Se actualizan entre entradas considerando la calidad del bullpen."
+      },
+      {
+        "title": "Cómo estudiar y analizar un juego de Serie Mundial",
+        "description": "Conocer al pitcher abridor es fundamental, pero también analiza umpire, clima, estadio, viento y superficie del terreno. Infórmate día a día en portales oficiales y especializados."
+      }
+    ]
+  }
+}
