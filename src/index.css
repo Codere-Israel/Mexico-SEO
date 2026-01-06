@@ -82,7 +82,9 @@ body {
   filter: brightness(0) saturate(100%) invert(77%) sepia(60%) saturate(4287%)
     hue-rotate(40deg) brightness(96%) contrast(101%);
 }
-
+.seo-nav-active span.seo-nav-title {
+    color: #79c000;
+}
 .seo-nav-active .underline {
   background-color: #79c000;
 }
@@ -129,12 +131,14 @@ body {
     width: 30px !important;
   }
 
-  .e-nav {
-    justify-content: space-evenly;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-  }
+    .e-nav {
+        justify-content: space-evenly;
+        overflow-y: hidden;
+        white-space: nowrap;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
   .seo-nav-tab {
     height: 65px;
     min-width: 70px;
