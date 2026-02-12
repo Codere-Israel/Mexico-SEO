@@ -1,0 +1,180 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+p,
+h1,
+h2,
+h3 {
+  padding: 0 !important;
+  font-size: revert-layer !important;
+}
+
+body {
+  color: #fff !important;
+  font-size: 16px !important;
+  overflow-x: hidden !important;
+}
+
+.text-green {
+  color: #79c000 !important;
+}
+
+.floating-button {
+  padding: 10px 20px;
+}
+
+.table-of-contents i {
+  background: #79c000;
+  border-radius: 2.5px;
+  display: inline-block;
+  margin-right: 10px;
+  height: 9px;
+  width: 9px;
+}
+.table-of-contents li span {
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 400ms ease;
+}
+
+.table-of-contents li span:hover {
+  color: #79c000;
+}
+
+.responsive-picture {
+  height: auto;
+  width: 100%;
+}
+
+.floating {
+  left: 0;
+  right: 0;
+  margin: 5px auto auto;
+  position: absolute;
+  text-align: center;
+  z-index: 2;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  align-content: stretch;
+}
+
+.e-nav {
+  background-color: #333f48;
+  justify-content: center;
+}
+
+.e-nav .hoverable:hover,
+.e-nav .hoverable:hover span {
+  opacity: 0.5;
+  transition: opacity 75ms ease-in-out;
+}
+
+.seo-nav-active {
+  color: #79c000;
+  filter: brightness(0) saturate(100%) invert(77%) sepia(60%) saturate(4287%)
+    hue-rotate(40deg) brightness(96%) contrast(101%);
+}
+
+.seo-nav-active .underline {
+  background-color: #79c000;
+}
+
+.underline {
+  height: 3px;
+  width: 100%;
+}
+
+.c-vr {
+  height: 70%;
+  margin-top: -5px;
+  border-left: 0.5px solid #444444a1;
+}
+
+.seo-btn {
+  background-color: #0d6efd;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 5px 15px;
+  font-size: revert-layer !important;
+}
+
+.show-md {
+  display: none;
+}
+
+.hide-md {
+  display: block;
+}
+
+/* MOBILE */
+@media (max-width: 767px) {
+  .floating-title {
+    font-size: 7.5vw;
+    width: 88.667%;
+  }
+  .floating {
+    height: 37.5vw !important;
+  }
+
+  .e-nav img {
+    height: 30px !important;
+    width: 30px !important;
+  }
+
+  .e-nav {
+    justify-content: space-evenly;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+  .seo-nav-tab {
+    height: 65px;
+    min-width: 70px;
+  }
+}
+
+/* TABLET — 768px to 1023px */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .floating-title {
+    font-size: 7.5vw;
+    width: 66.667%;
+  }
+}
+
+/* LAPTOP — 1024px to 1439px */
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .floating-title {
+    /* w-2/3 md:w-2/5 */
+    font-size: 4.5vw;
+    width: 40%;
+  }
+}
+
+/* DESKTOP / LARGE SCREEN — 1440px and up */
+@media (min-width: 1440px) {
+  .floating-title {
+    font-size: 65px;
+    width: 33.667%;
+    /* text-[7.5vw] lg:text-[4.5vw] xl:text-[3.3vw] */
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .responsive-picture {
+    min-height: 300px;
+  }
+  .hide-md {
+    display: none;
+  }
+  .show-md {
+    display: block;
+  }
+}
