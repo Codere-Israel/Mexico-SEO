@@ -1,4 +1,5 @@
 import { observer } from "mobx-react";
+import "swiper/css";
 import "./App.css";
 import SeoRoutes from "./routes/SeoRoutes";
 import NavigationBar from "./components/NavigationBar";

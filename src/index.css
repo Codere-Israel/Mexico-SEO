@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+  font-family: Roboto;
+}
+
 ::-webkit-scrollbar {
   width: 0 !important;
   height: 0 !important;
@@ -139,6 +143,10 @@ body {
     height: 65px;
     min-width: 70px;
   }
+  .swiper-shadow-right {
+    width: 16px;
+    min-height: 270px;
+  }
 }
 
 /* TABLET — 768px to 1023px */
@@ -177,4 +185,49 @@ body {
   .show-md {
     display: block;
   }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.sport-card {
+  background-color: #333f48;
+  font-size: 12px;
+  cursor: grab;
+}
+
+.odds {
+  background-color: #252a30;
+  margin: 1px;
+  transition: all 400ms ease;
+  cursor: pointer;
+}
+
+.odds:hover {
+  background-color: #79c000aa;
+}
+
+.text-elepsis {
+  max-width: 180px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.swiper-shadow-right {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 370px;
+  width: 40px;
+  z-index: 5;
+  pointer-events: none; /* allow clicking through */
+  background: linear-gradient(to left, #252a30 0%, transparent 100%);
 }
