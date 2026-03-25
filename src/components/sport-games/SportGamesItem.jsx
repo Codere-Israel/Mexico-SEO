@@ -140,7 +140,6 @@ export default function SportGamesItem({ game }) {
                     : "w-0 invisible"
                 }`}
                 src={game.ParticipantHomeJerseyUrl}
-                alt=""
               />
             )}
 
@@ -177,7 +176,6 @@ export default function SportGamesItem({ game }) {
                     : "w-0 invisible"
                 }`}
                 src={game.ParticipantAwayJerseyUrl}
-                alt=""
               />
             )}
           </span>

@@ -39,7 +39,6 @@ const EventosLayout = observer(() => {
           />
           <img
             srcSet={`${PREFIX}/hero-desktop.jpg`}
-            alt=""
             loading="eager"
             className="responsive-picture"
           />

@@ -85,14 +85,13 @@ const ContentLayout = ({ subtopicObject }) => {
         />
         <img
           srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
-          alt=""
           loading="eager"
           className="responsive-picture"
         />
       </picture>
 
       <div className="w-8/9 xl:w-3/5 mx-auto">
-        <SportGames />
+        {myStore?.subtopic === "deportes" && <SportGames />}
         {/* Top Section */}
         <section className="top-section mt-5">
           <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">
@@ -140,7 +139,6 @@ const ContentLayout = ({ subtopicObject }) => {
           // }}
           className="w-10/11 xl:w-3/5 my-4 mx-auto"
           loading="eager"
-          alt=""
         />
       </picture>
     </>
