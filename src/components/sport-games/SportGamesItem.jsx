@@ -1,36 +1,70 @@
-// import { replaceSpanishCharacters } from "../Games";
+const MEXICO_CITY_TIME_ZONE = "America/Mexico_City";
+
+const mexicoDateFormatter = new Intl.DateTimeFormat("en-CA", {
+  timeZone: MEXICO_CITY_TIME_ZONE,
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+
+const mexicoDateTimeFormatter = new Intl.DateTimeFormat("es-MX", {
+  timeZone: MEXICO_CITY_TIME_ZONE,
+  day: "numeric",
+  month: "short",
+  hour: "2-digit",
+  minute: "2-digit",
+});
+
+const mexicoTimeFormatter = new Intl.DateTimeFormat("es-MX", {
+  timeZone: MEXICO_CITY_TIME_ZONE,
+  hour: "2-digit",
+  minute: "2-digit",
+});
+
+function getMexicoDateKey(date) {
+  return mexicoDateFormatter.format(date);
+}
+
+function parseStartDate(raw) {
+  if (!raw) return null;
+
+  const dotNetMatch = raw.match(/\/Date\((\d+)\)\//);
+  if (dotNetMatch) {
+    return new Date(Number(dotNetMatch[1]));
+  }
+
+  const hasTimeZone = /(?:Z|[+-]\d{2}:?\d{2})$/i.test(raw);
+  const normalizedValue = hasTimeZone ? raw : `${raw}Z`;
+  const parsedDate = new Date(normalizedValue);
+
+  if (Number.isNaN(parsedDate.getTime())) {
+    return null;
+  }
+
+  return parsedDate;
+}
 
 export default function SportGamesItem({ game }) {
   function dateHandler(raw) {
-    const options = {
-      day: "numeric",
-      month: "short",
-      hour: "2-digit",
-      minute: "2-digit",
-    };
-    const timestamp = parseInt(raw.match(/\d+/)[0], 10);
-    const tempDate = new Date(timestamp);
+    const tempDate = parseStartDate(raw);
+
+    if (!tempDate) return "";
+
     const now = new Date();
 
-    // Normalize to remove time component for comparison
-    const isSameDay = tempDate.toDateString() === now.toDateString();
+    const isSameDay = getMexicoDateKey(tempDate) === getMexicoDateKey(now);
 
     const tomorrow = new Date();
     tomorrow.setDate(now.getDate() + 1);
-    const isTomorrow = tempDate.toDateString() === tomorrow.toDateString();
+    const isTomorrow =
+      getMexicoDateKey(tempDate) === getMexicoDateKey(tomorrow);
 
-    const formatted = tempDate.toLocaleString("es-ES", options);
+    const formatted = mexicoDateTimeFormatter.format(tempDate);
 
     if (isSameDay)
-      return `hoy ${tempDate.toLocaleTimeString("es-ES", {
-        hour: "2-digit",
-        minute: "2-digit",
-      })}`;
+      return `hoy ${mexicoTimeFormatter.format(tempDate)}`;
     if (isTomorrow)
-      return `mañana ${tempDate.toLocaleTimeString("es-ES", {
-        hour: "2-digit",
-        minute: "2-digit",
-      })}`;
+      return `mañana ${mexicoTimeFormatter.format(tempDate)}`;
 
     return formatted;
   }
