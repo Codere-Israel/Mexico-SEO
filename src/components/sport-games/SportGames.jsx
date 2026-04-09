@@ -71,7 +71,7 @@ export default function SportGames() {
       LeagueName: ligaName,
       IsLive,
       SportHandle: "football",
-      StartDate: `/Date(${new Date(event["@start_time"]).getTime()})/`,
+      StartDate: event["@start_time"],
       betRef,
       Game: {
         Results: event.Mkt[0].Seln.map((odd) => ({
