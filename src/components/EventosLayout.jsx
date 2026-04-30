@@ -17,7 +17,7 @@ const EventosLayout = observer(() => {
       seo: {
         metaTitle: "Eventos Deportivos para Apostar ⋆ Bono hasta $7,000",
         metaDescription:
-          "Conoce los eventos deportivos más populares con Codere. Descubre lo más importante para realizar tus apuestas inteligentemente y vivir la mejor emoción.",
+          "Entra a Codere y domina tus apuestas en línea. Disfruta la mejor oferta en apuestas en vivo y sigue los mercados desde casa. ¡Tu jugada empieza aquí!",
       },
     },
   };
