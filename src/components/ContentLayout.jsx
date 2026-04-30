@@ -128,15 +128,15 @@ const ContentLayout = ({ subtopicObject }) => {
 
         <img
           src={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`} // must use src, not srcSet
-          // onError={(e) => {
-          //   const img = e.currentTarget;
-          //   img.onerror = null;
+          onError={(e) => {
+            const img = e.currentTarget;
+            img.onerror = null;
 
-          //   img.src = `${IMAGE_PREFIX.replace(
-          //     "www",
-          //     "portal-admin",
-          //   )}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`;
-          // }}
+            img.src = `${IMAGE_PREFIX.replace(
+              "www",
+              "portal-admin",
+            )}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`;
+          }}
           className="w-10/11 xl:w-3/5 my-4 mx-auto"
           loading="eager"
         />
