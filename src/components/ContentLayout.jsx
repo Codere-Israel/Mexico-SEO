@@ -1,10 +1,5 @@
 import myStore from "../mobx/myStore";
-import FloatingText from "./FloatingText";
-import { CodereHelmet } from "../data/helpers";
 import { useLocation } from "react-router-dom";
-import TableOfContents from "./TableOfContents";
-import SportGames from "./sport-games/SportGames";
-import { toJS } from "mobx";
 
 const ContentLayout = ({ subtopicObject }) => {
   const splitParagraphs = (text) => text?.split("*")?.filter(Boolean);
@@ -62,37 +57,12 @@ const ContentLayout = ({ subtopicObject }) => {
       </section>
     );
   }
-  const IMAGE_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/${
-    myStore?.topic
-  }/${myStore?.subtopic?.toLowerCase()}`;
-
-  // const IMAGE_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/${
-  //   myStore?.topic
-  // }/${myStore?.subtopic?.toLowerCase()}`;
 
   return (
     <>
-      {CodereHelmet(subtopicObject?.seo, location.pathname)}
-      <FloatingText text={subtopicObject?.floating} />
-
-      <picture>
-        <source
-          srcSet={`${IMAGE_PREFIX}/m-hero.jpg`}
-          media="(max-width: 768px)"
-        />
-        <source
-          srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
-          media="(min-width: 769px)"
-        />
-        <img
-          srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
-          loading="eager"
-          className="responsive-picture"
-        />
-      </picture>
+      {/* {CodereHelmet(subtopicObject?.seo, location.pathname)} */}
 
       <div className="w-8/9 xl:w-3/5 mx-auto">
-        {myStore?.subtopic === "deportes" && <SportGames />}
         {/* Top Section */}
         <section className="top-section mt-5">
           <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">
@@ -108,33 +78,10 @@ const ContentLayout = ({ subtopicObject }) => {
           )}
         </section>
 
-        <div className="max-[767px]:hidden min-[768px]:block">
-          <TableOfContents tableList={tableList} />
-        </div>
-
         {subtopicObject?.content?.map((section, index) =>
           renderSection(section, 1, index),
         )}
       </div>
-
-      {subtopicObject?.id !== "deportes" && (
-        <picture>
-          <source
-            srcSet={`${IMAGE_PREFIX}/m-${myStore.subtopic?.toLowerCase()}-1.jpg`}
-            media="(max-width: 768px)"
-          />
-          <source
-            srcSet={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`}
-            media="(min-width: 769px)"
-          />
-
-          <img
-            src={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`} // must use src, not srcSet
-            className="w-10/11 xl:w-3/5 my-4 mx-auto"
-            loading="eager"
-          />
-        </picture>
-      )}
     </>
   );
 };
