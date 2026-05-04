@@ -61,10 +61,8 @@ export default function SportGamesItem({ game }) {
 
     const formatted = mexicoDateTimeFormatter.format(tempDate);
 
-    if (isSameDay)
-      return `hoy ${mexicoTimeFormatter.format(tempDate)}`;
-    if (isTomorrow)
-      return `mañana ${mexicoTimeFormatter.format(tempDate)}`;
+    if (isSameDay) return `hoy ${mexicoTimeFormatter.format(tempDate)}`;
+    if (isTomorrow) return `mañana ${mexicoTimeFormatter.format(tempDate)}`;
 
     return formatted;
   }
@@ -101,7 +99,7 @@ export default function SportGamesItem({ game }) {
               <div className="flex items-center gap-1">
                 <img
                   style={{ maxWidth: 13 }}
-                  src={`https://www.codere.mx/library/soccer.svg`}
+                  src="https://www.codere.mx/library/soccer.svg"
                 />
                 <span className="text-elepsis">{game.LeagueName}</span>
               </div>
@@ -173,7 +171,7 @@ export default function SportGamesItem({ game }) {
                     ? "w-[26px] visible"
                     : "w-0 invisible"
                 }`}
-                src={game.ParticipantHomeJerseyUrl}
+                src={game.ParticipantHomeJerseyUrl || null}
               />
             )}
 
@@ -209,7 +207,7 @@ export default function SportGamesItem({ game }) {
                     ? "w-[26px] visible"
                     : "w-0 invisible"
                 }`}
-                src={game.ParticipantAwayJerseyUrl}
+                src={game.ParticipantAwayJerseyUrl || null}
               />
             )}
           </span>

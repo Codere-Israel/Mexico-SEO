@@ -4,6 +4,7 @@ import { CodereHelmet } from "../data/helpers";
 import { useLocation } from "react-router-dom";
 import TableOfContents from "./TableOfContents";
 import SportGames from "./sport-games/SportGames";
+import { toJS } from "mobx";
 
 const ContentLayout = ({ subtopicObject }) => {
   const splitParagraphs = (text) => text?.split("*")?.filter(Boolean);
@@ -116,31 +117,24 @@ const ContentLayout = ({ subtopicObject }) => {
         )}
       </div>
 
-      <picture>
-        <source
-          srcSet={`${IMAGE_PREFIX}/m-${myStore.subtopic?.toLowerCase()}-1.jpg`}
-          media="(max-width: 768px)"
-        />
-        <source
-          srcSet={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`}
-          media="(min-width: 769px)"
-        />
+      {subtopicObject?.id !== "deportes" && (
+        <picture>
+          <source
+            srcSet={`${IMAGE_PREFIX}/m-${myStore.subtopic?.toLowerCase()}-1.jpg`}
+            media="(max-width: 768px)"
+          />
+          <source
+            srcSet={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`}
+            media="(min-width: 769px)"
+          />
 
-        <img
-          src={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`} // must use src, not srcSet
-          onError={(e) => {
-            const img = e.currentTarget;
-            img.onerror = null;
-
-            img.src = `${IMAGE_PREFIX.replace(
-              "www",
-              "portal-admin",
-            )}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`;
-          }}
-          className="w-10/11 xl:w-3/5 my-4 mx-auto"
-          loading="eager"
-        />
-      </picture>
+          <img
+            src={`${IMAGE_PREFIX}/d-${myStore.subtopic?.toLowerCase()}-1.jpg`} // must use src, not srcSet
+            className="w-10/11 xl:w-3/5 my-4 mx-auto"
+            loading="eager"
+          />
+        </picture>
+      )}
     </>
   );
 };

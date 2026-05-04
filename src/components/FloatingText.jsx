@@ -5,7 +5,6 @@ import { REGISTER } from "../data/helpers";
 
 const FloatingText = observer(({ text }) => {
   const topic = myStore.topic;
-  console.log("topic > ", topic);
 
   return (
     <div className="floating">

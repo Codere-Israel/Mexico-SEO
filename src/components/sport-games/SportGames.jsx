@@ -39,12 +39,10 @@ export default function SportGames() {
 
     axios.get(ENDPOINT).then((res) => {
       const newGames = res.data.ContentAPI.Sport[0].SBClass[0].SBType[0];
-      console.log(newGames);
       const mappedGames = newGames?.Ev.map((event) => {
         return convertGames(event, newGames?.["@name"]);
       });
 
-      // if (flag === 0) return fetchGames(flag + 1);
       if (mappedGames?.length < 3) return fetchGames(flag + 1);
 
       setTitle(`Próximos partidos ${config?.[flag].title}`);
