@@ -11,12 +11,12 @@ export function CodereHelmet(seo, canonical) {
 
   /* Title */
   const titleEl = document.createElement("title");
-  titleEl.textContent = `${seo?.metaTitle} | Codere®`;
+  titleEl.textContent = `${seo?.title}`;
 
   /* Description */
   const mdes = document.createElement("meta");
   mdes.setAttribute("name", "description");
-  mdes.setAttribute("content", seo?.metaDescription);
+  mdes.setAttribute("content", seo?.description);
 
   /* Canonical */
   var canonicalLink = document.createElement("link");

@@ -1,0 +1,2451 @@
+{
+  "cuenta": {
+    "id": "Cuenta",
+    "label": "Cuenta",
+    "url": "/ayuda/cuenta",
+    "page": {
+      "seo": {
+        "title": "Mi Cuenta Codere: Acceso, Recuperación y Verificación | Codere®",
+        "description": "Encuentra ayuda para tu cuenta Codere: cómo recuperar contraseña, verificar documentos, modificar datos, hacer depósitos, entre otros."
+      },
+      "top": {
+        "title": "Soluciona problemas de tu cuenta: acceso, verificación, retiros y más",
+        "description": "En esta sección encontrarás todas las guías relacionadas con la gestión de tu cuenta Codere: desde cómo registrarte, recuperar tu contraseña o verificar tus documentos, hasta cómo modificar tus datos, cancelar tu cuenta, realizar depósitos y cobrar tus premios en línea o en sucursales."
+      },
+      "content": [
+        {
+          "title": "¿Cómo registrarse en Codere?",
+          "description": "Aprende a crear tu cuenta en Codere.mx paso a paso para comenzar a jugar en apuestas deportivas o casino online."
+        },
+        {
+          "title": "Recuperación de contraseña",
+          "description": "Guía para restablecer tu clave de acceso y volver a entrar a tu cuenta."
+        },
+        {
+          "title": "Verificación de identidad",
+          "description": "Qué documentos necesitas y cómo validarlos para activar tu cuenta y retirar dinero."
+        },
+        {
+          "title": "Modificación de datos personales",
+          "description": "Instrucciones para cambiar correo, celular u otra información vinculada a tu cuenta."
+        },
+        {
+          "title": "Cancelar cuenta Codere",
+          "description": "Pasos para cerrar tu cuenta de forma segura y definitiva."
+        },
+        {
+          "title": "Depósitos disponibles",
+          "description": "Opciones para recargar tu cuenta en tiendas físicas (OXXO, 7-Eleven, sucursales Codere) o en línea con tarjeta, transferencia o billeteras digitales."
+        },
+        {
+          "title": "Cómo comprobar apuestas",
+          "description": "Consulta tus apuestas y resultados en tiempo real desde tu perfil."
+        },
+        {
+          "title": "Cobro online y presencial",
+          "description": "Guía para retirar tus ganancias mediante transferencia bancaria o en efectivo en sucursales Codere."
+        },
+        {
+          "title": "Preguntas frecuentes sobre la cuenta",
+          "ul": [
+            "¿Qué documentos necesito para registrarme en Codere?",
+            "¿Qué hago si no recibo el correo de recuperación de contraseña?",
+            "¿Puedo tener una sola cuenta para deportes y casino?",
+            "¿Cuál es el depósito mínimo en línea y en local?",
+            "¿Cuánto tardan los cobros online y presenciales?"
+          ]
+        },
+        {
+          "title": "¿Necesitas más ayuda?",
+          "description": "Contacta a nuestro soporte 24/7 y resuelve cualquier duda sobre tu cuenta Codere."
+        }
+      ]
+    },
+    "items": {
+      "registro": {
+        "id": "registro",
+        "label": "Registro",
+        "url": "/ayuda/cuenta/registro",
+        "page": {
+          "seo": {
+            "title": "Registro de cuenta: Crea tu perfil fácilmente | Codere®",
+            "description": "Aprende cómo crear tu cuenta en Codere de manera rápida y segura para empezar a disfrutar de todos los juegos y servicios de la plataforma."
+          },
+          "top": {
+            "title": "Cómo crear tu cuenta en Codere México",
+            "description": "Abrir tu cuenta en Codere.mx es rápido, seguro y 100% en línea. En pocos minutos podrás tener tu cuenta activa, reclamar tu bono de bienvenida y comenzar a apostar en deportes o jugar en el casino online."
+          },
+          "content": [
+            {
+              "title": "¿Cómo registrarse en Codere?",
+              "description": "El registro en Codere.mx es muy sencillo y toma solo unos minutos. No necesitas papeleo complicado, aunque te recomendamos tener a la mano tu documento de identidad y tu número de celular para validar tu cuenta sin contratiempos siguiendo los siguientes pasos:",
+              "ul": [
+                "Ingresa a codere.mx",
+                "Haz clic en \"Regístrate\"",
+                "Completa el formulario con tus datos personales",
+                "Crea tu usuario y contraseña",
+                "Acepta los términos y condiciones",
+                "En minutos tendrás tu cuenta activa y lista para usar en apuestas deportivas o casino en vivo."
+              ],
+              "subcontent": [
+                {
+                  "title": "Registro con tarjeta Círculo Premia",
+                  "description": "Si cuentas con tarjeta Círculo Premia, tu registro será aún más rápido:",
+                  "ul": [
+                    "Introduce los 16 o 20 dígitos de la tarjeta",
+                    "Pulsa \"Continuar\"",
+                    "Añade tu número de celular, correo electrónico, usuario y contraseña"
+                  ]
+                },
+                {
+                  "title": "Activar tu bono de bienvenida en deportes o casino",
+                  "description": "Durante el registro podrás elegir tu bono:",
+                  "ul": [
+                    "Deportes: selecciona el bono al registrarte, haz tu depósito mínimo y se activará automáticamente.",
+                    "Casino: selecciona el bono, realiza tu depósito mínimo y juega con saldo extra en tragamonedas, ruleta y blackjack."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "¿Por qué registrarte en Codere.mx?",
+              "ul": [
+                "Proceso rápido y seguro: abre tu cuenta en minutos.",
+                "Bonos exclusivos: deportes o casino, tú eliges.",
+                "Variedad de juegos y mercados: desde Liga MX hasta ruleta en vivo.",
+                "Plataforma regulada en México: autorizada y confiable.",
+                "Depósitos y retiros fáciles: métodos locales y seguros."
+              ]
+            },
+            {
+              "title": "Enlaces de ayuda y soporte",
+              "description": "En Codere promovemos el juego responsable y queremos que disfrutes siempre con equilibrio. Si en algún momento necesitas apoyo, puedes acceder a nuestras herramientas en Juego Responsable o consultar con especialistas en Jugadores Anónimos México. Ambos recursos están disponibles para orientarte y acompañarte cuando lo necesites."
+            },
+            {
+              "title": "Guía rápida (FAQ corta)",
+              "subcontent": [
+                {
+                  "title": "¿Cuánto tarda el registro?",
+                  "description": "Menos de 5 minutos. Una vez verifiques tus datos, podrás empezar a jugar."
+                },
+                {
+                  "title": "¿Qué documentos necesito?",
+                  "description": "Un documento oficial vigente y un número de celular para validar tu cuenta."
+                },
+                {
+                  "title": "¿Cómo activo mi bono?",
+                  "description": "Elige el bono al registrarte, haz tu depósito mínimo y se activa automáticamente."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "password-recovery": {
+        "id": "password-recovery",
+        "label": "Recuperación contraseña",
+        "url": "/ayuda/cuenta/recuperacion-contrasena",
+        "page": {
+          "seo": {
+            "title": "Recuperación de contraseña Codere | Codere®",
+            "description": "Guía para restablecer tu clave de acceso y volver a entrar a tu cuenta Codere."
+          },
+          "top": {
+            "title": "Recuperación de contraseña",
+            "description": "Si olvidaste tu contraseña, puedes restablecerla en pocos pasos desde la pantalla de acceso. Si no recibes el correo de recuperación, revisa tu bandeja de spam o contacta a Atención al Cliente."
+          },
+          "content": [
+            {
+              "title": "Pasos para recuperar tu contraseña",
+              "ul": [
+                "Ingresa a la página de acceso de Codere.",
+                "Haz clic en \"¿Olvidaste tu contraseña?\".",
+                "Introduce el correo electrónico asociado a tu cuenta.",
+                "Revisa tu correo y sigue el enlace recibido.",
+                "Crea una nueva contraseña segura."
+              ]
+            }
+          ]
+        }
+      },
+      "document-verification": {
+        "id": "document-verification",
+        "label": "Verificación documental",
+        "url": "/ayuda/cuenta/verificacion-documental",
+        "page": {
+          "seo": {
+            "title": "Verificación de Documentos para un retiro fácil | Codere®",
+            "description": "Completa la verificación de tus documentos en Codere y asegura tu cuenta para apostar y retirar sin inconvenientes."
+          },
+          "top": {
+            "title": "Verificación de documentos: guía paso a paso",
+            "description": "La verificación en Codere.mx es rápida y segura. Para completarla con éxito, lo primero es tener a la mano tu documento de identidad válido (INE, IFE, Pasaporte mexicano o residencia temporal/permanente), un comprobante de domicilio actualizado y una selfie sosteniendo tu identificación, donde se vea claramente tu rostro y los datos del documento."
+          },
+          "content": [
+            {
+              "title": "¿Cómo verificar tu cuenta en Codere.mx?",
+              "ul": [
+                "Ingresa a tu cuenta y ve a la pestaña \"Documentos\".",
+                "Elige el método de verificación.",
+                "Documento de identidad: validación automática a través de Shufti (si lo inicias en computadora, deberás completarlo desde tu celular).",
+                "Verificación bancaria: opción de enviar tu documentación por correo electrónico.",
+                "Caso especial – Pasaporte: deberás enviar tu pasaporte + comprobante de domicilio a verificacion@codere.mx.",
+                "Sube los archivos solicitados y sigue las recomendaciones que aparecen en pantalla o en el cajero virtual.",
+                "Espera la confirmación: recibirás un correo electrónico con el estado de tu verificación."
+              ],
+              "subcontent": [
+                {
+                  "title": "Consejo",
+                  "description": "Completa la validación lo antes posible para evitar demoras al momento de retirar tus ganancias."
+                }
+              ]
+            },
+            {
+              "title": "¿Cuánto tarda Codere en verificar documentos?",
+              "description": "El tiempo estimado de revisión es de 24 a 48 horas.",
+              "ul": [
+                "Si la validación es automática, tu cuenta quedará verificada en el mismo momento.",
+                "En algunos casos, el proceso puede tardar un poco más, pero siempre recibirás una notificación por correo electrónico con el estado.",
+                "Ten a la mano el número de caso que se envía a tu correo en caso de consultas posteriores."
+              ]
+            },
+            {
+              "title": "Cómo enviar los documentos",
+              "ul": [
+                "Automáticamente: sube tus documentos en la pestaña de verificación de tu cuenta.",
+                "Por correo: si usas pasaporte o no logras validar de manera automática, envía tus documentos a verificacion@codere.mx desde el correo electrónico asociado a tu cuenta."
+              ]
+            },
+            {
+              "title": "¿Qué hago si mis documentos no son aceptados?",
+              "ul": [
+                "Revisa tu correo electrónico, allí se detalla el motivo del rechazo.",
+                "Corrige la información y vuelve a enviar la documentación solicitada.",
+                "Si persiste el problema, contacta a nuestro equipo de Atención al Cliente 24/7, que te ayudará a completar el proceso con éxito."
+              ]
+            }
+          ]
+        }
+      },
+      "data-modification": {
+        "id": "data-modification",
+        "label": "Modificación de datos",
+        "url": "/ayuda/cuenta/modificacion-de-datos-personales",
+        "page": {
+          "seo": {
+            "title": "Actualizar datos personales Codere México | Codere®",
+            "description": "Actualiza tus datos personales en Codere de forma rápida y segura para mantener tu cuenta siempre al día."
+          },
+          "top": {
+            "title": "Solicita la actualización de tus datos en Codere",
+            "description": "Actualizar tus datos en Codere es un proceso seguro y acompañado. En pocos pasos podrás gestionar los cambios necesarios sin complicaciones y con la tranquilidad de estar protegido."
+          },
+          "content": [
+            {
+              "title": "Opción 1 – Contáctanos desde tu correo o teléfono registrado",
+              "description": "Escríbenos desde el correo electrónico o teléfono que tienes asociado a tu cuenta de Codere. De esta manera podremos validar tu identidad de inmediato y avanzar en la actualización de tus datos.*Beneficio inmediato: evitas esperas y aseguras que tu solicitud se procese en segundos."
+            },
+            {
+              "title": "Opción 2 – Si no tienes acceso a tus datos registrados",
+              "description": "En caso de que ya no tengas acceso al correo o teléfono vinculado, no te preocupes. Puedes enviarnos un email a apuestas@codere.mx desde tu nueva dirección.",
+              "subcontent": [
+                {
+                  "title": "Qué debes adjuntar en tu solicitud",
+                  "description": "Para validar tu identidad, incluye:",
+                  "ul": [
+                    "Imagen de tu IFE por ambas caras.",
+                    "Una selfie sujetando el documento junto a tu rostro de manera legible."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "¿Por qué no puedes modificar tus datos directamente?",
+              "description": "Por motivos de seguridad, no es posible que realices cambios de forma autónoma en tu cuenta. Nuestro equipo se encarga de gestionarlos por ti, garantizando siempre tu protección y la de tu información personal.*¿Necesitas hacer el cambio ahora? Escríbenos y estaremos listos para ayudarte en cada paso: apuestas@codere.mx"
+            }
+          ]
+        }
+      },
+      "account-cancellation": {
+        "id": "account-cancellation",
+        "label": "Cancelación de cuenta",
+        "url": "/ayuda/cuenta/cancelacion-de-la-cuenta",
+        "page": {
+          "seo": {
+            "title": "Cancelar tu Cuenta Codere: Pasos y Opciones | Codere®",
+            "description": "Descubre los pasos para cerrar tu cuenta de Codere fácilmente y de forma segura cuando lo necesites."
+          },
+          "top": {
+            "title": "Elimina tu cuenta de Codere fácil y seguro",
+            "description": "En Codere tienes el control de tu experiencia de juego. Si deseas darte un respiro o cerrar tu cuenta definitivamente, te acompañamos paso a paso para que lo hagas de forma rápida, segura y sin complicaciones."
+          },
+          "content": [
+            {
+              "title": "Solicitar la eliminación o autoexclusión de una cuenta",
+              "description": "Envía tu solicitud desde el correo electrónico asociado a tu cuenta a apuestas@codere.mx. Puedes elegir entre dos opciones:",
+              "ul": [
+                "Autoexclusión temporal: suspende tu cuenta por un periodo determinado y vuelve cuando lo decidas.",
+                "Baja definitiva: cierra tu cuenta de manera permanente."
+              ]
+            },
+            {
+              "title": "¿Qué sucede con mis datos después de cancelar la cuenta?",
+              "description": "En Codere nos tomamos en serio la seguridad de tu información. Una vez cancelada tu cuenta:",
+              "ul": [
+                "Conservamos algunos datos según lo exige la normativa vigente.",
+                "Esta información se utiliza solo para cumplir obligaciones legales, regulatorias y de prevención de fraude.",
+                "Todos tus datos se manejan de forma confidencial y protegida."
+              ]
+            },
+            {
+              "title": "¿Puedo recuperar mi cuenta después de cancelarla?",
+              "description": "Depende del tipo de cierre que elijas:",
+              "ul": [
+                "Autoexclusión temporal: tu cuenta se reactivará automáticamente al finalizar el plazo indicado, y podrás volver a apostar sin pasos adicionales.",
+                "Baja definitiva: tu cuenta no podrá reactivarse. Respetamos tu decisión y no será posible volver a acceder."
+              ]
+            }
+          ]
+        }
+      },
+      "deposits": {
+        "id": "deposits",
+        "label": "Depósito en local y en línea",
+        "url": "/ayuda/cuenta/depositos-online-y-local",
+        "page": {
+          "seo": {
+            "title": "Cómo depositar en tu cuenta: métodos de pago | Codere®",
+            "description": "Descubre cómo depositar en Codere rápidamente, con métodos online o en locales, y comienza a apostar sin complicaciones."
+          },
+          "top": {
+            "title": "Cómo depositar en Codere y empezar a jugar al instante",
+            "description": "Depositar en Codere es muy sencillo. En minutos tendrás saldo disponible para apostar y disfrutar de tus juegos favoritos. Aquí te guiamos paso a paso para que elijas el método que más se adapte a ti y empieces a jugar sin complicaciones."
+          },
+          "content": [
+            {
+              "title": "Depósitos online: el primer paso para apostar",
+              "description": "Antes de depositar, asegúrate de estar registrado. Si aún no lo estás, regístrate y activa tu cuenta. Una vez dentro, solo necesitas cargar saldo. Depositar significa contar con dinero listo para apostar cuando quieras, y además podrás retirarlo en cualquier momento."
+            },
+            {
+              "title": "Depósito en Book: efectivo y sin necesidad de banco",
+              "description": "Aprovecha la red de books Codere para depositar en efectivo, de forma inmediata y sin tarjetas. El proceso es simple:",
+              "ul": [
+                "Dirígete a tu book autorizado más cercano.",
+                "Inicia sesión en tu cuenta desde tu celular y selecciona \"Depositar en book\" en el menú.",
+                "Obtén el código de barras que identificará tu cuenta.",
+                "Entrégalo al operador junto con el efectivo.",
+                "¡Listo! Tu saldo estará disponible de inmediato."
+              ],
+              "subcontent": [
+                {
+                  "title": "Importante",
+                  "description": "Recibirás un SMS confirmando tu depósito. Revísalo en el mismo book para resolver cualquier error al instante."
+                }
+              ]
+            },
+            {
+              "title": "Métodos de depósito disponibles",
+              "subcontent": [
+                {
+                  "title": "Tarjeta de débito o crédito (Visa/Mastercard)",
+                  "description": "Depósitos instantáneos, seguros y sin comisiones. Accede a \"Depositar online > Visa/Mastercard\" en tu cuenta. Recuerda que el depósito mínimo es de $100 y que solo puedes usar tarjetas a tu nombre."
+                },
+                {
+                  "title": "Paysafecard: recarga fácil en tiendas",
+                  "description": "Compra una tarjeta en Oxxo, 7-Eleven, Soriana y muchos más.",
+                  "ul": [
+                    "Rasca el código o usa el ticket con PIN de 16 dígitos.",
+                    "Ingresa el PIN en \"Depositar online > Paysafecard\".",
+                    "¡Saldo disponible al instante para jugar!"
+                  ]
+                },
+                {
+                  "title": "American Express (AMEX)",
+                  "description": "Deposita con tu tarjeta de crédito de forma fácil y rápida:",
+                  "ul": [
+                    "Accede a \"Depositar online > American Express\".",
+                    "Ingresa monto, tu número INE y los datos de la tarjeta.",
+                    "Confirma y paga.",
+                    "Tu saldo estará disponible inmediatamente."
+                  ]
+                },
+                {
+                  "title": "Paynet: depósitos en efectivo en cientos de puntos",
+                  "ul": [
+                    "Accede a \"Depositar online > Paynet\".",
+                    "Obtén tu código de barras de referencia.",
+                    "Paga en establecimientos como 7-Eleven, Walmart, Sam's Club, Farmacias del Ahorro y muchos más.",
+                    "Tu depósito se acreditará automáticamente."
+                  ]
+                },
+                {
+                  "title": "SPEI Transferencia",
+                  "description": "Deposita desde tu banca en línea en cualquier momento (servicio disponible 24/7).",
+                  "ul": [
+                    "Entra en \"Depositar online > SPEI Transferencia\".",
+                    "Ingresa el importe y tu número INE.",
+                    "Obtén los datos de pago (CLABE, referencia, concepto).",
+                    "Realiza la transferencia desde tu banco.",
+                    "Tu depósito se reflejará en tu cuenta de 1 a 4 horas hábiles."
+                  ]
+                },
+                {
+                  "title": "OxxoPay",
+                  "description": "Ideal si prefieres pagar en efectivo:",
+                  "ul": [
+                    "Genera un código de barras desde \"Depositar online > OxxoPay\".",
+                    "Llévalo impreso o en tu celular a cualquier OXXO.",
+                    "Paga en caja y muestra tu IFE.",
+                    "Tu saldo se acreditará en 24 a 72 horas."
+                  ]
+                },
+                {
+                  "title": "Todito Cash",
+                  "description": "Deposita con tu tarjeta Todito Cash:",
+                  "ul": [
+                    "Accede a \"Depositar online > Todito Cash\".",
+                    "Introduce el importe, tus datos y confirma.",
+                    "Tu saldo se activará en 24 a 48 horas."
+                  ]
+                },
+                {
+                  "title": "Métodos próximamente disponibles",
+                  "description": "Muy pronto podrás depositar también con MercadoPago, Astropay, 7-Eleven, Círculo K, Farmacias del Ahorro, Superama y Walmart."
+                }
+              ]
+            },
+            {
+              "title": "Verificar el estado de tu depósito",
+              "description": "Normalmente el importe se refleja de inmediato. Si no aparece, revisa que no se haya descontado de tu cuenta bancaria."
+            },
+            {
+              "title": "Tiempos de acreditación por método",
+              "table": {
+                "headers": ["Método", "Tiempo de acreditación"],
+                "rows": [
+                  ["Visa/Mastercard", "Inmediato"],
+                  ["Paysafecard", "Inmediato"],
+                  ["Paynet", "Inmediato"],
+                  ["AMEX", "Inmediato"],
+                  ["SPEI", "1 a 4 horas"],
+                  ["OxxoPay", "Hasta 72 horas"],
+                  ["Todito Cash", "24 a 48 horas"]
+                ]
+              }
+            },
+            {
+              "title": "¿Qué hacer si tu depósito no aparece?",
+              "description": "Contacta con nuestro servicio de Atención al Cliente. Adjunta un comprobante lo más completo posible (fecha, hora, monto, titular y referencia) para que podamos ayudarte de inmediato."
+            }
+          ]
+        }
+      },
+      "bet-verification": {
+        "id": "bet-verification",
+        "label": "Comprobación de apuesta",
+        "url": "/ayuda/cuenta/comprobacion-de-apuesta",
+        "page": {
+          "seo": {
+            "title": "Comprueba tus apuestas y resultados | Codere®",
+            "description": "Consulta el estado de tus apuestas y boletos en Codere: historial, resultados (ganador/anulado), balance y facturas. Aprende cómo revisarlo paso a paso."
+          },
+          "top": {
+            "title": "Revisa el estado de tus apuestas y boletos en Codere",
+            "description": "En Codere revisar tus apuestas es rápido y sencillo. Con solo unos clics podrás confirmar el estado de tus tickets, consultar tu balance y resolver cualquier duda en segundos."
+          },
+          "content": [
+            {
+              "title": "Cómo comprobar una apuesta desde tu cuenta",
+              "ul": [
+                "Inicia sesión en tu cuenta de Codere.",
+                "Dirígete al menú superior y selecciona \"Mi balance\".",
+                "Revisa tu historial de transacciones usando filtros por fecha o estado."
+              ]
+            },
+            {
+              "title": "Cómo saber si tu boleto o ticket está premiado",
+              "ul": [
+                "Accede a tu cuenta y selecciona \"Mi cuenta\" en el menú superior.",
+                "En el historial de apuestas, usa los filtros por fecha o estado.",
+                "El campo \"Estatus\" mostrará tus resultados como: Ganador, Derrota o Anular."
+              ]
+            },
+            {
+              "title": "Dónde consultar las facturas de tus apuestas",
+              "description": "Desde tu perfil, accede a la sección \"Mi balance\". Ahí encontrarás los comprobantes de cada apuesta realizada, listos para descargar o consultar cuando lo necesites."
+            },
+            {
+              "title": "Qué hacer si no estás de acuerdo con la resolución de tu apuesta",
+              "ul": [
+                "Verifica el resultado final del evento en fuentes oficiales.",
+                "Consulta las reglas de cada mercado en el enlace oficial de Reglas de apuestas Codere.",
+                "Si aún así consideras que tu apuesta fue resuelta de manera incorrecta, contacta con Atención al Cliente para que lo revisen cuanto antes."
+              ]
+            },
+            {
+              "title": "Promociones: qué hacer si no se abonan",
+              "description": "Si tu apuesta cumple con los requisitos de una promoción y el beneficio no se ha abonado: contacta con Atención al Cliente. Ellos validarán la situación y lo escalarán con el departamento correspondiente de inmediato."
+            }
+          ]
+        }
+      },
+      "withdrawals": {
+        "id": "withdrawals",
+        "label": "Cobro online y presencial",
+        "url": "/ayuda/cuenta/cobro-online-y-local",
+        "page": {
+          "seo": {
+            "title": "Cómo retirar en Codere: cobro online y en efectivo | Codere®",
+            "description": "Aprende cómo retirar tus ganancias en Codere: cobros online o en efectivo, métodos disponibles, requisitos, tiempos de pago y qué hacer si tu retiro falla."
+          },
+          "top": {
+            "title": "Cómo cobrar tus ganancias en Codere de forma fácil y segura",
+            "description": "En Codere cobrar tus ganancias es rápido, seguro y sin complicaciones. Ya sea que prefieras hacerlo en línea o en efectivo, siempre tendrás opciones disponibles para disponer de tu dinero en cuestión de minutos."
+          },
+          "content": [
+            {
+              "title": "Retiro online: tu saldo siempre disponible",
+              "description": "El dinero que tengas en tu cuenta online estará siempre listo para retirarse. Solo tienes que ingresar a tu perfil y seleccionar la opción \"Retiro\".",
+              "subcontent": [
+                {
+                  "title": "Métodos de retiro online disponibles",
+                  "description": "Actualmente puedes retirar tus ganancias mediante:",
+                  "ul": [
+                    "SPEI Transferencia: recibe tu dinero directo en tu cuenta bancaria.",
+                    "Oxxo efectivo: cobra en tu tienda OXXO de manera práctica y cercana.",
+                    "Tarjeta Círculo Premia: retira tus fondos fácilmente a tu tarjeta.",
+                    "Local Codere: acude a un punto autorizado para retirar en ventanilla.",
+                    "AstroPay: cobra de manera digital con rapidez y seguridad."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Retiro por transferencia bancaria (método en proceso de reemplazo)",
+              "description": "Aunque está siendo sustituido, este método sigue disponible en algunos casos. Para usarlo:",
+              "ul": [
+                "Inicia sesión y dirígete a \"Cobrar online > Transferencia bancaria\".",
+                "Ingresa el nombre del titular de la cuenta bancaria (debe coincidir con tu cuenta Codere).",
+                "Escribe la CLABE de 18 dígitos.",
+                "Indica el monto que deseas cobrar y confirma la solicitud.",
+                "El departamento de seguridad revisará tu solicitud y en 2 a 3 días hábiles tendrás el dinero en tu cuenta corriente."
+              ],
+              "subcontent": [
+                {
+                  "title": "Importante",
+                  "description": "La primera vez que uses este método, deberás enviar un comprobante bancario (recibo de luz, internet, celular, etc.) con tu nombre completo y el número de cuenta destino."
+                }
+              ]
+            },
+            {
+              "title": "Retiro en Book: cobra en efectivo al instante",
+              "description": "Si ya completaste tu verificación documental, podrás retirar dinero directamente en cualquier Book autorizado:",
+              "ul": [
+                "Ingresa a tu cuenta desde el celular.",
+                "Selecciona \"Cobro en Book\" en el menú.",
+                "Introduce el monto a retirar (mínimo $10 MXN).",
+                "Obtén tu código de barras y muéstralo junto a tu identificación oficial (INE o pasaporte).",
+                "Recibe el efectivo de inmediato en ventanilla."
+              ]
+            },
+            {
+              "title": "Cómo habilitar los cobros en tu cuenta",
+              "description": "Para habilitar las opciones de retiro, es necesario estar verificado documentalmente.",
+              "ul": [
+                "Si ya lo estás, pero no aparecen los métodos disponibles, contacta con Atención al Cliente para que gestionen tu solicitud."
+              ]
+            },
+            {
+              "title": "¿Cuánto tarda en pagar Codere?",
+              "description": "Los tiempos de pago dependen del método elegido:",
+              "ul": [
+                "Retiro en efectivo o local Codere: inmediato tras la validación.",
+                "Retiro online (SPEI, AstroPay, Oxxo efectivo, tarjeta Círculo Premia): puede ser inmediato o tardar algunos días según el método y la revisión de seguridad."
+              ]
+            },
+            {
+              "title": "Qué hacer si tu cobro no se realizó correctamente",
+              "ul": [
+                "Revisa si el saldo regresó automáticamente a tu cuenta de juego.",
+                "Si no aparece, contacta de inmediato con nuestro equipo de Atención al Cliente para resolver la incidencia cuanto antes."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "atencion-cliente": {
+    "id": "Atención al cliente",
+    "label": "Atención al cliente",
+    "url": "/ayuda/atencion-a-clientes",
+    "page": {
+      "seo": {
+        "title": "Contacto Codere México: Atención al Cliente 24/7 | Codere®",
+        "description": "Soporte Codere México: chat en vivo, teléfono gratuito, WhatsApp y correo para ayuda con tu cuenta, apuestas y cobros."
+      },
+      "top": {
+        "title": "Ayuda y atención al cliente en Codere México",
+        "description": "El equipo de soporte de Codere está preparado para ayudarte en cualquier momento. Accede al canal que más te convenga y obtén asistencia personalizada en segundos."
+      },
+      "content": [
+        {
+          "title": "Chat online: ayuda inmediata las 24 horas",
+          "description": "Accede desde el ícono de chat en el sitio web.",
+          "ul": [
+            "Disponible 24/7, los 365 días del año.",
+            "Respuestas en tiempo real para resolver cualquier duda mientras juegas."
+          ]
+        },
+        {
+          "title": "Llamadas gratuitas: atención directa todo el día",
+          "description": "Llama al número 800 227 4667 y habla con un asesor especializado.",
+          "ul": [
+            "Servicio disponible 24 horas al día, 7 días a la semana.",
+            "Llamada gratuita desde cualquier lugar de México."
+          ]
+        },
+        {
+          "title": "Email: consultas detalladas",
+          "description": "Envía un correo a apuestas@codere.mx para consultas que requieran información más extensa o envío de documentos."
+        },
+        {
+          "title": "WhatsApp: soporte práctico desde tu móvil",
+          "description": "Escribe al número +52 55 3697 7637.",
+          "ul": [
+            "Disponible de lunes a domingo, de 9:00 am a 10:00 pm.",
+            "Ideal para consultas rápidas sin salir de tu celular."
+          ]
+        },
+        {
+          "title": "Comparativa de canales de contacto",
+          "table": {
+            "headers": [
+              "Canal",
+              "Disponibilidad",
+              "Medio de contacto",
+              "Ideal para…"
+            ],
+            "rows": [
+              [
+                "Chat Online",
+                "24/7 todo el año",
+                "Ícono en el sitio",
+                "Soporte inmediato en tiempo real"
+              ],
+              [
+                "Llamadas",
+                "24/7 todo el año",
+                "800 227 4667",
+                "Consultas directas con un asesor"
+              ],
+              [
+                "Email",
+                "Según gestión interna",
+                "apuestas@codere.mx",
+                "Enviar documentos o consultas largas"
+              ],
+              [
+                "WhatsApp",
+                "L-D, 9:00 a 22:00 hrs",
+                "+52 55 3697 7637",
+                "Mensajes rápidos desde el móvil"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "items": {}
+  },
+  "dudas-codere": {
+    "id": "Dudas casa de apuestas",
+    "label": "Dudas casa de apuestas",
+    "url": "/ayuda/dudas-codere",
+    "page": {
+      "seo": {
+        "title": "Dudas sobre Apuestas en Codere: Deportes y Casino | Codere®",
+        "description": "¿Tienes dudas sobre cómo apostar en Codere? Aquí encontrarás ayuda sobre apuestas deportivas, casino y uso de la plataforma."
+      },
+      "top": {
+        "title": "Guía de ayuda para apuestas deportivas y casino en Codere",
+        "description": "En esta sección encontrarás toda la información necesaria para resolver tus dudas sobre apuestas deportivas y juegos de casino en Codere. Te ofrecemos guías claras, glosarios y respuestas a preguntas frecuentes para que disfrutes de una experiencia segura, fácil y completa."
+      },
+      "content": [
+        {
+          "title": "Dudas sobre Apuestas deportivas en Codere",
+          "description": "Encuentra todo lo que necesitas para entender, realizar y aprovechar al máximo tus apuestas deportivas online."
+        },
+        {
+          "title": "Dudas acerca de los Juegos de casino en Codere",
+          "description": "Si prefieres la emoción de los juegos de casino, aquí encontrarás explicaciones claras y recursos que te ayudarán a jugar con confianza."
+        },
+        {
+          "title": "¿Necesitas más ayuda?",
+          "description": "Si aún tienes dudas, consulta otras secciones de nuestro Centro de Ayuda Codere o ponte en contacto con nuestro servicio de atención al cliente 24/7. También puedes revisar artículos relacionados para resolver temas específicos sobre pagos, verificación de cuenta o seguridad."
+        }
+      ]
+    },
+    "subCategories": [
+      {
+        "title": "Dudas apuestas deportivas",
+        "items": [
+          "how-to-bet",
+          "betting-glossary",
+          "faq",
+          "bet-types",
+          "bonus-terms"
+        ]
+      },
+      {
+        "title": "Dudas juegos de casino",
+        "items": [
+          "casino-glossary",
+          "casino-faq",
+          "casino-bonus",
+          "poker-rules"
+        ]
+      }
+    ],
+    "items": {
+      "how-to-bet": {
+        "id": "how-to-bet",
+        "label": "Qué, cómo y dónde apostar",
+        "url": "/ayuda/dudas-codere/apuestas/como-y-donde-apostar",
+        "page": {
+          "seo": {
+            "title": "Aprende a Apostar en Codere: Guía Completa | Codere®",
+            "description": "¿Nuevo en las apuestas deportivas? Aprende cómo apostar en Codere, dónde hacerlo y qué mercados están disponibles."
+          },
+          "top": {
+            "title": "Cómo apostar en Codere: mercados y beneficios",
+            "description": "Apostar en Codere es una experiencia rápida, sencilla y segura. Aquí aprenderás qué mercados están disponibles, cómo realizar tu apuesta paso a paso y dónde jugar para disfrutar al máximo cada evento deportivo."
+          },
+          "content": [
+            {
+              "title": "Qué apostar en Codere",
+              "description": "En Codere puedes elegir entre más de 30 deportes con ligas y torneos reconocidos a nivel mundial:",
+              "ul": [
+                "Deportes principales: fútbol, básquetbol, béisbol, NFL, boxeo, tenis y eSports.",
+                "Competiciones destacadas: Liga MX, Champions League, NBA, MLB y más."
+              ],
+              "subcontent": [
+                {
+                  "title": "Mercados de apuestas más utilizados",
+                  "ul": [
+                    "Ganador del partido.",
+                    "Marcador exacto.",
+                    "Totales (más/menos).",
+                    "Hándicap.",
+                    "Ambos equipos anotan.",
+                    "Apuestas en vivo."
+                  ]
+                },
+                {
+                  "title": "Funciones que potencian tu experiencia",
+                  "ul": [
+                    "Apuestas en vivo para reaccionar en tiempo real.",
+                    "Pago Anticipado, con el que aseguras tus ganancias antes de que finalice el partido.",
+                    "Crea tu apuesta, personaliza tu jugada en segundos."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cómo realizar una apuesta en Codere",
+              "description": "Hacer una apuesta en Codere es sencillo y solo toma unos minutos.",
+              "subcontent": [
+                {
+                  "title": "Pasos para apostar",
+                  "ul": [
+                    "Regístrate y verifica tu cuenta en la web o app.",
+                    "Inicia sesión.",
+                    "Deposita fondos o confirma que tienes saldo disponible.",
+                    "Accede a Deportes o Deportes en Vivo.",
+                    "Selecciona un evento.",
+                    "Escoge el mercado o cuota; tu boleto se generará de inmediato.",
+                    "Ingresa el monto de la apuesta.",
+                    "Haz clic en Apostar o confirma en Aceptar.",
+                    "Consulta tus apuestas activas en el menú Apuestas abiertas o en tu historial."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Dónde hacer apuestas en Codere",
+              "description": "Tienes varias formas de apostar con la misma seguridad:",
+              "ul": [
+                "Sitio web oficial: apuestas.codere.mx",
+                "Aplicación móvil: disponible en Android e iOS.",
+                "Locales físicos: más de 90 books autorizados en todo México."
+              ]
+            },
+            {
+              "title": "Cuándo retirar dinero de apuestas deportivas",
+              "description": "Una vez que tu apuesta sea ganadora, las ganancias se acreditarán automáticamente a tu saldo. Podrás disponer de ese dinero en el momento que lo desees, siempre que tu cuenta esté verificada y los cobros estén habilitados."
+            },
+            {
+              "title": "Qué ocurre si se suspende un partido",
+              "description": "Si un evento no se disputa en el plazo establecido, las apuestas serán anuladas, salvo que el mercado ya se haya resuelto antes de la suspensión."
+            },
+            {
+              "title": "Cómo aumentar tus posibilidades de ganar",
+              "description": "Sigue estas recomendaciones para apostar de forma inteligente:",
+              "ul": [
+                "Utiliza las herramientas de la plataforma como Pago Anticipado.",
+                "Gestiona tu banca de manera responsable.",
+                "Elige apuestas con mayor probabilidad según tu análisis."
+              ]
+            },
+            {
+              "title": "Dónde encuentro apuestas de fútbol en Codere",
+              "description": "Accede fácilmente a los partidos de fútbol y sus mercados:",
+              "ul": [
+                "Inicia sesión en la app o en la web de Codere.mx.",
+                "Ve al menú principal y selecciona Deportes o Deporte en vivo.",
+                "Haz clic en la categoría Fútbol.",
+                "Consulta las principales competiciones como Liga MX, Premier League o Champions League.",
+                "Selecciona la competición y despliega los partidos disponibles."
+              ]
+            },
+            {
+              "title": "Qué significa \"fondos disponibles\" en Codere",
+              "description": "Los fondos disponibles son el dinero libre que tienes en tu cuenta para apostar de inmediato o retirar cuando lo desees. Es tu saldo activo, listo para usar en cualquier momento."
+            }
+          ]
+        }
+      },
+      "betting-glossary": {
+        "id": "betting-glossary",
+        "label": "Glosario apuestas deportivas",
+        "url": "/ayuda/dudas-codere/apuestas/glosario",
+        "page": {
+          "seo": {
+            "title": "Glosario de Apuestas Codere: Términos Explicados | Codere®",
+            "description": "Aprende los conceptos clave de las apuestas deportivas con el glosario de Codere y mejora tu experiencia al apostar."
+          },
+          "top": {
+            "title": "Glosario de términos y conceptos de apuestas deportivas",
+            "description": "Este glosario reúne los términos más importantes que todo usuario debe conocer antes de apostar en Codere. Aquí encontrarás explicaciones claras, beneficios inmediatos y ejemplos prácticos que harán tu experiencia más segura, rápida y entretenida."
+          },
+          "content": [
+            {
+              "title": "Apuesta",
+              "description": "Monto de dinero que decides arriesgar en un juego regulado, con la posibilidad de obtener un premio mayor. En Codere puedes hacerlo en segundos y con total seguridad."
+            },
+            {
+              "title": "Apuesta anticipada",
+              "description": "Se trata de apuestas sobre competiciones futuras en las que aún no se conocen todos los participantes."
+            },
+            {
+              "title": "Boleto",
+              "description": "Documento o registro electrónico que acredita tu participación en una apuesta o sorteo. Se genera en segundos y garantiza tus derechos."
+            },
+            {
+              "title": "Coeficiente de apuesta con momio decimal",
+              "description": "Cifra que determina la ganancia de una apuesta ganadora al multiplicarse por el importe apostado. No incluye la devolución del importe inicial.*Ejemplo: si apuestas $100 con coeficiente 2.5, la ganancia será $250."
+            },
+            {
+              "title": "Derecha",
+              "description": "Apuesta a un único pronóstico. Es equivalente a la apuesta simple: si aciertas, ganas."
+            },
+            {
+              "title": "Exacta",
+              "description": "Pronostica el ganador y el segundo lugar de una carrera de caballos o galgos.",
+              "ul": [
+                "Exacta Box: a dos competidores, sin importar el orden.",
+                "Exacta Dobles: en 2 o más carreras, en orden exacto.",
+                "Exacta Dobles Box: en varias carreras, sin importar el orden de llegada."
+              ]
+            },
+            {
+              "title": "Ganador y Place",
+              "description": "Dos apuestas sobre el mismo competidor: una para ganar y otra para quedar en posición destacada (place)."
+            },
+            {
+              "title": "Ganadora",
+              "description": "Apuesta que acierta el pronóstico elegido y tiene derecho a premio."
+            },
+            {
+              "title": "Ganancia",
+              "description": "Beneficio obtenido después de descontar el importe apostado y los impuestos aplicables."
+            },
+            {
+              "title": "Hándicap",
+              "description": "Consiste en aplicar una ventaja o desventaja virtual a un equipo para equilibrar las probabilidades.",
+              "ul": [
+                "Hace más emocionante el encuentro.",
+                "Mejores cuotas disponibles.",
+                "Posibilidad de diseñar estrategias inteligentes."
+              ]
+            },
+            {
+              "title": "Historial",
+              "description": "Sección de tu cuenta donde puedes ver todas tus apuestas de los últimos 60 días."
+            },
+            {
+              "title": "Importe apostado",
+              "description": "Cantidad de dinero invertida en uno o varios pronósticos."
+            },
+            {
+              "title": "Marcador",
+              "description": "Número de goles, tantos o puntos que obtiene cada equipo en un partido."
+            },
+            {
+              "title": "Margen de victoria",
+              "description": "Diferencia de goles o puntos entre el ganador y el perdedor."
+            },
+            {
+              "title": "Mercado",
+              "description": "Cada opción disponible para apostar en un evento, como resultado final, número de goles o hándicap."
+            },
+            {
+              "title": "Momio",
+              "description": "Número que refleja cuánto puedes ganar y la probabilidad implícita del resultado.*Fórmulas básicas: Coeficiente x Importe Apostado = Ganancia, Momio = Coeficiente + 1, Momio x Importe Apostado = Premio."
+            },
+            {
+              "title": "Multi",
+              "description": "Apuesta acumulada de 4 o más pronósticos distintos. Debes acertarlos todos para ganar."
+            },
+            {
+              "title": "Nivelada",
+              "description": "En carreras, se asignan distintos pesos a los caballos para equilibrar sus posibilidades de ganar."
+            },
+            {
+              "title": "Nula",
+              "description": "Apuesta invalidada según las reglas del evento. El importe apostado se devuelve."
+            },
+            {
+              "title": "Parlay",
+              "description": "Apuesta combinada de 2 o más pronósticos en la que debes acertar todos para obtener premio."
+            },
+            {
+              "title": "Perdedora",
+              "description": "Apuesta cuyo pronóstico no fue acertado."
+            },
+            {
+              "title": "Premio",
+              "description": "Retribución total, en efectivo o especie, que obtienes al ganar una apuesta."
+            },
+            {
+              "title": "Pronóstico",
+              "description": "Predicción que realizas sobre el resultado de un evento."
+            },
+            {
+              "title": "Round Robin",
+              "description": "Apuesta que combina varias selecciones en grupos automáticos. Basta con acertar una combinación para obtener premio."
+            },
+            {
+              "title": "Selección",
+              "description": "Cada opción disponible dentro de un mercado de apuestas."
+            },
+            {
+              "title": "Simple",
+              "description": "Apuesta a un único resultado. Fácil, rápida y directa."
+            },
+            {
+              "title": "Trifecta",
+              "description": "Debes acertar el 1º, 2º y 3º lugar en orden exacto en una carrera.*Trifecta Box: apuestas a 3 o más competidores; basta con que terminen en las tres primeras posiciones, sin importar el orden."
+            },
+            {
+              "title": "Unidades mínima y máxima de la apuesta",
+              "description": "Cantidades límite (mínimas y máximas) que pueden formalizarse en cada tipo de apuesta."
+            },
+            {
+              "title": "Validación de la apuesta",
+              "description": "Registro y aceptación oficial de tu jugada por parte de Codere, junto con la entrega del comprobante digital."
+            },
+            {
+              "title": "Altas y bajas",
+              "description": "Apuesta sobre si el total de goles o puntos de un partido será mayor (altas) o menor (bajas) a una cifra establecida."
+            },
+            {
+              "title": "Cerrar apuesta",
+              "description": "Opción que te permite asegurar una ganancia parcial o reducir pérdidas antes de que termine el evento."
+            },
+            {
+              "title": "1X2",
+              "description": "Apuesta clásica sobre el resultado final de un partido: 1 (local), X (empate), 2 (visitante)."
+            }
+          ]
+        }
+      },
+      "faq": {
+        "id": "faq",
+        "label": "Preguntas frecuentes",
+        "url": "/ayuda/dudas-codere/apuestas/preguntas-frecuentes",
+        "page": {
+          "seo": {
+            "title": "FAQs de Apuestas: Depósitos, Cuotas y En Vivo | Codere®",
+            "description": "Encuentra respuestas rápidas a las dudas más comunes sobre apuestas en Codere: límites, cuotas y funcionamiento."
+          },
+          "top": {
+            "title": "Respuestas a las preguntas más comunes sobre apuestas en Codere",
+            "description": "A continuación encontrarás las respuestas a las dudas más comunes de los usuarios, organizadas en formato de preguntas y respuestas claras."
+          },
+          "content": [
+            {
+              "title": "¿Cuál es el depósito mínimo y el monto mínimo/máximo para apostar?",
+              "description": "El depósito mínimo suele ser de 100 MXN, dependiendo del método de pago elegido. La apuesta mínima varía según el mercado, pero normalmente inicia desde 1 MXN. Los límites máximos cambian según el evento, la cuota y el tipo de apuesta. Consulta los métodos de depósito disponibles para elegir el que más te convenga."
+            },
+            {
+              "title": "¿Qué pasa si se suspende un partido en Codere?",
+              "description": "Si un evento se suspende, la apuesta se cancela y se devuelve el dinero, salvo que el resultado ya estuviera definido antes de la suspensión."
+            },
+            {
+              "title": "¿Por qué cambian las cuotas constantemente?",
+              "description": "Las cuotas se actualizan en tiempo real según la evolución del partido, la demanda del mercado y otros factores.*Beneficio inmediato: puedes aprovechar las mejores oportunidades en el momento justo."
+            },
+            {
+              "title": "¿Puedo apostar en vivo en Codere?",
+              "description": "Sí. Puedes apostar mientras se juega el partido con cuotas que cambian al instante. Entra en la sección de Deportes en Vivo y vive la emoción minuto a minuto."
+            },
+            {
+              "title": "¿Puedo cancelar una apuesta ya realizada?",
+              "description": "No. Una vez confirmada, la apuesta no puede cancelarse.*Recomendación: revisa siempre tu boleto antes de confirmar. En algunos eventos puedes usar la función de Cerrar Apuesta para asegurar ganancias parciales o reducir pérdidas."
+            },
+            {
+              "title": "¿Hay transmisiones en vivo en Codere?",
+              "description": "Sí. Podrás acceder al streaming en directo desde la sección Deportes en Vivo, siempre que el evento lo permita. Disfruta de la emoción del partido y apuesta al mismo tiempo."
+            }
+          ]
+        }
+      },
+      "bet-types": {
+        "id": "bet-types",
+        "label": "Tipos de apuestas",
+        "url": "/ayuda/dudas-codere/apuestas/tipos-de-apuestas",
+        "page": {
+          "seo": {
+            "title": "Tipos de apuestas en Codere: conoce tus opciones | Codere®",
+            "description": "Descubre los tipos de apuestas disponibles en Codere: simples, combinadas, en vivo, sistema, 1X2, hándicap y más. Aprende cuál elegir."
+          },
+          "top": {
+            "title": "Guía práctica de tipos de apuestas Codere",
+            "description": "En Codere tienes distintas formas de apostar según tu estilo de juego y lo que quieras conseguir: desde opciones simples y rápidas hasta combinaciones avanzadas que multiplican tus ganancias potenciales. Conoce aquí cada tipo de apuesta y cómo aprovecharla."
+          },
+          "content": [
+            {
+              "title": "Apuestas simples",
+              "description": "Una apuesta simple consiste en elegir un solo resultado de un evento. Si aciertas, ganas el importe apostado multiplicado por la cuota ofrecida.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Perfecta para principiantes.",
+                    "Decisión rápida y clara.",
+                    "Ganancias directas al instante."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Apuestas múltiples (Parlay)",
+              "description": "También conocidas como parlay, combinan dos o más resultados en diferentes eventos dentro de una sola apuesta. Para ganar, debes acertar todas las selecciones.*Ejemplo práctico: si apuestas a tres partidos y aciertas los tres, las cuotas se multiplican entre sí, aumentando tu premio final.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Cuotas multiplicadas = mayores ganancias.",
+                    "Más emoción al seguir varios eventos a la vez."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Apuestas de sistema",
+              "description": "Una apuesta avanzada que combina múltiples selecciones creando varias combinaciones. No necesitas acertarlas todas: depende del sistema elegido (ej. Trixie, Yankee, Super Yankee).",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Cobertura amplia de resultados.",
+                    "Posibilidad de premio incluso si fallas alguna selección."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Apuestas pre partido",
+              "description": "Son las que realizas antes de que comience el evento. La cuota que selecciones se mantiene fija al momento de apostar.",
+              "subcontent": [
+                {
+                  "title": "Beneficio inmediato",
+                  "ul": [
+                    "Seguridad en la cuota elegida.",
+                    "Más tiempo para planificar tu jugada."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Apuestas en vivo",
+              "description": "Puedes apostar mientras se desarrolla el partido. Las cuotas se actualizan en tiempo real según la acción del evento.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Decisiones dinámicas.",
+                    "Emoción máxima al reaccionar en segundos."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Crea tu apuesta",
+              "description": "Función exclusiva de Codere que te permite combinar varios mercados de un mismo evento en una apuesta personalizada.",
+              "subcontent": [
+                {
+                  "title": "Beneficio inmediato",
+                  "ul": [
+                    "Personalización total de tu estrategia.",
+                    "Control absoluto sobre tu boleto."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pago anticipado (Cash Out)",
+              "description": "Es la opción de cobrar tu apuesta antes de que termine el evento si el resultado ya parece asegurado. Disponible en fútbol, NBA y NFL.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Asegura tu ganancia parcial en segundos.",
+                    "Reduce pérdidas si el partido cambia de rumbo."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Altas y bajas (Over/Under)",
+              "description": "Consiste en apostar si el total de goles o puntos de un partido será mayor (altas) o menor (bajas) a una cifra establecida.",
+              "subcontent": [
+                {
+                  "title": "Beneficio inmediato",
+                  "ul": [
+                    "Mayor control sobre el ritmo del juego.",
+                    "Más opciones de ganar sin depender del resultado final."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Apuesta 1X2",
+              "description": "La clásica apuesta al resultado del partido:",
+              "ul": [
+                "1 = gana el equipo local.",
+                "X = empate.",
+                "2 = gana el visitante."
+              ]
+            },
+            {
+              "title": "Apuestas con hándicap",
+              "description": "Se aplica una ventaja o desventaja virtual a un equipo para equilibrar las probabilidades. Perfecta para partidos muy desiguales.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Encuentros más emocionantes.",
+                    "Mejores cuotas en segundos."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "En Codere encuentras apuestas para cada perfil: desde la simple para empezar sin complicaciones, hasta las múltiples y de sistema para multiplicar la emoción y los premios. La clave está en elegir la modalidad que mejor se adapte a tu estilo de juego."
+            }
+          ]
+        }
+      },
+      "bonus-terms": {
+        "id": "bonus-terms",
+        "label": "Cómo funciona el bono de Codere",
+        "url": "/ayuda/dudas-codere/apuestas/bono-codere",
+        "page": {
+          "seo": {
+            "title": "Bono Codere Apuestas: Requisitos y Funcionamiento | Codere®",
+            "description": "Descubre cómo funciona el bono de apuestas deportivas en Codere, cómo activarlo y cuáles son los requisitos para liberar tus ganancias."
+          },
+          "top": {
+            "title": "Todo sobre el bono de apuestas deportivas Codere",
+            "description": "En Codere, tus primeras jugadas tienen un valor extra gracias a los bonos de bienvenida. Conoce cómo aprovecharlos paso a paso y multiplica tu experiencia de apuestas desde el inicio."
+          },
+          "content": [
+            {
+              "title": "Bono de Registro: 1,000 gratis para apostar",
+              "description": "Solo por registrarte y validar tu cuenta por SMS en tu segundo inicio de sesión, recibes 1,000 gratis para apuestas deportivas.",
+              "subcontent": [
+                {
+                  "title": "Requisitos para liberar el bono",
+                  "ul": [
+                    "Apostar 10 veces el monto del bono.",
+                    "Solo válido en eventos con momios entre +100 y +2000.",
+                    "Podrás ganar hasta 3,000 MXN con este beneficio."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bono de Primer Depósito: hasta 7,000 + extra en casino",
+              "description": "Al realizar tu primer depósito desde 200 MXN, Codere te otorga el mismo monto en bono para apuestas deportivas, con un máximo de 7,000 MXN.",
+              "subcontent": [
+                {
+                  "title": "Requisitos para liberar el bono",
+                  "ul": [
+                    "Apostar primero el monto del depósito en eventos con momios desde -200.",
+                    "Luego, apostar 3 veces la suma del bono más el depósito.",
+                    "Con este bono puedes alcanzar hasta 10,000 MXN en ganancias."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "Los bonos de Codere son la forma más rápida de empezar con ventaja. Ya sea con los 1,000 gratis de registro o con el doble de tu primer depósito, tienes más oportunidades de apostar, ganar y disfrutar de cada partido."
+            }
+          ]
+        }
+      },
+      "create-bet": {
+        "id": "create-bet",
+        "label": "Crea tu apuesta",
+        "url": "/ayuda/dudas-codere/apuestas/crea-tu-apuesta",
+        "page": {
+          "seo": {
+            "title": "Crea tu Apuesta » México | Codere®",
+            "description": "Ahora puedes disfrutar de crear y personalizar tus apuestas deportivas. ¿Estás listo para vivir esta aventura con Codere? Descubre cómo comenzar aquí."
+          },
+          "top": {
+            "title": "¿Cómo funciona 'Crea Tu Apuesta' de Codere?",
+            "description": "¡Lo que estabas esperando llegó a Codere! Ya puedes hacer tu apuesta personalizada en tus eventos favoritos de futbol, MLB, NFL y NBA. Ganar con 'Crea tu apuesta' es muy sencillo. Tú decides qué mercados elegir para hacer la combinación a tu gusto. 'Crea tu apuesta' es como hacer un parlay en un mismo evento, es decir, elegir varias selecciones."
+          },
+          "content": [
+            {
+              "title": "Pasos para crear tu apuesta",
+              "ul": [
+                "Paso 1 - Elige el evento de tu preferencia.",
+                "Paso 2 - Ingresa a la sección de 'Crea tu apuesta'.",
+                "Paso 3 - Selecciona las opciones y mercados que prefieras.",
+                "Paso 4 - Cuando estés listo, añade tus selecciones al boleto de apuestas.",
+                "Paso 5 - Cuantos más mercados combines mayor será el momio de tu ticket.",
+                "Paso 6 - Indica la cantidad que deseas jugar y podrás ver tus potenciales ganancias.",
+                "Paso 7 - Finalmente, haz clic en el botón para confirmar y listo."
+              ]
+            },
+            {
+              "title": "Características principales",
+              "ul": [
+                "Puedes crear tu apuesta desde cero de un solo evento y hacerla personalizada.",
+                "Arma tu jugada con los mercados de tu preferencia en un mismo partido de futbol, NFL, MLB o NBA.",
+                "Se pueden agregar mercados para los tiempos extra.",
+                "Si elegiste un mercado con algún jugador y éste no participa o si creaste tu apuesta antes del partido y éste se cambia de sede, no te preocupes, tu jugada se anula.",
+                "Puedes mejorar la ganancia total entre más mercados agregues en tu crear apuesta."
+              ]
+            }
+          ]
+        }
+      },
+      "casino-glossary": {
+        "id": "casino-glossary",
+        "label": "Glosario de casino",
+        "url": "/ayuda/dudas-codere/casino/glosario",
+        "page": {
+          "seo": {
+            "title": "Glosario de Casino Online: Términos y Definiciones | Codere®",
+            "description": "Consulta el glosario de casino online de Codere con términos y definiciones claras sobre bonos, giros gratis, rollover y más."
+          },
+          "top": {
+            "title": "Glosario de términos de casino online en Codere",
+            "description": "Los bonos de casino son una gran oportunidad para empezar a jugar con ventaja. A continuación, encontrarás los términos más importantes explicados de manera clara, con ejemplos y beneficios inmediatos, para que disfrutes tu experiencia de juego en segundos."
+          },
+          "content": [
+            {
+              "title": "¿Qué es un bono de bienvenida en un casino online?",
+              "description": "Es una recompensa que recibes al registrarte y realizar tu primer depósito. Puede ser en forma de dinero extra para jugar o tiradas gratis en tragamonedas.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Empiezas a jugar con más saldo desde el inicio.",
+                    "Disfrutas giros gratis en slots seleccionadas.",
+                    "Oportunidad de multiplicar tus ganancias sin riesgo adicional."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "¿Qué significa \"fondos disponibles\" en un casino online?",
+              "description": "Son los créditos que tienes para jugar dentro del casino. Incluyen tanto tu dinero real como los bonos que hayas recibido.*Microbeneficio: puedes apostar de inmediato en tragamonedas, juegos de mesa o casino en vivo."
+            },
+            {
+              "title": "¿Qué es un requisito de apuesta o rollover?",
+              "description": "Es la cantidad de veces que debes apostar el dinero del bono antes de poder retirar las ganancias generadas con él.",
+              "subcontent": [
+                {
+                  "title": "Ejemplo práctico",
+                  "description": "Si recibes un bono de 1,000 MXN con un rollover de 30x, deberás apostar 30,000 MXN en juegos válidos para liberarlo. Consulta siempre las condiciones del bono en la sección de promociones."
+                }
+              ]
+            },
+            {
+              "title": "¿Qué es un depósito mínimo en casinos online?",
+              "description": "Es la cantidad mínima que debes ingresar en tu cuenta para poder participar en promociones o empezar a jugar. En la mayoría de los casos suele ser 200 MXN, aunque puede variar según el método de pago. Revisa los métodos de depósito aceptados en Codere."
+            },
+            {
+              "title": "¿Qué es una apuesta válida para liberar bonos?",
+              "description": "Una apuesta válida es aquella que cumple con las reglas del casino y se contabiliza para liberar tu bono. Generalmente, las tragamonedas cuentan al 100%, mientras que algunos juegos de mesa y apuestas en vivo pueden contar en menor porcentaje."
+            },
+            {
+              "title": "¿Qué son los free spins o giros gratis?",
+              "description": "Son tiradas gratuitas en máquinas tragamonedas que el casino otorga como parte de un bono o promoción.",
+              "subcontent": [
+                {
+                  "title": "Beneficios inmediatos",
+                  "ul": [
+                    "Juegas sin gastar tu saldo.",
+                    "Puedes ganar dinero real.",
+                    "Acceso a slots destacadas cada semana."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "¿Qué es el cashback en un casino online?",
+              "description": "Es una devolución de parte de tus pérdidas durante un periodo de tiempo específico. Normalmente se otorga como bono para seguir jugando. Explora las promociones de cashback en Codere Casino."
+            },
+            {
+              "title": "¿Qué es el casino en vivo?",
+              "description": "Es la modalidad en la que juegas con crupieres reales transmitidos en tiempo real. Incluye ruleta, blackjack y baccarat."
+            },
+            {
+              "title": "Conclusión",
+              "description": "Conocer estos términos te permite aprovechar al máximo los bonos de bienvenida, free spins, cashback y promociones de Codere Casino. Juega con información clara, cumple los requisitos de apuesta y disfruta de cada giro o mano con confianza."
+            }
+          ]
+        }
+      },
+      "casino-faq": {
+        "id": "casino-faq",
+        "label": "Preguntas frecuentes casino",
+        "url": "/ayuda/dudas-codere/casino/preguntas-frecuentes",
+        "page": {
+          "seo": {
+            "title": "FAQs del Casino Online de Codere | Codere®",
+            "description": "Resuelve tus dudas sobre el casino online de Codere: juegos disponibles, casino en vivo, bonos, seguridad y métodos de pago."
+          },
+          "top": {
+            "title": "Preguntas Frecuentes sobre Juegos de casino en Codere",
+            "description": "Codere te ofrece una experiencia de casino online variada, emocionante y segura. Descubre qué juegos están disponibles, cómo funcionan las opciones en vivo y qué bonos puedes aprovechar para multiplicar tu diversión."
+          },
+          "content": [
+            {
+              "title": "¿Qué tipos de juegos de casino ofrece Codere?",
+              "description": "En Codere encontrarás una gran variedad de juegos diseñados para todos los gustos:",
+              "ul": [
+                "Slots: títulos populares como Age of the Gods, Blue Wizard y muchos más.",
+                "Juegos de mesa: clásicos como Blackjack, Ruleta y Baccarat.",
+                "Juegos Turbo o Crash Games: una modalidad innovadora que multiplica tus ganancias mientras un objeto o personaje permanece en pantalla."
+              ]
+            },
+            {
+              "title": "¿Codere tiene juegos en vivo?",
+              "description": "Sí, en Codere puedes disfrutar de la emoción de los juegos con crupieres en vivo, transmitidos en tiempo real:",
+              "ul": [
+                "Ruleta en vivo: opciones como la Ruleta Coderista y mesas con multiplicadores.",
+                "Blackjack en vivo: partidas dinámicas con crupieres profesionales.",
+                "Baccarat en vivo: el clásico de cartas llevado a una experiencia online inmersiva."
+              ]
+            },
+            {
+              "title": "¿Codere ofrece bonos para juegos de casino?",
+              "description": "Sí, Codere cuenta con promociones exclusivas para potenciar tu experiencia en el casino:",
+              "ul": [
+                "Bono de bienvenida: hasta 5,000 MXN para nuevos jugadores.",
+                "Free Spins (giros gratis): disponibles en promociones como el Juego de la Semana.",
+                "Bonos por depósito: 50% hasta 1,000 MXN y 70% hasta 2,000 MXN en depósitos sucesivos."
+              ]
+            },
+            {
+              "title": "¿Es seguro jugar en Codere Casino?",
+              "description": "Sí, Codere es una plataforma segura y confiable:",
+              "ul": [
+                "Cumple con las regulaciones mexicanas.",
+                "Utiliza tecnología de encriptación avanzada para proteger tus datos.",
+                "Promueve el juego responsable con herramientas para controlar tu tiempo y dinero invertido."
+              ]
+            },
+            {
+              "title": "¿Codere acepta Mercado Pago y PayPal en el casino?",
+              "ul": [
+                "Mercado Pago: sí está disponible como método de depósito en el casino.",
+                "PayPal: no está habilitado en Codere México."
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "En Codere Casino encuentras una experiencia completa: slots, juegos de mesa, modalidades en vivo y promociones exclusivas que aumentan tu diversión. Además, puedes jugar de forma segura y confiable, con múltiples opciones de pago disponibles."
+            }
+          ]
+        }
+      },
+      "casino-bonus": {
+        "id": "casino-bonus",
+        "label": "Cómo funciona el bono de Casino",
+        "url": "/ayuda/dudas-codere/casino/bono-casino",
+        "page": {
+          "seo": {
+            "title": "Bonos de casino en Codere: cómo aprovecharlos | Codere®",
+            "description": "Descubre cómo funcionan los bonos de casino en Codere y cómo maximizar tus oportunidades de ganar."
+          },
+          "top": {
+            "title": "Aprende a usar el bono de Casino de Codere",
+            "description": "En Codere.mx, los nuevos usuarios disfrutan de recompensas exclusivas que multiplican sus primeras jugadas. El Triple Bono de Casino y el Bono de Registro están diseñados para que empieces con más saldo, más giros y más oportunidades de ganar desde tu primer día."
+          },
+          "content": [
+            {
+              "title": "Triple Bono de Casino: hasta 5,000 fondos disponibles",
+              "description": "El Triple Bono de Casino es progresivo y se activa con tus tres primeros depósitos.",
+              "subcontent": [
+                {
+                  "title": "Guía paso a paso",
+                  "ul": [
+                    "Primer depósito: recibe un 100% hasta 2,000 FD.",
+                    "Segundo depósito: obtén un 50% hasta 1,000 FD.",
+                    "Tercer depósito: suma un 70% hasta 2,000 FD.",
+                    "En total, puedes alcanzar hasta 5,000 FD adicionales para jugar en tus títulos favoritos de casino."
+                  ]
+                },
+                {
+                  "title": "Condiciones principales",
+                  "ul": [
+                    "Debes apostar 30 veces la suma del bono más el depósito.",
+                    "El plazo máximo para cumplir los requisitos es de 14 días.",
+                    "Contribución de juegos: Slots 100%, Blackjack 20%, Ruleta 25% (si cubre menos del 66% de la mesa).",
+                    "Algunos juegos, como Savage Jungle, no participan en la promoción."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bono de Registro: 1,000 gratis para deportes",
+              "description": "Además del bono de casino, Codere te regala un Bono de Registro solo por completar tu cuenta. En tu segundo inicio de sesión, después de validar por SMS, recibes 1,000 gratis para apostar en deportes.",
+              "subcontent": [
+                {
+                  "title": "Requisitos para liberarlo",
+                  "ul": [
+                    "Apostar 10 veces el monto recibido.",
+                    "Solo válido en eventos con momios entre +100 y +2000.",
+                    "Con este bono puedes ganar hasta 3,000 MXN."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "El Triple Bono de Casino y el Bono de Registro son la mejor manera de comenzar en Codere con ventaja. Más saldo, más apuestas y más emoción en cada jugada. Conoce las condiciones, activa tu promoción y vive la experiencia de apostar con beneficios extra desde el primer momento."
+            }
+          ]
+        }
+      },
+      "poker-rules": {
+        "id": "poker-rules",
+        "label": "Reglas del poker",
+        "url": "/ayuda/dudas-codere/casino/reglas-del-poker",
+        "page": {
+          "seo": {
+            "title": "Ayuda de Poker: reglas, manos y torneos | Codere®",
+            "description": "Encuentra toda la ayuda de poker: reglas, clasificación de manos, límites, rake, torneos Twister Arena/Vuelo/Mystery Bounty y funciones avanzadas del juego."
+          },
+          "top": {
+            "title": "Reglas de poker",
+            "description": "Importante: Las reglas y ejemplos mostrados en la ayuda utilizan el euro como moneda, pero son aplicables a todas las demás monedas relevantes."
+          },
+          "content": [
+            {
+              "title": "Estructuras de apuestas",
+              "description": "Hay distintas estructuras de apuestas disponibles. No todas ellas están disponibles en cada formato de juego.",
+              "subcontent": [
+                {
+                  "title": "Juegos de Fixed Limit",
+                  "description": "En los juegos de fixed limit (o limit) tan solo puedes apostar o subir una cantidad predeterminada. Hay dos cantidades de apuestas:",
+                  "ul": [
+                    "Apuesta pequeña: habitualmente se usa en las dos primeras rondas de apuestas.",
+                    "Apuesta grande: se usa en las rondas de apuestas posteriores.",
+                    "Si por ejemplo ves una partida de €1/€2 fixed limit hold'em, la apuesta pequeña es de €1 y la grande es de €2."
+                  ]
+                },
+                {
+                  "title": "Juegos Pot Limit",
+                  "description": "Los juegos pot limit difieren de los de limit en las cantidades que los jugadores pueden apostar y subir.",
+                  "ul": [
+                    "La cantidad de la subida mínima será igual a la apuesta o subida anterior de la misma mano.",
+                    "La cantidad máxima de subida es igual a: cantidad total del bote antes de las apuestas de sus oponentes en la ronda actual + las apuestas totales de sus oponentes en la ronda actual + la cantidad que tendría que poner para igualar.",
+                    "El importe máximo de la apuesta es igual al tamaño del bote.",
+                    "Fórmula práctica: la apuesta máxima es igual a tres veces la última apuesta más el tamaño del bote antes de la apuesta."
+                  ]
+                },
+                {
+                  "title": "Juegos No Limit",
+                  "description": "Los juegos no limit difieren de los de limit porque (aparte del balance en la mesa del jugador) no hay máximo para lo que se puede apostar o subir.",
+                  "ul": [
+                    "La subida mínima permitida será igual a la apuesta o subida anterior en la misma mano.",
+                    "Por ejemplo, si el primer jugador apuesta 10 euros y el segundo desea subir, deberá subir al menos 10 euros.",
+                    "A diferencia de los juegos limit, los límites de las partidas de no limit no cambian durante las rondas de apuestas posteriores."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Comisión (Rake)",
+              "description": "En nuestro póquer, no juegas contra la sala de juego, sino contra otros jugadores. Por lo tanto, la casa se lleva un cargo en forma de rake de cada bote. No se cobra rake si la mano termina antes de que se repartan las cartas del flop - \"No flop no drop\".",
+              "table": {
+                "headers": [
+                  "Apuesta",
+                  "Número de jugadores",
+                  "Comisión por bote",
+                  "Max Comisión"
+                ],
+                "rows": [
+                  [
+                    "€0.10/€0.20",
+                    "2 jugadores",
+                    "0,01 € por cada 0,20 € en el bote",
+                    "€1"
+                  ],
+                  [
+                    "€0.10/€0.20",
+                    "3-10 jugadores",
+                    "0,01 € por cada 0,20 € en el bote",
+                    "€2"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "Tasa del torneo (tasa de la casa)",
+              "description": "El rake por participar en un torneo se cobra como una cuota de entrada. La cuota de inscripción es un porcentaje configurable del importe del torneo.",
+              "table": {
+                "headers": [
+                  "Tipo de torneo",
+                  "Cuota de inscripción",
+                  "Ejemplo"
+                ],
+                "rows": [
+                  ["Torneos Sit Go", "10%", "Importe 1 €, cuota 0,10 €"],
+                  ["Torneos programados", "9%", "Importe 10 €, cuota 0,9 €"]
+                ]
+              }
+            },
+            {
+              "title": "Twister RTP",
+              "description": "Si la comisión del torneo está representada por un X%, el RTP de Twister = 100% - X%. El RTP de Twister varía en función de la tasa de torneo establecida. Esto conllevará también un cambio en la cantidad de ganancias totales.*Fórmula: RTP (%) = 100 * Ganancias Totales / Apuestas Totales."
+            },
+            {
+              "title": "Interrupciones de juegos",
+              "description": "Debido a la naturaleza del juego de póquer en línea, una vez que se interrumpe una partida, ésta no puede continuar más adelante.",
+              "ul": [
+                "Si la interrupción se produce en una partida de cash, la mano en curso se cancela y los jugadores reciben de nuevo el dinero que han gastado desde el inicio de la sesión de cash hasta la última mano terminada.",
+                "Si la interrupción se produce en un torneo, éste se cancela y todos los participantes reciben el reembolso del dinero o de los premios en función de la fase del torneo en la que se haya producido la interrupción."
+              ]
+            },
+            {
+              "title": "Problemas de conectividad",
+              "description": "Si un jugador experimenta un problema de conectividad mientras juega al póquer:",
+              "subcontent": [
+                {
+                  "title": "En partidas cash",
+                  "ul": [
+                    "Pasa a \"sit-out\" y el sistema actúa en su nombre (check cuando es posible y fold en los demás casos).",
+                    "Si no vuelve en X minutos (configurable), se le retira de la partida de cash.",
+                    "Si vuelve a tiempo, puede seguir jugando."
+                  ]
+                },
+                {
+                  "title": "En torneos",
+                  "ul": [
+                    "Pasa a \"sit-out\" y el sistema actúa en su nombre.",
+                    "Si vuelve antes de quedarse sin fichas, continúa.",
+                    "Si se queda sin fichas antes de volver, es eliminado del torneo."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Referencias de traducción",
+              "description": "La siguiente tabla muestra el significado en español de algunos términos en inglés:",
+              "table": {
+                "headers": ["Inglés", "Español"],
+                "rows": [
+                  ["Big Blind", "Ciega grande"],
+                  ["Small Blind", "Ciega pequeña"],
+                  ["Custom Big Blind", "Ciega grande personalizada"],
+                  ["Custom Small Blind", "Ciega pequeña personalizada"],
+                  ["Buy-in", "Importe"],
+                  ["Re-buy", "Re-compra"],
+                  ["Add-on", "Complemento"],
+                  ["Hand", "Mano"],
+                  ["Stacks", "Pilas"],
+                  ["Time", "Tiempo"],
+                  ["Speed", "Velocidad"],
+                  ["Sit out mode", "Modo ausente"],
+                  ["Check", "Pasar"],
+                  ["Call", "Pagar"],
+                  ["Fold", "Abandonar"],
+                  ["Bet", "Apuesta"],
+                  ["Raise", "Subir"],
+                  ["Re-Raise", "Resubida"],
+                  ["All-in", "Apostarlo todo"]
+                ]
+              }
+            },
+            {
+              "title": "Clasificación: Las 10 manos del poker",
+              "description": "Una mano de poker consta de la mejor combinación posible de cinco cartas.",
+              "subcontent": [
+                {
+                  "title": "Escalera real de color",
+                  "description": "Escalera de color de 10 al As del mismo palo.*Ejemplo: 10♦, J♦, Q♦, K♦, A♦"
+                },
+                {
+                  "title": "Escalera de color",
+                  "description": "Cinco cartas consecutivas del mismo palo; gana la más alta.*Ejemplo: 5♥, 6♥, 7♥, 8♥, 9♥"
+                },
+                {
+                  "title": "Poker",
+                  "description": "Cuatro cartas del mismo valor; si empatan, gana el kicker más alto.*Ejemplo: 7♣, 7♦, 7♠, 7♥"
+                },
+                {
+                  "title": "Full house",
+                  "description": "Trío + pareja; gana el trío más alto, luego la pareja.*Ejemplo: 4♥, 4♣, 4♠, J♦, J♠"
+                },
+                {
+                  "title": "Color",
+                  "description": "Cinco cartas del mismo palo; gana carta más alta.*Ejemplo: 10♥, 2♥, J♥, 4♥, A♥"
+                },
+                {
+                  "title": "Escalera",
+                  "description": "Cinco consecutivas; gana la más alta; As puede ser alto o bajo.*Ejemplo: 6, 7, 8, 9, 10"
+                },
+                {
+                  "title": "Trío",
+                  "description": "Tres iguales; gana el trío más alto y luego kickers.*Ejemplo: 7♥, 7♦, 7♠"
+                },
+                {
+                  "title": "Dobles parejas",
+                  "description": "Dos pares; gana par alto, luego par bajo, luego kicker.*Ejemplo: 9♦, 9♠, Q♣, Q♦"
+                },
+                {
+                  "title": "Pareja",
+                  "description": "Dos iguales; gana la pareja más alta y luego kicker.*Ejemplo: 8♣, 8♦"
+                },
+                {
+                  "title": "Carta alta",
+                  "description": "Cuando no hay combinación, gana la carta más alta y siguientes."
+                }
+              ]
+            },
+            {
+              "title": "Juegos de poker",
+              "description": "PlaytechOne ofrece los siguientes juegos:",
+              "ul": [
+                "Texas Hold'em",
+                "Omaha",
+                "Pot Limit Omaha 5 Cards",
+                "Robo de 5 Cartas",
+                "Speed Poker",
+                "Twister Poker",
+                "Torneo Twister Arena",
+                "Torneos de Vuelo",
+                "Torneos Mystery Bounty"
+              ],
+              "subcontent": [
+                {
+                  "title": "Texas Hold'em",
+                  "description": "Juego de 2-10 jugadores. Puede jugarse como no limit, pot limit o fixed limit. A cada jugador se le reparten dos cartas (ocultas) y se revelan hasta 5 comunitarias.",
+                  "ul": [
+                    "Se determina el repartidor (botón).",
+                    "Se pagan las ciegas (pequeña y grande).",
+                    "Se reparten dos cartas ocultas a cada jugador.",
+                    "Primera ronda de apuestas (fold/check/call/raise).",
+                    "Se reparte el flop (3 comunitarias).",
+                    "Segunda ronda de apuestas.",
+                    "Se reparte el turn (1 comunitaria).",
+                    "Tercera ronda de apuestas.",
+                    "Se reparte el river (última comunitaria).",
+                    "Última ronda de apuestas.",
+                    "Enfrentamiento (showdown).",
+                    "Vuelta a empezar (pasa el botón)."
+                  ]
+                },
+                {
+                  "title": "Omaha",
+                  "description": "Mismas reglas que Texas Hold'em, con dos diferencias:",
+                  "ul": [
+                    "Recibes 4 cartas (no 2).",
+                    "Para formar tu mano final debes usar exactamente 2 de tu mano y 3 comunitarias.",
+                    "Ejemplo: aunque tengas cuatro ases, no tienes poker (solo pareja)."
+                  ]
+                },
+                {
+                  "title": "Pot Limit Omaha 5 Cards",
+                  "description": "Versión de Omaha con una 5ª carta adicional al jugador. Solo cash y Pot Limit. Máximo 9 jugadores."
+                },
+                {
+                  "title": "Five Card Draw",
+                  "description": "Variante sencilla: 5 cartas boca abajo, dos rondas de apuestas y fase de cambio.",
+                  "ul": [
+                    "Primera ronda de apuestas.",
+                    "Fase de sorteo (descartar 1 a 5 cartas o \"Stand pat\").",
+                    "Segunda ronda de apuestas.",
+                    "Showdown (mejor mano de 5 cartas gana)."
+                  ]
+                },
+                {
+                  "title": "Speed Poker",
+                  "description": "Minimiza el tiempo de espera entre manos. Compatible con Texas Hold'em y Omaha.",
+                  "ul": [
+                    "Ciegas se pagan automáticamente.",
+                    "Puedes usar \"Speed Fold\" para foldear y pasar rápido a otra mesa.",
+                    "En modo ausente pasas a una mesa vacía; vuelves con \"He vuelto\".",
+                    "Si estás ausente más de 5 minutos, sales de la partida."
+                  ]
+                },
+                {
+                  "title": "Twister Poker",
+                  "description": "Torneos turbo rápidos con 3 jugadores. Premio aleatorio (puede ser miles) desde buy-in de €1. Formato \"winner takes all\", salvo premios elevados que pueden repartirse.",
+                  "ul": [
+                    "Classic Twister",
+                    "Wild Twister",
+                    "Age of the Gods Twister"
+                  ]
+                },
+                {
+                  "title": "Age of the Gods Twister",
+                  "description": "Combina Twister + posibilidad de ganar uno de cuatro botes misteriosos. Una parte de la apuesta contribuye al jackpot.",
+                  "ul": [
+                    "Jackpot progresivo de 4 niveles: Power, Extra Power, Super Power, Ultimate Power.",
+                    "Semillas: €50 / €500 / €5,000 / €100,000.",
+                    "Contribución: 0.99%.",
+                    "Activación aleatoria: entrar al jackpot garantiza ganar uno de los botes.",
+                    "Mecanismo: 20 monedas, al encontrar 3 símbolos iguales se gana el bote.",
+                    "Temporizador: 30 segundos, si expira se juega automáticamente."
+                  ]
+                },
+                {
+                  "title": "Torneos de Twister Arena",
+                  "description": "Torneo multimesa con formato \"Shootout\". Ganador de cada ronda pasa a la siguiente. Puede haber inscripción tardía en primera ronda. Premios de rondas pagadas siempre son en metálico. Mesa final reparte el premio según configuración."
+                },
+                {
+                  "title": "Torneos de Vuelo",
+                  "description": "Eventos en dos días: Día 1 (A, B, C…) y Día 2 (principal). Objetivo: sobrevivir Día 1 para clasificar al Día 2.",
+                  "ul": [
+                    "Best Stack Forward (clasificas con tu mejor stack).",
+                    "Stack Builder (sumas stacks de varios Día 1).",
+                    "No puedes anular inscripción una vez clasificado al Día 2."
+                  ]
+                },
+                {
+                  "title": "Torneos Mystery Bounty",
+                  "description": "Variación de Knock-Out Flight: al eliminar a un oponente ganas una recompensa aleatoria.",
+                  "ul": [
+                    "Bolsa de bounties proviene de parte del buy-in del KO.",
+                    "La otra parte va al premio regular.",
+                    "Para entrar a bounties debes clasificar al Día 2.",
+                    "Día 1 no da premios ni bounties.",
+                    "En Día 2 puedes ver bounties restantes en widget Mystery Bounty.",
+                    "La recompensa se abona directo al saldo, independiente de tu posición.",
+                    "El ganador recibe premio principal + bounties ganados."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Funciones de promoción",
+              "subcontent": [
+                {
+                  "title": "Recompensas de Bonos",
+                  "description": "Accesible desde la cabecera del cliente (cuando el icono está activo). Puede incluir:",
+                  "ul": [
+                    "rueda de bonificación",
+                    "tarjetas de rascar",
+                    "o ambas"
+                  ]
+                },
+                {
+                  "title": "Página de Misiones",
+                  "ul": [
+                    "misiones disponibles",
+                    "progreso en misión seleccionada",
+                    "recompensas por completarla"
+                  ]
+                },
+                {
+                  "title": "Página VIP",
+                  "description": "Resumen del estatus VIP."
+                },
+                {
+                  "title": "Página de Bonos",
+                  "description": "Historial de bonos y bonos liberándose actualmente."
+                }
+              ]
+            },
+            {
+              "title": "Características del juego",
+              "description": "PlaytechOne Poker ofrece funcionalidades para mejorar la experiencia: All-in Cash Out, Run it Twice, Tratos Twister y Twister Boost.",
+              "subcontent": [
+                {
+                  "title": "Función \"All-in Cash Out\" (Todo Incluido)",
+                  "description": "Permite cobrar tu equidad estando all-in antes del river y sin más acciones posibles.",
+                  "ul": [
+                    "Cash Texas Hold'em.",
+                    "Tú y un oponente all-in.",
+                    "Sin river repartido.",
+                    "Equidad entre 0% y 100%.",
+                    "Puede limitarse a botes grandes o alta equidad.",
+                    "Puede aplicar comisión por cobro."
+                  ]
+                },
+                {
+                  "title": "Función \"Ejecutarlo dos veces\"",
+                  "description": "Permite repartir dos veces las cartas restantes si ambos jugadores van all-in antes del river.",
+                  "ul": [
+                    "Se reparten dos boards.",
+                    "El bote se divide en dos mitades.",
+                    "Cada mitad se paga al ganador de cada board.",
+                    "Si uno no acepta, se juega normal.",
+                    "Disponible en cash No Limit Hold'em, incluyendo Speed Poker.",
+                    "No se cobra rake adicional."
+                  ]
+                },
+                {
+                  "title": "Función \"Tratos Twister\"",
+                  "description": "Permite hacer un trato en heads-up.",
+                  "ul": [
+                    "Jugador ofrece trato marcando casilla.",
+                    "Oponente acepta o no.",
+                    "Al terminar la mano aparece pop-up con condiciones.",
+                    "Si ambos aceptan antes del tiempo, termina torneo y se reparte premio.",
+                    "Tipos: reparto igualitario o reparto proporcional (según stacks).",
+                    "Disponible solo para Twister clásicos con premios en efectivo."
+                  ]
+                },
+                {
+                  "title": "Función \"Twister Boost\"",
+                  "description": "Permite aumentar el premio Twister con buy-in adicional.",
+                  "ul": [
+                    "Twisters con boost están marcados con icono.",
+                    "Si el multiplicador lo permite, se pregunta si quieren boost.",
+                    "Si todos aceptan y transacciones ok, se sortea premio adicional y se suma.",
+                    "Si falla una transacción, reembolso y sigue normal.",
+                    "Solo para Twister Clásico y Wild.",
+                    "Configurable por multiplicador.",
+                    "Máximo boosts y premio máximo dependen de configuración."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "descarga-app": {
+    "id": "Descarga la APP",
+    "label": "Descarga la APP",
+    "url": "/ayuda/apuesta-en-tu-movil",
+    "page": {
+      "seo": {
+        "title": "Descarga nuestra aplicación de Apuesta en tu Móvil | Codere®",
+        "description": "Con la app Codere puedes apostar en deportes y jugar casino online desde tu móvil de forma segura y sencilla."
+      },
+      "top": {
+        "title": "Juega y apuesta en cualquier lugar con la app Codere",
+        "description": "Vive toda la emoción de las apuestas deportivas y el casino en línea con la APP oficial de Codere México. Descárgala en tu dispositivo Android o iOS, regístrate en segundos, haz tu primer depósito y comienza a disfrutar de cuotas competitivas, juegos de casino en vivo y las mejores ligas deportivas del mundo."
+      },
+      "content": [
+        {
+          "title": "Diversión asegurada con juegos de casino",
+          "description": "En Codere encontrarás una gran variedad de juegos de casino online para todos los gustos, juega en cualquier lugar y en cualquier momento con total seguridad:",
+          "ul": [
+            "Ruleta online y en vivo.",
+            "Slots y tragamonedas populares.",
+            "Blackjack clásico y en vivo.",
+            "Casino con crupieres reales."
+          ]
+        },
+        {
+          "title": "Las mejores cuotas para tus apuestas deportivas",
+          "description": "Apuesta con cuotas altamente competitivas en las ligas más importantes:",
+          "ul": [
+            "Fútbol: Liga MX, Champions League y ligas internacionales.",
+            "NFL y NBA: vive la emoción del deporte estadounidense.",
+            "Grand Slam de tenis: apuesta en los torneos más prestigiosos del mundo."
+          ]
+        },
+        {
+          "title": "Beneficios de instalar la app Codere",
+          "description": "La APP oficial de Codere te ofrece todo lo que necesitas para jugar y apostar de forma rápida, sencilla y segura:",
+          "ul": [
+            "Registro fácil en pocos pasos.",
+            "Depósitos y retiros seguros con métodos confiables.",
+            "Acceso a muchos deportes, ligas y partidos para apostar.",
+            "Streaming en vivo para seguir tus apuestas en directo.",
+            "Juegos de casino con crupieres reales.",
+            "Consulta tu historial de juego en segundos."
+          ]
+        },
+        {
+          "title": "Conclusión",
+          "description": "Codere te ofrece la mejor combinación de apuestas deportivas y casino online en México. Disfruta de cuotas competitivas, juegos en vivo y beneficios exclusivos desde la app oficial."
+        }
+      ]
+    },
+    "items": {}
+  },
+  "legal": {
+    "id": "Información legal",
+    "label": "Información legal",
+    "url": "/ayuda/legal",
+    "page": {
+      "seo": {
+        "title": "Información legal y seguridad en el juego online | Codere®",
+        "description": "Accede a toda la información legal de Codere: condiciones de apuestas, privacidad, términos y juego responsable."
+      },
+      "top": {
+        "title": "Información legal: Para una experiencia de juego confiable",
+        "description": "Cuando apuestas, lo más importante es que disfrutes sin preocupaciones. Por eso, ponemos a tu alcance toda la información legal que necesitas, clara y organizada, para que juegues con confianza en cada paso."
+      },
+      "content": [
+        {
+          "title": "Condiciones generales de apuestas",
+          "description": "Antes de comenzar a apostar, conoce las reglas que garantizan un juego justo y transparente. Aquí descubrirás:",
+          "ul": [
+            "Cómo se gestionan tus apuestas en segundos.",
+            "Qué sucede en casos de cancelación o error.",
+            "Cuáles son tus derechos y responsabilidades al participar."
+          ]
+        },
+        {
+          "title": "Privacidad: tu información siempre protegida",
+          "description": "Tu tranquilidad es prioridad. Cada dato que compartes con nosotros se protege con la máxima seguridad:",
+          "ul": [
+            "Registro rápido y sin complicaciones.",
+            "Protección de tus datos personales en todo momento.",
+            "Transparencia sobre cómo usamos tu información."
+          ]
+        },
+        {
+          "title": "Términos y condiciones",
+          "description": "Aquí tienes la guía completa que respalda tu experiencia de juego:",
+          "ul": [
+            "Descubre cómo funcionan las promociones y bonos disponibles.",
+            "Aprende qué métodos de pago puedes usar y cómo retirar tus ganancias sin complicaciones.",
+            "Revisa las normas que garantizan apuestas seguras y responsables."
+          ]
+        },
+        {
+          "title": "Juego responsable",
+          "description": "El juego es diversión, y queremos que siga siéndolo para ti:",
+          "ul": [
+            "Consejos prácticos para controlar tu tiempo y dinero.",
+            "Herramientas disponibles en tu cuenta para establecer límites en segundos.",
+            "Contactos de ayuda inmediata si lo necesitas."
+          ]
+        }
+      ]
+    },
+    "items": {
+      "general-terms": {
+        "id": "general-terms",
+        "label": "Condiciones generales de apuestas",
+        "url": "/ayuda/legal/condiciones-apuestas",
+        "page": {
+          "seo": {
+            "title": "Condiciones generales de apuestas | Codere®",
+            "description": "Consulta las normas y condiciones para apostar en Codere, incluyendo requisitos y reglas legales."
+          },
+          "top": {
+            "title": "Normas de apuestas deportivas y de casino en Codere",
+            "description": "Para garantizar una experiencia de juego segura, justa y confiable, Codere establece reglas claras en sus apuestas deportivas y de casino. Conócelas antes de comenzar a jugar y disfruta de la emoción con total tranquilidad."
+          },
+          "content": [
+            {
+              "title": "Apuestas válidas",
+              "description": "Solo los usuarios registrados y mayores de edad pueden realizar apuestas en Codere. Una vez confirmada, la apuesta no puede cancelarse, por lo que es importante revisar tu boleto antes de dar clic en Aceptar."
+            },
+            {
+              "title": "Errores y correcciones",
+              "description": "En caso de detectarse errores evidentes en cuotas o eventos, Codere se reserva el derecho de corregir la información o anular la apuesta. Esto garantiza que siempre juegues con datos justos y actualizados."
+            },
+            {
+              "title": "Eventos suspendidos o cancelados",
+              "description": "Si un evento no se realiza en el plazo establecido, las apuestas serán anuladas, salvo que el mercado ya se haya resuelto antes de la suspensión.*Ejemplo práctico: si apostaste a \"primer equipo en anotar\" y ya ocurrió, tu apuesta sigue siendo válida aunque el partido no finalice."
+            },
+            {
+              "title": "Liquidación de apuestas",
+              "description": "Todas las apuestas se pagan con base en los resultados oficiales de las competiciones. Cambios posteriores, como modificaciones disciplinarias o administrativas, no afectan las apuestas ya liquidadas."
+            },
+            {
+              "title": "Límites y uso indebido",
+              "description": "Existen límites de apuesta y de ganancias para garantizar un juego equilibrado. Además, cualquier conducta fraudulenta, manipulación de resultados o uso indebido de la cuenta puede dar lugar a la anulación de apuestas y cierre definitivo de la cuenta."
+            },
+            {
+              "title": "Conclusión",
+              "description": "Las reglas de Codere aseguran un entorno de apuestas transparente, justo y seguro. Conocerlas te permite jugar con confianza y centrarte en lo más importante: disfrutar la emoción del deporte y del casino."
+            }
+          ]
+        }
+      },
+      "privacy-policy": {
+        "id": "privacy-policy",
+        "label": "Privacidad",
+        "url": "/ayuda/legal/politica-de-privacidad",
+        "page": {
+          "seo": {
+            "title": "Política de Privacidad y Datos Personales | Codere®",
+            "description": "Consulta el Aviso de Privacidad de Codere México y conoce cómo protegemos tus datos personales, tus derechos ARCO y el uso de cookies."
+          },
+          "top": {
+            "title": "Política de privacidad y protección de datos en Codere",
+            "description": "Este aviso explica, en lenguaje claro, cómo Codere trata tus datos personales cuando juegas y usas nuestros servicios en línea o por teléfono en México. Aquí sabrás quién es el responsable, para qué usamos tus datos, cómo ejercer tus derechos ARCO y cómo limitar o revocar el uso de tu información."
+          },
+          "content": [
+            {
+              "title": "Responsable del tratamiento",
+              "description": "LIBROS FORÁNEOS, S.A. DE C.V. (GRUPO CODERE) es el responsable del uso y protección de tus datos personales.*Domicilio: Avenida Industria Militar s/n, Col. Residencial Militar, Alcaldía Miguel Hidalgo, C.P. 11600, Ciudad de México.*Sitio corporativo: www.grupocodere.com."
+            },
+            {
+              "title": "Finalidades del tratamiento",
+              "subcontent": [
+                {
+                  "title": "Finalidades necesarias para el servicio",
+                  "description": "Usamos tus datos para: verificación de identidad de jugadores en México y fuera de México; recepción y gestión de apuestas y juegos online (slots, casinos virtuales y otras máquinas) y pagos; cumplimiento de la normativa antilavado (LFPIORPI, su reglamento y reglas aplicables) y de identificación de clientes/usuarios; participación en programas de fidelización del Grupo Codere; atención de solicitudes, consultas y dudas; y contacto operativo contigo."
+                },
+                {
+                  "title": "Finalidades secundarias (opcionales)",
+                  "description": "Marketing y prospección comercial para brindarte una mejor atención. Puedes pedir la baja de estas finalidades sin que se te niegue el servicio principal."
+                }
+              ]
+            },
+            {
+              "title": "Datos personales que recabamos",
+              "description": "Para registrarte y usar la oferta de juego podemos solicitar: nombre completo, fecha y lugar de nacimiento, nacionalidad, domicilio, teléfono, correo electrónico y datos bancarios.*Para cumplir con LFPIORPI, su reglamento, reglas generales, el Reglamento de la Ley Federal de Juegos y Sorteos y normas de identificación de clientes/usuarios, además podremos requerir: domicilio en el extranjero (si aplica), CURP (si tienes), RFC (si tienes), identificación del Beneficiario Final/Controlador de los recursos, e imagen fotográfica del rostro.",
+              "subcontent": [
+                {
+                  "title": "Documentación digital que podremos recabar",
+                  "description": "Copia de identificación oficial, comprobante de domicilio (antigüedad ≤ 3 meses), constancia sobre Beneficiario Final, carta poder si actúas mediante representante legal, y para extranjeros, documento del INM que acredite internación o estancia legal (cuando aplique). Podremos solicitar fotografía de rostro para verificar identidad."
+                },
+                {
+                  "title": "Nota sobre categorías sensibles",
+                  "description": "Para estas finalidades no tratamos datos personales sensibles."
+                }
+              ]
+            },
+            {
+              "title": "Con quién compartimos tus datos y para qué",
+              "subcontent": [
+                {
+                  "title": "Autoridades competentes (dentro y fuera de México)",
+                  "description": "Para cumplir disposiciones y/o requerimientos legales aplicables."
+                },
+                {
+                  "title": "Empresas del GRUPO CODERE (filiales, afiliadas y/o subsidiarias)",
+                  "description": "Para gestionar los servicios que solicitas y evaluar su calidad y funcionamiento. Codere mantiene mecanismos para salvaguardar la confidencialidad conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares."
+                }
+              ]
+            },
+            {
+              "title": "Tus derechos ARCO (Acceso, Rectificación, Cancelación y Oposición)",
+              "description": "Qué puedes solicitar:",
+              "ul": [
+                "Acceso: conocer qué datos tenemos y cómo los usamos.",
+                "Rectificación: corregir información desactualizada, inexacta o incompleta.",
+                "Cancelación: eliminar datos cuando no se usen adecuadamente o ya no sean necesarios.",
+                "Oposición: oponerte al uso de tus datos en casos permitidos por la ley."
+              ],
+              "subcontent": [
+                {
+                  "title": "Cómo presentar tu solicitud",
+                  "ul": [
+                    "Envía un correo a la Oficina de Privacidad Codere México: privacidad.codere@codere.com (Tel. 55 5201 7800, Ext. 50074, 09:00–15:00 hrs).",
+                    "O presenta tu solicitud en: Avenida Industria Militar s/n, Col. Residencial Militar, Alcaldía Miguel Hidalgo, C.P. 11600, CDMX."
+                  ]
+                },
+                {
+                  "title": "Contenido mínimo de la solicitud",
+                  "description": "Dirígela a la Oficina de Privacidad o al Delegado de Protección de Datos. Indica en el asunto el derecho a ejercer: \"ACCESO, RECTIFICACIÓN, CANCELACIÓN U OPOSICIÓN\". Incluye: nombre del titular; medio de contacto; copia de identificación oficial; descripción clara de los datos y del derecho a ejercer."
+                },
+                {
+                  "title": "Plazos y medios de respuesta",
+                  "description": "Codere responderá en un plazo máximo de 20 días hábiles a partir de la recepción. Si la solicitud es insuficiente o errónea, dentro de 5 días hábiles te pediremos subsanar; tendrás 10 días hábiles para atender el requerimiento."
+                }
+              ]
+            },
+            {
+              "title": "Cómo revocar tu consentimiento",
+              "description": "Puedes revocar tu consentimiento; podrían existir casos en que, por obligaciones legales, debamos seguir tratando tus datos o que la revocación implique no poder prestarte ciertos servicios.",
+              "subcontent": [
+                {
+                  "title": "Dónde solicitar la revocación",
+                  "description": "Correo a la Oficina de Privacidad Codere México: dataprotection@codereonline.com (Tel. 55 5201 7800, Ext. 50074, 09:00–15:00 hrs); o presenta tu solicitud en el domicilio de la Oficina de Privacidad."
+                },
+                {
+                  "title": "Requisitos de la solicitud de revocación",
+                  "description": "Asunto: \"REVOCACIÓN\". Incluye nombre, medio de contacto, identificación, descripción clara de los datos respecto de los cuales revocas. Plazo de respuesta: máximo 20 días hábiles."
+                }
+              ]
+            },
+            {
+              "title": "Cómo limitar el uso o divulgación de tus datos",
+              "description": "Puedes solicitar la limitación del uso/divulgación enviando correo a privacidad.codere@codere.com o presentándote en la Oficina de Privacidad.*Si deseas dejar de recibir correos promocionales, envía desde tu correo registrado un email a privacidad.codere@codere.com con asunto \"Baja\". También puedes inscribirte en el Registro Público para Evitar Publicidad (PROFECO)."
+            },
+            {
+              "title": "Cambios al Aviso de Privacidad",
+              "description": "Este aviso puede modificarse por nuevos requisitos legales, cambios en servicios, prácticas de privacidad o modelo de negocio. Publicaremos la versión vigente en www.codere.mx. Si no manifiestas oposición, entenderemos tu consentimiento tácito para el tratamiento conforme a la versión actualizada."
+            },
+            {
+              "title": "Tecnologías de rastreo en el portal (cookies y similares)",
+              "description": "Usamos cookies, web beacons y tecnologías afines para monitorear tu comportamiento como usuario, mejorar la experiencia y ofrecer productos y servicios acordes a tus preferencias.*Datos que podemos obtener: dirección IP, horario y tiempo de navegación, secciones consultadas y páginas previas.",
+              "subcontent": [
+                {
+                  "title": "Con quién se comparten datos obtenidos vía cookies",
+                  "ul": [
+                    "Autoridades competentes: para cumplir disposiciones y/o requerimientos legales.",
+                    "Empresas del GRUPO CODERE: para mejorar tu experiencia y ofrecerte productos/servicios según tus preferencias."
+                  ]
+                },
+                {
+                  "title": "Gestión de cookies",
+                  "description": "Puedes configurar tu navegador para ser notificado y rechazar cookies. Rechazarlas puede limitar funcionalidades del sitio; solo se garantiza el correcto funcionamiento si las cookies son aceptadas."
+                }
+              ]
+            },
+            {
+              "title": "Quejas por tratamiento indebido",
+              "description": "Si consideras vulnerados tus derechos de protección de datos por acciones u omisiones de Codere, puedes presentar queja o denuncia ante la Secretaría Anticorrupción y Buen Gobierno."
+            },
+            {
+              "title": "Fecha de actualización del Aviso de Privacidad",
+              "description": "1 de mayo de 2025."
+            }
+          ]
+        }
+      },
+      "terms-and-conditions": {
+        "id": "terms-and-conditions",
+        "label": "Términos y condiciones",
+        "url": "/ayuda/legal/terminos-y-condiciones",
+        "page": {
+          "seo": {
+            "title": "Términos de uso y condiciones generales | Codere®",
+            "description": "Consulta los Términos y Condiciones de Codere México: reglas de uso, apuestas, pagos, seguridad y juego responsable."
+          },
+          "top": {
+            "title": "Términos y condiciones de uso de Codere México",
+            "description": "Esta guía resume, en lenguaje claro, las políticas que rigen los juegos con apuesta y sorteos de Codere cuando participas por Internet, telefónicamente o mediante medios electrónicos en México. Aquí encontrarás cómo se presta el servicio, quién puede jugar, cómo se registran las transacciones, cómo se pagan premios, qué áreas de juego existen y qué hacer ante incidencias."
+          },
+          "content": [
+            {
+              "title": "Políticas generales del servicio",
+              "description": "Codere puede ofrecer apuestas por teléfono, por medios telemáticos que no usan Internet y por Internet para eventos futuros con resultado por resolver, como deportes, carreras de caballos y galgos. Para usar estos servicios debes suscribir previamente un contrato o solicitud y aceptar las reglas de prestación del servicio. Los Términos y Condiciones del Portal son las normas que rigen los juegos y sorteos por estos canales y pueden modificarse sin previo aviso. El sistema de control interno asegura la inviolabilidad y evita la manipulación de apuestas y sorteos.*Se emplea tecnología actualizada para garantizar que las participaciones se realicen dentro del territorio nacional; el Portal registra tu IP, puede emplear cookies y, con fines de verificación, registrar la dirección MAC del dispositivo. Todas las apuestas, información de manejo, bolsas, premios y pagos se reflejan en pesos mexicanos."
+            },
+            {
+              "title": "Requisitos del usuario y registro",
+              "description": "Para participar debes ser mayor de 18 años o la edad mínima legal aplicable. Al registrarte aceptas previamente las condiciones del servicio. El registro se realiza en el sistema principal completando el formulario con los datos de tu INE o, si no cuentas con ella, tu pasaporte (solo válido si eres mayor de edad).*Solo puedes tener una cuenta activa (telefónica, telemática o por Internet) y debes conectarte o llamar desde ciudades donde apostar por teléfono esté permitido. También debes contar con saldo suficiente. Estás obligado a mantener tus datos actualizados (domicilio, teléfono, correo) desde el Portal."
+            },
+            {
+              "title": "Acceso, seguridad y uso de la cuenta",
+              "description": "Tu cuenta es personal e intransferible. Usuario y contraseña son confidenciales; eres responsable de su uso. Para apuestas telefónicas podrás ser verificado con usuario y PIN, y la Empresa puede implementar autenticación biométrica u otros métodos de mayor seguridad.*Está prohibido abrir cuentas mediante interpósita persona. Toda la información que proporciones es confidencial y se trata conforme al Aviso de Privacidad. Tras revisar tu apuesta, debes confirmarla en el sistema; asegúrate de que fue registrada correctamente. Una vez confirmada, no se aceptan cambios ni reclamaciones."
+            },
+            {
+              "title": "Depósitos, retiros, pago de apuestas y cobro de premios",
+              "description": "Puedes usar el sistema siempre que tengas saldo a favor; tu saldo está disponible para consulta. Los depósitos y retiros se realizan con medios de pago seguros y autorizados en México. Si el retiro supera el equivalente a $65,000 MXN, notifícalo con 48 horas hábiles de anticipación.*Para cumplir con normas antilavado y mejores prácticas corporativas, Codere puede solicitar acreditación de identidad y referencias del origen de fondos. Los premios y reembolsos se abonan al saldo una vez descontados gastos e impuestos correspondientes; podrá aplicar un cargo por administración de riesgo de hasta el 20% del valor del premio pagado. No se permiten transferencias de saldo entre cuentas de distintos usuarios."
+            },
+            {
+              "title": "Condición de apuesta mínima para retiros en canal Internet",
+              "description": "Para retirar saldos del canal digital, debes haber apostado al menos el 50% del dinero depositado a lo largo de tu histórico en cualquiera de los productos disponibles. Las solicitudes de retiro que no cumplan esta condición serán denegadas."
+            },
+            {
+              "title": "Sistema Central y resguardo de información",
+              "description": "El Registro de Cuentas de Participante y Transacciones, y el Sistema de Juegos/Sorteos/Apuestas, se alojan dentro de México, con requisitos técnicos y de seguridad de alto nivel. No se ubicarán fuera del país y los datos personales se tratan conforme a la ley mexicana. SEGOB y el SAT pueden monitorear estos sistemas."
+            },
+            {
+              "title": "Áreas y pantallas de juego disponibles",
+              "subcontent": [
+                {
+                  "title": "Bingo clásico (Yak)",
+                  "description": "Partidas (sorteos de números) con combinaciones/patrones ganadores detallados en pantalla. El premio a repartir depende de participantes o cartones vendidos. Puedes comprar cartones para la siguiente, una en específico o varias consecutivas."
+                },
+                {
+                  "title": "Video Bingo activo",
+                  "description": "Premios fijos según patrones conseguidos durante la extracción de bolas numeradas. La partida dura pocos segundos y puede participar uno o varios jugadores."
+                },
+                {
+                  "title": "Máquinas de video rodillos (slots)",
+                  "description": "Premios según combinaciones de símbolos tras el sorteo de números. Partidas de pocos segundos con un participante por juego. Variantes por número de líneas, montos mínimos por combinación, combinaciones opcionales, segundos premios, acumulados y bonos."
+                },
+                {
+                  "title": "Juegos clásicos",
+                  "description": "Apuestas en juegos tradicionales como dados y otras variedades de apuesta fija a números, colores, docenas, tercios, columnas, cruces y diagonales."
+                },
+                {
+                  "title": "Juegos de momios fijos",
+                  "description": "Apuestas a juegos de cuota fija, con visualización digital o imágenes reales, reglas y esquemas de premios explicados en pantallas informativas bajo solicitud."
+                },
+                {
+                  "title": "Apuesta deportiva",
+                  "description": "Apuestas a eventos de fútbol, futbol americano, basquetbol, béisbol, hockey, tenis, automovilismo, box, carreras de caballos y galgos, eSports, entre otros. Puedes apostar a eventos en vivo o futuros. Se permiten combinadas de distintos eventos futuros y el resultado final de una apuesta combinada se contabiliza al concluir el último evento."
+                }
+              ]
+            },
+            {
+              "title": "Resultados, RNG y celebración de juegos",
+              "description": "Para juegos con apuesta y sorteos (excepto Apuesta Deportiva), los resultados se generan mediante un Generador de Números Aleatorios (RNG) insertado en el sistema/servidor, certificado por laboratorios especializados y conforme a los procesos de Evaluación de la Conformidad dictados por la autoridad (SEGOB y/o Secretaría de Economía). Esto garantiza aleatoriedad y equidad."
+            },
+            {
+              "title": "Devoluciones e incidencias técnicas",
+              "description": "Si durante un sorteo ocurre un fallo o avería en terminales, teléfonos o aparatos, el sorteo se suspende y se devuelve a las cuentas el importe íntegro de las apuestas en juego. El Sistema Central genera un registro de la incidencia por 10 días para posibles reclamaciones. Todos los pagos procedentes de malfuncionamiento del sistema serán anulados."
+            },
+            {
+              "title": "Exención de responsabilidad sobre contenidos de terceros",
+              "description": "Codere puede dar acceso a información de terceros (livescores, resultados, transmisiones de video, etc.). No asume responsabilidad por errores en exactitud, integridad o actualidad de estos contenidos y puede corregir a posteriori errores o fallos."
+            },
+            {
+              "title": "Juego responsable y soporte al usuario",
+              "description": "No se admite la participación de menores de edad. Puedes cancelar tu cuenta cuando quieras; tras la cancelación, no se permitirá un nuevo registro hasta pasadas 24 horas. Puedes definir límites de depósito diarios, semanales o mensuales como medida de autocontrol. La Empresa dispone de un centro de atención telefónica y un sistema de autoexclusión."
+            },
+            {
+              "title": "Buenas prácticas para jugar seguro",
+              "description": "Confirma siempre tu apuesta antes de Aceptar; una vez confirmada, no admite cambios. Mantén actualizados tus datos y protege tu contraseña. Verifica tus retiros cumpliendo la condición de apuesta mínima del canal Internet. Revisa con antelación retiros superiores a $65,000 MXN. Conserva tus comprobantes electrónicos y número de folio."
+            },
+            {
+              "title": "Resumen para empezar hoy",
+              "description": "Regístrate, verifica tu identidad, deposita con métodos autorizados, confirma tus apuestas y consulta resultados oficiales desde tu cuenta. Tus fondos están segregados, tus transacciones se registran en México y los juegos usan RNG certificado cuando aplica. Ante dudas o incidencias, tienes soporte, devoluciones por fallos y reglas claras para cada modalidad."
+            }
+          ]
+        }
+      },
+      "responsible-gaming": {
+        "id": "responsible-gaming",
+        "label": "Juego responsable",
+        "url": "/ayuda/legal/juego-responsable",
+        "page": {
+          "seo": {
+            "title": "Juego Responsable: Seguridad y Control | Codere®",
+            "description": "Conoce qué es el juego responsable en Codere México y las herramientas disponibles para apostar con control, seguridad y equilibrio."
+          },
+          "top": {
+            "title": "Juego responsable: prevención y control en Codere",
+            "description": "En Grupo Codere estamos comprometidos con ofrecer un entorno de entretenimiento seguro, confiable y responsable, tanto en apuestas online como en locales físicos. Nuestro objetivo es que el juego se mantenga como una actividad divertida y nunca se convierta en un problema."
+          },
+          "content": [
+            {
+              "title": "¿Qué significa jugar con responsabilidad?",
+              "description": "Para la mayoría de las personas, el juego es una actividad social y de ocio practicada con moderación. Pero puede convertirse en un problema si:",
+              "ul": [
+                "Interfiere con tu trabajo, estudios u otras actividades.",
+                "Provoca problemas emocionales o de salud.",
+                "Te genera dificultades financieras.",
+                "Afecta tus relaciones familiares o personales."
+              ]
+            },
+            {
+              "title": "El perfil del jugador responsable",
+              "ul": [
+                "Juega para divertirse, no para ganar dinero.",
+                "Acepta que puede ganar o perder.",
+                "Mantiene control sobre el tiempo y el dinero invertido.",
+                "Convierte el juego en una experiencia agradable, sin riesgos para sí mismo ni para quienes lo rodean."
+              ]
+            },
+            {
+              "title": "Consejos prácticos para jugar con seguridad",
+              "ul": [
+                "Considera el juego como entretenimiento, no como forma de ingreso.",
+                "Juega solo con dinero que puedas permitirte perder.",
+                "Establece un límite de gasto y un límite de tiempo antes de empezar.",
+                "Evita jugar si estás estresado o deprimido.",
+                "Alterna el juego con otras actividades.",
+                "No intentes recuperar pérdidas.",
+                "Descansa y haz pausas frecuentes.",
+                "Evita alcohol o drogas al jugar."
+              ]
+            },
+            {
+              "title": "Protección de menores de edad",
+              "description": "El juego es exclusivo para mayores de 18 años. Por eso:",
+              "ul": [
+                "Informamos sobre esta prohibición en todos nuestros canales.",
+                "Verificamos la edad de cada jugador con documentos oficiales.",
+                "Bloqueamos el acceso a quienes no cumplan con la edad legal."
+              ],
+              "subcontent": [
+                {
+                  "title": "Consejos para familias y tutores",
+                  "ul": [
+                    "Habla con tus hijos sobre los riesgos del juego.",
+                    "Supervisa sus actividades online y gastos.",
+                    "Protege tus dispositivos con contraseñas y bloqueos.",
+                    "Siempre encontrarás el logotipo +18 en nuestros espacios de juego."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Derecho de autoexclusión",
+              "description": "La autoexclusión permite que un jugador decida bloquear su acceso temporal o definitivamente. Al solicitarla:",
+              "ul": [
+                "Tu cuenta queda bloqueada de inmediato.",
+                "Puedes retirar tus fondos en cualquier momento.",
+                "No recibirás comunicaciones de Codere durante ese periodo.",
+                "Solicita la autoexclusión escribiendo a apuestas@codere.mx."
+              ]
+            },
+            {
+              "title": "Control de tiempo y gasto",
+              "description": "Codere te facilita herramientas para mantener el control:",
+              "ul": [
+                "Visualiza la fecha de tu última conexión.",
+                "Consulta un reloj en pantalla durante tus partidas.",
+                "Accede a tu saldo disponible en segundos.",
+                "Revisa todos tus movimientos económicos y resultados de juego."
+              ]
+            },
+            {
+              "title": "Test de autocontrol",
+              "description": "Responde con sinceridad a estas preguntas. Si contestas \"sí\" a 5 o más, considera pedir ayuda:",
+              "ul": [
+                "¿Juegas más dinero del planeado?",
+                "¿Intentas detenerte y no lo logras?",
+                "¿Juegas para evadir problemas?",
+                "¿Recurres al juego para recuperar pérdidas?",
+                "¿Has tenido problemas económicos, familiares o laborales por jugar?"
+              ]
+            },
+            {
+              "title": "Dónde pedir ayuda",
+              "description": "Si el juego ha dejado de ser un pasatiempo, contacta con instituciones especializadas:",
+              "ul": [
+                "Comisión Nacional contra las Adicciones.",
+                "Centro Nacional para la Prevención y Control de Adicciones.",
+                "Directorio nacional para atención al juego patológico en México.",
+                "Llama a nuestro equipo de atención: 800 227 4667.",
+                "Centro de Orientación Telefónica (COT): 800 911 2000, atiende 24/7."
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "En Grupo Codere trabajamos para que disfrutes de un juego responsable, seguro y controlado. Con nuestras herramientas de límites, autoexclusión y asesoría, siempre tendrás el control de tu experiencia."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "club-codere": {
+    "id": "Club Codere",
+    "label": "Club Codere",
+    "url": "/ayuda/club-codere",
+    "page": {
+      "seo": {
+        "title": "Club Codere: beneficios y promociones exclusivas | Codere®",
+        "description": "Conoce los beneficios del Club Codere y las promociones exclusivas para sus miembros."
+      },
+      "top": {
+        "title": "Club Codere: beneficios exclusivos para miembros",
+        "description": "El Club Codere es nuestro programa de fidelización para premiar la lealtad de nuestros jugadores con beneficios exclusivos en casinos físicos y online."
+      },
+      "content": [
+        {
+          "title": "Próximamente más información",
+          "description": "Mantente atento a esta sección para conocer todos los detalles sobre el Club Codere, niveles, recompensas y cómo registrarte."
+        }
+      ]
+    },
+    "items": {}
+  },
+  "casinos-fisicos": {
+    "id": "Casinos físicos",
+    "label": "Casinos físicos",
+    "url": "/ayuda/casinos-fisicos",
+    "page": {
+      "seo": {
+        "title": "Localiza tu casino Codere más cercano en México | Codere®",
+        "description": "Descubre los casinos físicos de Codere, su ubicación, servicios y juegos disponibles para los jugadores."
+      },
+      "top": {
+        "title": "Tu lugar para disfrutar el juego en vivo: Casinos Codere",
+        "description": "Codere no solo es apuestas online. También contamos con una red de casinos físicos en todo México, donde disfrutas de una experiencia completa: máquinas de juego de última generación, apuestas deportivas en vivo, gastronomía variada y promociones exclusivas para miembros."
+      },
+      "content": [
+        {
+          "title": "¿Por qué visitar los casinos físicos Codere?",
+          "ul": [
+            "Diversión sin límites: máquinas tragamonedas, ruleta, blackjack y apuestas deportivas.",
+            "Promociones exclusivas: beneficios especiales para clientes registrados.",
+            "Gastronomía variada: disfruta de una experiencia de ocio completa.",
+            "Ambiente seguro y confiable: instalaciones reguladas con los más altos estándares."
+          ]
+        },
+        {
+          "title": "Casinos Codere en la Ciudad de México y Estado de México",
+          "ul": [
+            "Yak Cuauhtémoc",
+            "Pabellón Cuauhtémoc",
+            "Santa Fe",
+            "Galerías Coapa",
+            "Parque Delta",
+            "Patriotismo",
+            "Codere Hipódromo",
+            "Mundo E",
+            "Interlomas",
+            "Lindavista"
+          ]
+        },
+        {
+          "title": "Casinos Codere en Centro y Bajío",
+          "ul": [
+            "Yak Centro Magno",
+            "Tlaquepaque",
+            "Aguascalientes",
+            "Codere León",
+            "Querétaro",
+            "San Luis Potosí",
+            "Guadalupe",
+            "Cuernavaca"
+          ]
+        },
+        {
+          "title": "Casinos Codere en Occidente y Pacífico",
+          "ul": [
+            "Yak Morelia",
+            "Coacalco",
+            "Codere Culiacán",
+            "Mazatlán",
+            "Los Mochis",
+            "Hermosillo"
+          ]
+        },
+        {
+          "title": "Casinos Codere en Norte y Noreste",
+          "ul": ["Codere Monterrey", "Durango", "La Paz", "Los Cabos"]
+        },
+        {
+          "title": "Casinos Codere en Sureste y Península",
+          "ul": ["Yak y Codere Cancún", "Playa del Carmen", "Cozumel", "Mérida"]
+        },
+        {
+          "title": "Casinos Codere en Puebla y Veracruz",
+          "ul": ["Yak Gran Sur", "Codere Las Ánimas", "Puebla", "Veracruz"]
+        },
+        {
+          "title": "Conclusión",
+          "description": "En Codere siempre tendrás un casino cerca para disfrutar de la emoción en vivo. Ya sea en CDMX, el Bajío, el Pacífico o la Península, encontrarás espacios modernos, seguros y llenos de diversión."
+        }
+      ]
+    },
+    "items": {}
+  }
+}

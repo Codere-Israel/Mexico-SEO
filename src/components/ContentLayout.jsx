@@ -1,95 +1,116 @@
-import myStore from "../mobx/myStore";
+import React from "react";
+import { observer } from "mobx-react";
 import { useLocation } from "react-router-dom";
+import myStore from "../mobx/myStore";
+import { CodereHelmet } from "../data/helpers";
 
-const ContentLayout = ({ subtopicObject }) => {
-  const splitParagraphs = (text) => text?.split("*")?.filter(Boolean);
-  const tableList = subtopicObject?.content?.map((item) => item.title);
+const splitParagraphs = (text) =>
+  typeof text === "string" ? text.split("*").filter(Boolean) : [];
 
+function renderSection(section, depth = 1, idx = 0) {
+  if (!section) return null;
+  const Heading = depth === 1 ? "h2" : "h3";
+  const headingClass = depth === 1 ? "text-2xl" : "text-xl";
+  const sectionMargin = depth === 1 ? "mt-5" : "mt-2";
+  const sectionPrefix = depth === 1 ? "par" : "sub";
+
+  return (
+    <section id={`${sectionPrefix}-${idx}`} className={sectionMargin}>
+      {section.title && (
+        <Heading className={`text-green ${headingClass}`}>
+          {section.title}
+        </Heading>
+      )}
+
+      {splitParagraphs(section.description).map((p, i) => (
+        <p key={i} className={i === 0 ? "" : "mt-2"}>
+          {p}
+        </p>
+      ))}
+
+      {Array.isArray(section.ul) && section.ul.length > 0 && (
+        <ul className="list-disc ml-6 mt-2">
+          {section.ul.map((item, i) => (
+            <li key={i} className="mt-1">
+              {item}
+            </li>
+          ))}
+        </ul>
+      )}
+
+      {section.table && <Table table={section.table} />}
+
+      {Array.isArray(section.subcontent) && section.subcontent.length > 0 && (
+        <div className="ps-4">
+          {section.subcontent.map((sub, sIdx) => (
+            <React.Fragment key={sIdx}>
+              {renderSection(sub, depth + 1, sIdx)}
+            </React.Fragment>
+          ))}
+        </div>
+      )}
+    </section>
+  );
+}
+
+const ContentLayout = observer(({ subtopicObject: propsObject }) => {
+  // Allow the component to work either with an explicit prop OR by reading
+  // from the store directly (when used as a route page).
+  const subtopicObject = propsObject ?? myStore.subtopicObject;
   const location = useLocation();
 
-  function renderSection(section, depth = 1, key) {
-    const Heading = depth === 1 ? "h2" : "h3";
-
+  if (!subtopicObject) {
     return (
-      <section
-        id={`${depth === 1 ? "par" : "sub"}-${key}`}
-        key={key}
-        className={`mt-${depth === 1 ? 5 : 2}`}
-      >
-        {/* Title */}
-        {section.title && (
-          <Heading
-            className={`text-green ${depth === 1 ? "text-2xl" : "text-xl"}`}
-          >
-            {section.title}
-          </Heading>
-        )}
-
-        {section?.description &&
-          splitParagraphs(section?.description).map((p, idx) => (
-            <p key={idx} className={`mt-${!idx ? 0 : 2}`}>
-              {p}
-            </p>
-          ))}
-
-        {/* UL List */}
-        {section?.ul && (
-          <ul className="list-disc ml-6 mt-2">
-            {section.ul.map((item, i) => (
-              <li key={i} className="mt-1">
-                {item}
-              </li>
-            ))}
-          </ul>
-        )}
-
-        {/* TABLE */}
-        {section?.table && <Table table={section.table} />}
-
-        {/* SUB-SECTIONS → always h3 */}
-        {section?.subcontent && (
-          <div className="ps-4">
-            {section?.subcontent.map((sub, sIdx) =>
-              renderSection(sub, 2, sIdx),
-            )}
-          </div>
-        )}
-      </section>
+      <div className="w-8/9 xl:w-3/5 mx-auto py-10 text-center">
+        <p>Selecciona un tema en el menú lateral para ver su contenido.</p>
+      </div>
     );
   }
 
+  const top = subtopicObject.top || {};
+  const content = Array.isArray(subtopicObject.content)
+    ? subtopicObject.content
+    : [];
+
   return (
     <>
-      {/* {CodereHelmet(subtopicObject?.seo, location.pathname)} */}
+      {CodereHelmet(subtopicObject?.seo, location.pathname)}
 
-      <div className="w-8/9 xl:w-3/5 mx-auto">
-        {/* Top Section */}
+      <div
+        className="w-8/9 xl:w-3/5 mx-auto min-h-screen"
+        data-path={location.pathname}
+      >
         <section className="top-section mt-5">
-          <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">
-            {subtopicObject?.top?.title}
-          </h1>
-
-          {splitParagraphs(subtopicObject?.top?.description)?.map(
-            (p, index) => (
-              <p className="mt-1" key={index}>
-                {p}
-              </p>
-            ),
+          {top.title && (
+            <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">
+              {top.title}
+            </h1>
           )}
+
+          {splitParagraphs(top.description).map((p, i) => (
+            <p key={i} className="mt-1">
+              {p}
+            </p>
+          ))}
         </section>
 
-        {subtopicObject?.content?.map((section, index) =>
-          renderSection(section, 1, index),
-        )}
+        {content.map((section, idx) => (
+          <React.Fragment key={idx}>
+            {renderSection(section, 1, idx)}
+          </React.Fragment>
+        ))}
       </div>
     </>
   );
-};
+});
 
 export const Table = ({ table }) => {
+  if (!table || !Array.isArray(table.headers) || !Array.isArray(table.rows)) {
+    return null;
+  }
+
   return (
     <div className="md:w-1/3! w-full!">
-      {/* Mobile: scroll | Desktop: no scroll */}
       <div className="overflow-x-auto md:overflow-visible w-full">
         <table className="mt-2 border text-left text-[10px] md:text-[14px] min-w-max">
           <thead>
@@ -104,11 +125,10 @@ export const Table = ({ table }) => {
               ))}
             </tr>
           </thead>
-
           <tbody>
             {table.rows.map((row, rIdx) => (
               <tr key={rIdx}>
-                {row.map((cell, cIdx) => (
+                {(Array.isArray(row) ? row : []).map((cell, cIdx) => (
                   <td key={cIdx} className="border px-2! py-1!">
                     {cell}
                   </td>
