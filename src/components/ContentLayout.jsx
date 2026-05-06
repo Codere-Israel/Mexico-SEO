@@ -62,34 +62,35 @@ const ContentLayout = ({ subtopicObject }) => {
       </section>
     );
   }
-  const IMAGE_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/${
-    myStore?.topic
-  }/${myStore?.subtopic?.toLowerCase()}`;
-
-  // const IMAGE_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/${
-  //   myStore?.topic
-  // }/${myStore?.subtopic?.toLowerCase()}`;
+  const topic = myStore?.topic;
+  const subtopic = myStore?.subtopic?.toLowerCase() || subtopicObject?.id;
+  const IMAGE_PREFIX =
+    topic && subtopic
+      ? `https://www.codere.mx/library/SEO_pages_assets/img/${topic}/${subtopic}`
+      : "";
 
   return (
     <>
       {CodereHelmet(subtopicObject?.seo, location.pathname)}
       <FloatingText text={subtopicObject?.floating} />
 
-      <picture>
-        <source
-          srcSet={`${IMAGE_PREFIX}/m-hero.jpg`}
-          media="(max-width: 768px)"
-        />
-        <source
-          srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
-          media="(min-width: 769px)"
-        />
-        <img
-          srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
-          loading="eager"
-          className="responsive-picture"
-        />
-      </picture>
+      {IMAGE_PREFIX && (
+        <picture>
+          <source
+            srcSet={`${IMAGE_PREFIX}/m-hero.jpg`}
+            media="(max-width: 768px)"
+          />
+          <source
+            srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
+            media="(min-width: 769px)"
+          />
+          <img
+            srcSet={`${IMAGE_PREFIX}/d-hero.jpg`}
+            loading="eager"
+            className="responsive-picture"
+          />
+        </picture>
+      )}
 
       <div className="w-8/9 xl:w-3/5 mx-auto">
         {myStore?.subtopic === "deportes" && <SportGames />}
