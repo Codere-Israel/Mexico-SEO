@@ -61,7 +61,7 @@ const ContentLayout = observer(({ subtopicObject: propsObject }) => {
 
   if (!subtopicObject) {
     return (
-      <div className="w-8/9 xl:w-3/5 mx-auto py-10 text-center">
+      <div className="w-8/9 md:w-3/4 xl:w-3/5 mx-auto py-10 text-center">
         <p>Selecciona un tema en el menú lateral para ver su contenido.</p>
       </div>
     );
@@ -77,7 +77,7 @@ const ContentLayout = observer(({ subtopicObject: propsObject }) => {
       {CodereHelmet(subtopicObject?.seo, location.pathname)}
 
       <div
-        className="w-8/9 xl:w-3/5 mx-auto min-h-screen"
+        className="w-8/9 md:w-3/4 xl:w-3/5 mx-auto min-h-screen"
         data-path={location.pathname}
       >
         <section className="top-section mt-5">

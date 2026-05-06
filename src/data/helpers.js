@@ -30,3 +30,46 @@ export function CodereHelmet(seo, canonical) {
 
 export const REGISTER =
   "https://www.codere.mx/registro-deportes?clientType=sportsbook";
+
+const normalize = (s) =>
+  String(s ?? "")
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+
+const isolate = (node) => {
+  if (!node || typeof node !== "object") return node;
+  const { items, ...rest } = node;
+  return rest;
+};
+
+export const searchHelp = (data, query, opts = {}) => {
+  const needle = normalize(query);
+  if (!needle || !data) return [];
+
+  const out = [];
+  const { limit } = opts;
+
+  const matches = (node) => {
+    if (!node) return false;
+    return normalize(JSON.stringify(node)).includes(needle);
+  };
+
+  const push = ({ id, label, url }) => {
+    out.push({ id, label, url });
+    return limit && out.length >= limit;
+  };
+
+  for (const topic of Object.values(data)) {
+    if (matches(isolate(topic)) && push(topic)) return out;
+
+    const items = topic?.items || {};
+    for (const sub of Object.values(items)) {
+      if (matches(sub) && push(sub)) return out;
+    }
+  }
+
+  return out;
+};

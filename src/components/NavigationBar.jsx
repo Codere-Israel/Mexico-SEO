@@ -48,7 +48,7 @@ const SubtopicLink = observer(({ topicSlug, slug, node, onNavigate }) => {
           onNavigate?.();
         }}
         aria-current={isActive ? "page" : undefined}
-        className={`block _py-1 text-[14px] cursor-pointer text-white`}
+        className={`block _py-1 text-[13px] cursor-pointer text-white ps-2 pe-5 ${isActive ? "nav-active" : ""}`}
       >
         {label}
       </Link>
@@ -86,7 +86,7 @@ const NavList = observer(({ onNavigate }) => {
 
   return (
     <nav
-      className="e-nav flex flex-col min-h-full p-4 pt-0 gap-1"
+      className="e-nav flex flex-col min-h-full ps-4 gap-1"
       aria-label="Centro de ayuda"
     >
       <div className="flex  gap-2 pb-2 md:py-2 cursor-pointer">
