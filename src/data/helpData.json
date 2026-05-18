@@ -2347,22 +2347,11 @@
   "club-codere": {
     "id": "Club Codere",
     "label": "Club Codere",
-    "url": "/ayuda/club-codere",
+    "url": "https://www.codere.mx/casino/codere-club",
     "page": {
-      "seo": {
-        "title": "Club Codere: beneficios y promociones exclusivas | Codere®",
-        "description": "Conoce los beneficios del Club Codere y las promociones exclusivas para sus miembros."
-      },
-      "top": {
-        "title": "Club Codere: beneficios exclusivos para miembros",
-        "description": "El Club Codere es nuestro programa de fidelización para premiar la lealtad de nuestros jugadores con beneficios exclusivos en casinos físicos y online."
-      },
-      "content": [
-        {
-          "title": "Próximamente más información",
-          "description": "Mantente atento a esta sección para conocer todos los detalles sobre el Club Codere, niveles, recompensas y cómo registrarte."
-        }
-      ]
+      "seo": {},
+      "top": {},
+      "content": []
     },
     "items": {}
   },

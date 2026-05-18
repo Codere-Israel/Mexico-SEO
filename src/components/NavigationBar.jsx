@@ -183,7 +183,7 @@ const NavigationBar = observer(() => {
     <>
       <button
         type="button"
-        className="md:hidden inline-flex items-center gap-2 bg-[#333F48] justify-start p-3 text-green uppercase"
+        className="fixed w-100 md:hidden inline-flex items-center gap-2 bg-[#333F48] justify-start p-3 text-green uppercase"
         aria-label="Abrir menú de ayuda"
         aria-expanded={isOpen}
         aria-controls="ayuda-nav-drawer"

@@ -1,40 +1,48 @@
 import React from "react";
 import { CodereHelmet, searchHelp } from "../data/helpers";
 import myStore from "../mobx/myStore";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 const quickLinks = [
   {
     title: "Recuperar contraseña",
     desc: "Restablece tu acceso fácilmente",
+    url: "/ayuda/recuperacion-contrasena",
   },
   {
     title: "Verificar tu cuenta",
     desc: "Completa la verificación",
+    url: "/ayuda/cuenta/verificacion-documental",
   },
   {
     title: "Depósito mínimo y métodos",
     desc: "Consulta opciones disponibles",
+    url: "/ayuda/cuenta/depositos-online-y-local",
   },
   {
     title: "Retirar dinero (online y presencial)",
     desc: "Retira tus fondos",
+    url: "/ayuda/cuenta/cobro-online-y-local",
   },
   {
     title: "Cancelar cuenta",
     desc: "Cierra tu cuenta",
+    url: "/ayuda/cuenta/cancelacion-de-la-cuenta",
   },
   {
     title: "Contactar soporte 24/7",
     desc: "Obtén ayuda inmediata",
+    url: "https://www.codere.mx/ayuda/contacto",
   },
   {
     title: "Descargar la app",
     desc: "Instala la aplicación",
+    url: "/ayuda/apuesta-en-tu-movil",
   },
   {
     title: "Bonos: cómo funcionan",
     desc: "Entiende los bonos",
+    url: "/ayuda/dudas-codere/apuestas/bono-codere",
   },
 ];
 
@@ -111,7 +119,8 @@ const AyudaIndex = () => {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-3">
           {quickLinks.map((item, i) => (
-            <div
+            <NavLink
+              to={item.url}
               key={i}
               className="border h-[150px] text-center flex flex-col justify-center rounded-md p-3 hover:shadow-sm cursor-pointer transition"
             >
@@ -120,7 +129,7 @@ const AyudaIndex = () => {
               <h3 className="mt-1 font-medium">{item.title}</h3>
 
               <p className="text-sm mt-1 text-gray-600">{item.desc}</p>
-            </div>
+            </NavLink>
           ))}
         </div>
       </section>
