@@ -7,7 +7,7 @@ const quickLinks = [
   {
     title: "Recuperar contraseña",
     desc: "Restablece tu acceso fácilmente",
-    url: "/ayuda/recuperacion-contrasena",
+    url: "/ayuda/cuenta/recuperacion-contrasena",
   },
   {
     title: "Verificar tu cuenta",
