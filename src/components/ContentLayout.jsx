@@ -77,7 +77,7 @@ const ContentLayout = observer(({ subtopicObject: propsObject }) => {
       {CodereHelmet(subtopicObject?.seo, location.pathname)}
 
       <div
-        className="w-8/9 md:w-3/4 xl:w-3/5 mx-auto min-h-screen"
+        className="w-8/9 md:w-3/4 xl:w-3/5 _mx-auto ps-[19px] md:ms-[100px] min-h-screen"
         data-path={location.pathname}
       >
         <section className="top-section mt-5">

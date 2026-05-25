@@ -89,7 +89,7 @@ const NavList = observer(({ onNavigate }) => {
       className="e-nav flex flex-col min-h-full ps-4 gap-1"
       aria-label="Centro de ayuda"
     >
-      <div className="flex  gap-2 pb-2 md:py-2 cursor-pointer">
+      <div className="flex  gap-2 pb-2 md:py-2 cursor-pointer w-[250px] ">
         <img
           src="https://www.codere.mx/library/Logos/support.png"
           alt="Support Logo"
@@ -183,7 +183,7 @@ const NavigationBar = observer(() => {
     <>
       <button
         type="button"
-        className="fixed w-100 md:hidden inline-flex items-center gap-2 bg-[#333F48] justify-start p-3 text-green uppercase"
+        className="fixed w-screen md:hidden inline-flex items-center gap-2 bg-[#333F48] justify-start p-3 text-green uppercase"
         aria-label="Abrir menú de ayuda"
         aria-expanded={isOpen}
         aria-controls="ayuda-nav-drawer"
@@ -222,7 +222,7 @@ const NavigationBar = observer(() => {
           role="dialog"
           aria-modal="true"
           aria-label="Centro de ayuda"
-          className={`absolute top-0 left-0 h-full w-[85%] max-w-[340px] bg-[#333f48] shadow-xl flex flex-col transform transition-transform duration-200 ease-out ${
+          className={`absolute top-0 left-0 h-full w-[85%] max-w-[260px] bg-[#333f48] shadow-xl flex flex-col transform transition-transform duration-200 ease-out ${
             isOpen ? "translate-x-0" : "-translate-x-full"
           }`}
         >
@@ -235,7 +235,7 @@ const NavigationBar = observer(() => {
             ></button>
           </div>
 
-          <div className="flex-1 overflow-y-auto px-3 pb-3">
+          <div className="flex-1 overflow-y-auto ps-3 pb-3">
             <NavList onNavigate={() => setIsOpen(false)} />
           </div>
         </aside>

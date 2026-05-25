@@ -65,7 +65,7 @@ const AyudaIndex = () => {
   });
 
   return (
-    <div className="w-8/9 md:w-3/4 xl:w-3/5 mx-auto min-h-screen">
+    <div className="w-8/9 md:w-3/4 xl:w-8/9 md:ps-[25px] ps-0 mx-auto min-h-screen">
       {/* HERO */}
       <section className="mt-5">
         <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">
@@ -74,7 +74,7 @@ const AyudaIndex = () => {
 
         <p className="mt-2">Busca tu duda</p>
 
-        <div className="w-full md:w-2/5 xl:w-1/3 flex flex-col">
+        <div className="w-full flex flex-col">
           <div>
             <input
               type="text"
