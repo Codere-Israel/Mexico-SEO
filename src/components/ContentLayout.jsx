@@ -62,13 +62,10 @@ const ContentLayout = ({ subtopicObject }) => {
       </section>
     );
   }
+  // const IMAGE_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/${
   const IMAGE_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/${
     myStore?.topic
   }/${myStore?.subtopic?.toLowerCase()}`;
-
-  // const IMAGE_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/${
-  //   myStore?.topic
-  // }/${myStore?.subtopic?.toLowerCase()}`;
 
   return (
     <>
@@ -117,7 +114,7 @@ const ContentLayout = ({ subtopicObject }) => {
         )}
       </div>
 
-      {subtopicObject?.id !== "deportes" && (
+      {subtopicObject?.settings?.hasBanners !== false && (
         <picture>
           <source
             srcSet={`${IMAGE_PREFIX}/m-${myStore.subtopic?.toLowerCase()}-1.jpg`}

@@ -7,6 +7,9 @@
       "metaDescription": "Descubre las mejores Apuestas Deportivas y sigue los diferentes mercados desde la comodidad de tu casa. Realiza tu análisis y vive la experiencia Codere.",
       "ldjson": []
     },
+    "settings": {
+      "hasBanners": false
+    },
     "floating": "Apuestas en Vivo",
     "top": {
       "title": "Apuestas Deportivas Online en México",
@@ -226,6 +229,109 @@
       {
         "title": "El over y under en torneos de Grand Slam",
         "description": "Considera algo muy importante cuando vayas a jugar a las altas y bajas; en torneos de Grand Slam (Wimbledon, Australia, Roland Garros y US Open) en la rama varonil los partidos son a ganar tres de cinco sets.*Es más fácil darle lectura a un encuentro de estas características que a uno “normal” de los demás torneos en los que se juega a ganar dos de tres.*Antes de apostar debemos revisar la condición física y el tipo de comportamiento después del segundo set. Hay tenistas que se especializan en llevar al máximo sus choques."
+      }
+    ]
+  },
+  "ping-pong": {
+    "id": "ping-pong",
+    "url": "/deportes/apuestas-tenis-de-mesa",
+    "seo": {
+      "metaTitle": "Apuestas Tenis de Mesa: Aprende a apostar Online | Codere®",
+      "metaDescription": "Aprende a apostar en tenis de mesa online: ligas destacadas, resultados, mercados y claves para crear mejores pronósticos y apostar en vivo."
+    },
+    "settings": {
+      "hasBanners": false
+    },
+    "floating": "el saque perfecto",
+    "top": {
+      "title": "Apuestas Tenis de mesa: aprende y mejorar tus pronósticos",
+      "description": "Las apuestas tenis de mesa son una de las opciones más dinámicas dentro de las apuestas deportivas online: hay partidos casi a diario, los duelos duran poco y el marcador cambia rápido. En Codere puedes apostar en tenis de mesa online en prepartido o en vivo, aprovechando distintos mercados y el ritmo acelerado del juego.*Entra a Codere México y revisa la sección de tenis de mesa para ver partidos disponibles y mercados en tiempo real."
+    },
+    "content": [
+      {
+        "title": "¿Se puede apostar en tenis de mesa online?",
+        "description": "Sí. El tenis de mesa es uno de los deportes con mayor actividad en casas de apuestas porque tiene competiciones constantes durante todo el año. En Codere puedes seguir la oferta diaria y elegir entre apuestas previas o tenis de mesa en vivo, según tu estilo.",
+        "subcontent": [
+          {
+            "title": "Por qué el tenis de mesa es ideal para apostar",
+            "ul": [
+              "Partidos rápidos y por sets: esto genera cambios frecuentes en el marcador y oportunidades para ajustar tu lectura del juego.",
+              "Menos factores externos: no hay clima ni grandes variables, el rendimiento depende sobre todo del estado de forma del jugador.",
+              "Más opciones de mercado: ideal para quienes buscan variedad sin esperar 90 minutos como en fútbol."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cómo apostar en el tenis de mesa online en Codere México",
+        "description": "Elige el partido o competición de tenis de mesa que quieres seguir.*Selecciona el mercado que más te guste según tu análisis (ganador, sets o más/menos puntos).*Revisa la forma reciente y tendencias (rachas, parciales y consistencia set a set).*Decide si apuestas en prepartido o en vivo, según cómo quieras aprovechar el ritmo del encuentro.*Confirma tu apuesta y sigue el partido, especialmente si eliges lives (apuestas en vivo) para ajustar tu lectura del juego."
+      },
+      {
+        "title": "Principales competiciones para apostar en tenis de mesa",
+        "description": "En Codere México suelen destacar ligas y torneos con muchos partidos y actividad continua. Entre las más útiles para apostar:",
+        "ul": [
+          "Liga Pro de tenis de mesa en República Checa: muy popular por su regularidad, volumen de encuentros y jugadores recurrentes (facilita analizar tendencias).",
+          "TT Cup: formato rápido con participantes internacionales y actividad constante durante el día.",
+          "TT Elite Series y Setka Cup: competiciones frecuentes, con partidos seguidos y buena continuidad de jugadores."
+        ]
+      },
+      {
+        "title": "Resultados y marcadores: cómo usarlos para apostar mejor",
+        "description": "Para crear mejores apuestas deportivas y pronósticos, no basta con ver quién ganó. En tenis de mesa conviene analizar:",
+        "ul": [
+          "Sets ganados y parciales (si fue dominio real o partido ajustado).",
+          "Regularidad del jugador (si mantiene nivel en todos los sets).",
+          "Rachas y tendencias (especialmente en ligas con mucha actividad como la checa)."
+        ]
+      },
+      {
+        "title": "Mercados más comunes en las apuestas de tenis de mesa",
+        "description": "Los mercados más habituales (y fáciles de aplicar con buen análisis) son:",
+        "ul": [
+          "Ganador del partido.",
+          "Ganador por sets.",
+          "Más / menos puntos.",
+          "Apuestas en vivo (ideal para reaccionar a tendencias del partido)."
+        ],
+        "note": "Tip Codere: entra al partido de tenis de mesa que te interese y compara mercados (ganador, sets o puntos) para elegir el que mejor encaje con tu pronóstico."
+      },
+      {
+        "title": "Pronósticos tenis de mesa: claves para apostar mejor",
+        "description": "Para mejorar tus pronósticos tenis de mesa, enfócate en:",
+        "ul": [
+          "Forma reciente del jugador.",
+          "Tipo de torneo (no todos exigen lo mismo).",
+          "Ritmo/estilo (agresivo vs. control).",
+          "Historial reciente y enfrentamientos directos."
+        ],
+        "additional": "En general, los momios pueden variar según el torneo, la forma reciente y cómo se desarrolla cada set, especialmente cuando apuestas en vivo.*Usa estas claves para decidir si te conviene un ganador directo, un mercado por sets o esperar al juego en vivo en Codere México."
+      },
+      {
+        "title": "Apuestas en vivo en tenis de mesa",
+        "description": "El tenis de mesa en vivo es especialmente atractivo porque:",
+        "ul": [
+          "El ritmo es muy alto.",
+          "Las cuotas se mueven rápido tras cada set.",
+          "Hay oportunidades constantes para ajustar tu apuesta según lo que estás viendo."
+        ],
+        "conclusion": "Entra a jugar en el tenis de mesa en vivo en Codere México y aprovecha momentos clave: inicio de set, cambios de dinámica o rachas de puntos."
+      },
+      {
+        "title": "Preguntas frecuentes",
+        "subcontent": [
+          {
+            "title": "¿Es legal apostar en tenis de mesa online en México?",
+            "description": "Sí, siempre que lo hagas en una casa de apuestas autorizada. Codere México ofrece apuestas deportivas online dentro de su plataforma."
+          },
+          {
+            "title": "¿Qué liga es mejor para apostar?",
+            "description": "La Liga Pro de República Checa suele ser de las más buscadas para apostar por su regularidad y volumen de partidos."
+          },
+          {
+            "title": "¿Se puede apostar en vivo?",
+            "description": "Sí. La mayoría de los encuentros permiten apuestas en vivo, una modalidad muy popular por la rapidez del juego."
+          }
+        ]
       }
     ]
   },

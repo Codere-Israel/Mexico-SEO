@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 
 const NavigationBar = observer(() => {
   const ICONS_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/icons/{subtopic}.svg`;
+  // const ICONS_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/icons/{subtopic}.svg`;
   const entries = Object.entries(myStore.topicObject || {});
 
   return (
