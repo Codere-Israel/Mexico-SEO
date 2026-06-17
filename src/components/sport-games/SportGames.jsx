@@ -34,15 +34,20 @@ export default function SportGames() {
     if (flag > 1) return setSportGamesAreInvalid(true);
 
     // const ENDPOINT = `${process.env.REACT_APP_SERVER}/mx/fetch-marque-games?leagueId=${config?.[flag].leagueId}`;
-    const ENDPOINT = `https://coderesbgonlinesbsbanners.azurewebsites.net/api/mexicoOddsFeeds/getMatchMarketsForType/${config?.[flag].leagueId}/MRES`;
+    const ENDPOINT = `https://codere-sbs-es.azurewebsites.net/getMatchMarketsForType/${config?.[flag].leagueId}/MRES`;
     // const HEADERS = { headers: JSON.parse(process.env.REACT_APP_SER_HEADER) };
 
     axios.get(ENDPOINT).then((res) => {
-      const newGames = res.data.ContentAPI.Sport[0].SBClass[0].SBType[0];
+      console.log("Fetched games for league:", config?.[flag].title, res.data);
+      const newGames =
+        res.data.ContentAPI.Sport?.[0]?.SBClass?.[0]?.SBType?.[0];
+
+      if (!newGames) return fetchGames(flag + 1);
       const mappedGames = newGames?.Ev.map((event) => {
         return convertGames(event, newGames?.["@name"]);
       });
 
+      // if (flag === 0) return fetchGames(flag + 1);
       if (mappedGames?.length < 3) return fetchGames(flag + 1);
 
       setTitle(`Próximos partidos ${config?.[flag].title}`);
