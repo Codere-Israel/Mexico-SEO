@@ -91,7 +91,7 @@ const ContentLayout = ({ subtopicObject }) => {
       )}
 
       <div className="w-8/9 xl:w-3/5 mx-auto">
-        {myStore?.subtopic === "deportes" && <SportGames />}
+        {(myStore?.subtopic === "deportes" || myStore?.subtopic === "futbol") && <SportGames />}
         {/* Top Section */}
         <section className="top-section mt-5">
           <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">

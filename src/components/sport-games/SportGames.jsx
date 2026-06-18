@@ -21,8 +21,8 @@ export default function SportGames() {
   const [title, setTitle] = useState("");
 
   const config = [
-    { title: "Liga de México", leagueId: "45349" },
-    { title: "Premier League", leagueId: "45966" },
+    { title: "Mundial 2026", leagueId: "69679" },
+    { title: "Premier League", leagueId: "19157" },
   ];
   // const titles = ["Liga de México", "Premier League"];
 
@@ -60,8 +60,8 @@ export default function SportGames() {
   }, []);
 
   const convertGames = (event, ligaName) => {
-    const team1 = encodingFromSpanish(event.Teams[0].Team[0]["@name"] ?? "");
-    const team2 = encodingFromSpanish(event.Teams[0].Team[1]["@name"] ?? "");
+    const team1 = event.Teams[0].Team[0]["@name"] ?? "";
+    const team2 = event.Teams[0].Team[1]["@name"] ?? "";
     const betRef = event.Mkt[0].Seln.map((seln) => seln.Price[0]["@bet_ref"]);
     const IsLive = event?.["@inplay_now"] === "Y";
     // e.Mkt[0].Seln[t].Price[0]["@bet_ref"]
