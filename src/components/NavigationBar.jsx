@@ -28,7 +28,7 @@ const NavigationBar = observer(() => {
             >
               <img
                 className="h-[29px]"
-                src={ICONS_PREFIX.replace("{subtopic}", key.toLowerCase())}
+                src={ICONS_PREFIX.replace("{subtopic}", key.toLowerCase() !== "futbol" ? key.toLowerCase() : "mundial")}
                 width={28}
                 height={28}
               />
