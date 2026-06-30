@@ -165,6 +165,18 @@ body {
     font-size: 4.5vw;
     width: 40%;
   }
+  .text-elepsis {
+    max-width: 86px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 0.8rem;
+}
+span.text-sm.text-left.leading-none,span.text-sm.text-right {
+    font-size: 0.7rem;
+}
+
+span.fw-light.flex.items-center.gap-1.false.px-1.rounded-2 {font-size: 0.8rem;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
 }
 
 /* DESKTOP / LARGE SCREEN — 1440px and up */
