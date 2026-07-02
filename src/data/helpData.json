@@ -122,7 +122,7 @@
               "description": "En Codere promovemos el juego responsable y queremos que disfrutes siempre con equilibrio. Si en algún momento necesitas apoyo, puedes acceder a nuestras herramientas en Juego Responsable o consultar con especialistas en Jugadores Anónimos México. Ambos recursos están disponibles para orientarte y acompañarte cuando lo necesites."
             },
             {
-              "title": "Guía rápida (FAQ corta)",
+              "title": "Guía rápida",
               "subcontent": [
                 {
                   "title": "¿Cuánto tarda el registro?",
@@ -308,13 +308,14 @@
           ]
         }
       },
+
       "deposits": {
         "id": "deposits",
         "label": "Depósito en local y en línea",
         "url": "/ayuda/cuenta/depositos-online-y-local",
         "page": {
           "seo": {
-            "title": "Cómo depositar en tu cuenta: métodos de pago | Codere®",
+            "title": "Cómo depositar en tu cuenta: métodos de pago | Codere® | Codere®",
             "description": "Descubre cómo depositar en Codere rápidamente, con métodos online o en locales, y comienza a apostar sin complicaciones."
           },
           "top": {
@@ -324,17 +325,18 @@
           "content": [
             {
               "title": "Depósitos online: el primer paso para apostar",
-              "description": "Antes de depositar, asegúrate de estar registrado. Si aún no lo estás, regístrate y activa tu cuenta. Una vez dentro, solo necesitas cargar saldo. Depositar significa contar con dinero listo para apostar cuando quieras, y además podrás retirarlo en cualquier momento."
+              "description": "Antes de depositar, asegúrate de estar registrado. Si aún no lo estás, regístrate aquí y activa tu cuenta. Una vez dentro, solo necesitas cargar saldo. Depositar significa contar con dinero listo para apostar cuando quieras, y además podrás retirarlo en cualquier momento."
             },
             {
               "title": "Depósito en Book: efectivo y sin necesidad de banco",
               "description": "Aprovecha la red de books Codere para depositar en efectivo, de forma inmediata y sin tarjetas. El proceso es simple:",
               "ul": [
-                "Dirígete a tu book autorizado más cercano.",
+                "Dirígete a tu book autorizado más cercano (encuéntralo aquí).",
                 "Inicia sesión en tu cuenta desde tu celular y selecciona \"Depositar en book\" en el menú.",
                 "Obtén el código de barras que identificará tu cuenta.",
                 "Entrégalo al operador junto con el efectivo.",
-                "¡Listo! Tu saldo estará disponible de inmediato."
+                "¡Listo! Tu saldo estará disponible de inmediato.",
+                "Beneficio inmediato: no necesitas cuentas bancarias ni tarjetas, solo efectivo."
               ],
               "subcontent": [
                 {
@@ -351,9 +353,13 @@
                   "description": "Depósitos instantáneos, seguros y sin comisiones. Accede a \"Depositar online > Visa/Mastercard\" en tu cuenta. Recuerda que el depósito mínimo es de $100 y que solo puedes usar tarjetas a tu nombre."
                 },
                 {
+                  "title": "Mercado Pago",
+                  "description": "Deposita de forma rápida y segura con Mercado Pago. Solo elige este método, ingresa el monto que deseas recargar y confirma el pago desde tu cuenta. ¡Tu saldo estará disponible en minutos para seguir disfrutando en Codere!"
+                },
+                {
                   "title": "Paysafecard: recarga fácil en tiendas",
-                  "description": "Compra una tarjeta en Oxxo, 7-Eleven, Soriana y muchos más.",
-                  "ul": [
+                  "description": "Compra una tarjeta en Oxxo, 7-Eleven, Soriana y muchos más (lista completa aquí).",
+                  "ol": [
                     "Rasca el código o usa el ticket con PIN de 16 dígitos.",
                     "Ingresa el PIN en \"Depositar online > Paysafecard\".",
                     "¡Saldo disponible al instante para jugar!"
@@ -371,11 +377,12 @@
                 },
                 {
                   "title": "Paynet: depósitos en efectivo en cientos de puntos",
-                  "ul": [
+                  "ol": [
                     "Accede a \"Depositar online > Paynet\".",
                     "Obtén tu código de barras de referencia.",
                     "Paga en establecimientos como 7-Eleven, Walmart, Sam's Club, Farmacias del Ahorro y muchos más.",
-                    "Tu depósito se acreditará automáticamente."
+                    "Tu depósito se acreditará automáticamente.",
+                    "Beneficio inmediato: sin cuentas bancarias, con cientos de lugares cercanos para depositar."
                   ]
                 },
                 {
@@ -392,7 +399,7 @@
                 {
                   "title": "OxxoPay",
                   "description": "Ideal si prefieres pagar en efectivo:",
-                  "ul": [
+                  "ol": [
                     "Genera un código de barras desde \"Depositar online > OxxoPay\".",
                     "Llévalo impreso o en tu celular a cualquier OXXO.",
                     "Paga en caja y muestra tu IFE.",
@@ -401,7 +408,7 @@
                 },
                 {
                   "title": "Todito Cash",
-                  "description": "Deposita con tu tarjeta Todito Cash:",
+                  "description": "Depósita con tu tarjeta Todito Cash:",
                   "ul": [
                     "Accede a \"Depositar online > Todito Cash\".",
                     "Introduce el importe, tus datos y confirma.",
@@ -409,8 +416,8 @@
                   ]
                 },
                 {
-                  "title": "Métodos próximamente disponibles",
-                  "description": "Muy pronto podrás depositar también con MercadoPago, Astropay, 7-Eleven, Círculo K, Farmacias del Ahorro, Superama y Walmart."
+                  "title": "Otros métodos de pago disponibles",
+                  "description": "Astropay, 7-Eleven, Círculo K, Farmacias del Ahorro, Superama y Walmart."
                 }
               ]
             },
@@ -440,6 +447,7 @@
           ]
         }
       },
+
       "bet-verification": {
         "id": "bet-verification",
         "label": "Comprobación de apuesta",
@@ -599,7 +607,7 @@
         },
         {
           "title": "Llamadas gratuitas: atención directa todo el día",
-          "description": "Llama al número 800 227 4667 y habla con un asesor especializado.",
+          "description_html": "<p>Llama al número <a class=\"underline\" href=\"tel:8002274667\">800 227 4667</a> y habla con un asesor especializado.</p>",
           "ul": [
             "Servicio disponible 24 horas al día, 7 días a la semana.",
             "Llamada gratuita desde cualquier lugar de México."
@@ -607,11 +615,11 @@
         },
         {
           "title": "Email: consultas detalladas",
-          "description": "Envía un correo a apuestas@codere.mx para consultas que requieran información más extensa o envío de documentos."
+          "description_html": "<p>Envía un correo a <a class=\"underline\"  href=\"mailto:apuestas@codere.mx\">apuestas@codere.mx</a> para consultas que requieran información más extensa o envío de documentos.</p>"
         },
         {
           "title": "WhatsApp: soporte práctico desde tu móvil",
-          "description": "Escribe al número +52 55 3697 7637.",
+          "description_html": "<p>Escribe al número <a class=\"underline\" target=\"_blank\" href=\"https://wa.me/525536977637?text=Hola!%20necesito%20ayuda%20personalizada%20de%20atenci%C3%B3n%20al%20cliente.%20%C2%A1Gracias!\">+52 55 3697 7637</a>.</p>",
           "ul": [
             "Disponible de lunes a domingo, de 9:00 am a 10:00 pm.",
             "Ideal para consultas rápidas sin salir de tu celular."
@@ -694,6 +702,7 @@
           "betting-glossary",
           "faq",
           "bet-types",
+          "create-bet",
           "bonus-terms"
         ]
       },
@@ -1159,55 +1168,7 @@
           ]
         }
       },
-      "bonus-terms": {
-        "id": "bonus-terms",
-        "label": "Cómo funciona el bono de Codere",
-        "url": "/ayuda/dudas-codere/apuestas/bono-codere",
-        "page": {
-          "seo": {
-            "title": "Bono Codere Apuestas: Requisitos y Funcionamiento | Codere®",
-            "description": "Descubre cómo funciona el bono de apuestas deportivas en Codere, cómo activarlo y cuáles son los requisitos para liberar tus ganancias."
-          },
-          "top": {
-            "title": "Todo sobre el bono de apuestas deportivas Codere",
-            "description": "En Codere, tus primeras jugadas tienen un valor extra gracias a los bonos de bienvenida. Conoce cómo aprovecharlos paso a paso y multiplica tu experiencia de apuestas desde el inicio."
-          },
-          "content": [
-            {
-              "title": "Bono de Registro: 1,000 gratis para apostar",
-              "description": "Solo por registrarte y validar tu cuenta por SMS en tu segundo inicio de sesión, recibes 1,000 gratis para apuestas deportivas.",
-              "subcontent": [
-                {
-                  "title": "Requisitos para liberar el bono",
-                  "ul": [
-                    "Apostar 10 veces el monto del bono.",
-                    "Solo válido en eventos con momios entre +100 y +2000.",
-                    "Podrás ganar hasta 3,000 MXN con este beneficio."
-                  ]
-                }
-              ]
-            },
-            {
-              "title": "Bono de Primer Depósito: hasta 7,000 + extra en casino",
-              "description": "Al realizar tu primer depósito desde 200 MXN, Codere te otorga el mismo monto en bono para apuestas deportivas, con un máximo de 7,000 MXN.",
-              "subcontent": [
-                {
-                  "title": "Requisitos para liberar el bono",
-                  "ul": [
-                    "Apostar primero el monto del depósito en eventos con momios desde -200.",
-                    "Luego, apostar 3 veces la suma del bono más el depósito.",
-                    "Con este bono puedes alcanzar hasta 10,000 MXN en ganancias."
-                  ]
-                }
-              ]
-            },
-            {
-              "title": "Conclusión",
-              "description": "Los bonos de Codere son la forma más rápida de empezar con ventaja. Ya sea con los 1,000 gratis de registro o con el doble de tu primer depósito, tienes más oportunidades de apostar, ganar y disfrutar de cada partido."
-            }
-          ]
-        }
-      },
+
       "create-bet": {
         "id": "create-bet",
         "label": "Crea tu apuesta",
@@ -1247,6 +1208,46 @@
           ]
         }
       },
+
+      "bonus-terms": {
+        "id": "bonus-terms",
+        "label": "Cómo funciona el bono de Codere",
+        "url": "/ayuda/dudas-codere/apuestas/bono-codere",
+        "page": {
+          "seo": {
+            "title": "Bono Codere Apuestas: Requisitos y Funcionamiento | Codere®",
+            "description": "Descubre cómo funciona el bono de apuestas deportivas en Codere, cómo activarlo y cuáles son los requisitos para liberar tus ganancias."
+          },
+          "top": {
+            "title": "Todo sobre el bono de apuestas deportivas Codere",
+            "description": "En Codere, tus primeras jugadas tienen un valor extra gracias a los bonos de bienvenida. Conoce cómo aprovecharlos paso a paso y multiplica tu experiencia de apuestas desde el inicio."
+          },
+          "content": [
+            {
+              "title": "Bono de Primer Depósito: hasta 7,000 en Fondos Disponibles",
+              "description": "Al realizar tu primer depósito desde 200 MXN, Codere te otorga el mismo monto en bono para apuestas deportivas, con un máximo de 7,000 MXN. Ademas, cuando el cliente realice su depósito recibirá un bono extra de casino, el cual consistirá en 5 Fichas Doradas y 5 Giros Gratis. Haz tu primer depósito ahora y duplica tu saldo para jugar más.",
+              "subcontent": [
+                {
+                  "title": "Requisitos para liberar el bono",
+                  "ul": [
+                    "Apostar primero el monto del depósito en eventos con momios desde -200.",
+                    "Luego, apostar 3 veces la suma del bono más el depósito.",
+                    "Con este bono puedes alcanzar hasta 10,000 MXN en ganancias.",
+                    "Microbeneficio: más saldo para explorar cuotas, mercados y estrategias sin complicaciones."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Conclusión",
+              "description": "Los bonos de Codere son la forma más rápida de empezar con ventaja. Te entregamos el doble de tu primer depósito para que tengas más oportunidades de apostar, ganar y disfrutar de cada partido. ",
+
+              "description_html": "<p>👉 Explora todas las promociones deportivas en Codere en la sección <a class=\"underline\" href=\"https://www.codere.mx/promociones\">PROMOCIONES</a> y saca el máximo provecho de tus jugadas.</p>"
+            }
+          ]
+        }
+      },
+
       "casino-glossary": {
         "id": "casino-glossary",
         "label": "Glosario de casino",
@@ -1326,6 +1327,7 @@
           ]
         }
       },
+
       "casino-faq": {
         "id": "casino-faq",
         "label": "Preguntas frecuentes casino",
@@ -1346,7 +1348,9 @@
               "ul": [
                 "Slots: títulos populares como Age of the Gods, Blue Wizard y muchos más.",
                 "Juegos de mesa: clásicos como Blackjack, Ruleta y Baccarat.",
-                "Juegos Turbo o Crash Games: una modalidad innovadora que multiplica tus ganancias mientras un objeto o personaje permanece en pantalla."
+                "Juegos Turbo o Crash Games: una modalidad innovadora que multiplica tus ganancias mientras un objeto o personaje permanece en pantalla.",
+                "Bingo online: una experiencia social única gracias al chat en vivo, uno de los elementos más valorados por los jugadores de bingo online en México. Aquí no solo juegas… también interactúas.",
+                "Explora la sección de Casino Codere y juega tus favoritos en segundos."
               ]
             },
             {
@@ -1355,16 +1359,18 @@
               "ul": [
                 "Ruleta en vivo: opciones como la Ruleta Coderista y mesas con multiplicadores.",
                 "Blackjack en vivo: partidas dinámicas con crupieres profesionales.",
-                "Baccarat en vivo: el clásico de cartas llevado a una experiencia online inmersiva."
+                "Baccarat en vivo: el clásico de cartas llevado a una experiencia online inmersiva.",
+                "Encuentra todos los juegos en las secciones Casino y Casino en Vivo."
               ]
             },
             {
               "title": "¿Codere ofrece bonos para juegos de casino?",
               "description": "Sí, Codere cuenta con promociones exclusivas para potenciar tu experiencia en el casino:",
               "ul": [
-                "Bono de bienvenida: hasta 5,000 MXN para nuevos jugadores.",
+                "Bono de bienvenida: hasta 7,000 MXN para nuevos jugadores.",
                 "Free Spins (giros gratis): disponibles en promociones como el Juego de la Semana.",
-                "Bonos por depósito: 50% hasta 1,000 MXN y 70% hasta 2,000 MXN en depósitos sucesivos."
+                "Bonos por depósito: Promociones del primer deposito del mes.",
+                "Revisa las promociones activas de Casino Codere y aprovecha cada beneficio."
               ]
             },
             {
@@ -1373,7 +1379,8 @@
               "ul": [
                 "Cumple con las regulaciones mexicanas.",
                 "Utiliza tecnología de encriptación avanzada para proteger tus datos.",
-                "Promueve el juego responsable con herramientas para controlar tu tiempo y dinero invertido."
+                "Promueve el juego responsable con herramientas para controlar tu tiempo y dinero invertido.",
+                "Beneficio inmediato: juega con tranquilidad, sabiendo que tu información y tu experiencia están protegidas."
               ]
             },
             {
@@ -1381,15 +1388,17 @@
               "ul": [
                 "Mercado Pago: sí está disponible como método de depósito en el casino.",
                 "PayPal: no está habilitado en Codere México."
-              ]
+              ],
+              "description": "👉 la sección de Métodos de Depósito Codere y elige la opción más conveniente para ti."
             },
             {
               "title": "Conclusión",
-              "description": "En Codere Casino encuentras una experiencia completa: slots, juegos de mesa, modalidades en vivo y promociones exclusivas que aumentan tu diversión. Además, puedes jugar de forma segura y confiable, con múltiples opciones de pago disponibles."
+              "description": "En Codere Casino encuentras una experiencia completa: slots, juegos de mesa, modalidades en vivo y promociones exclusivas que aumentan tu diversión. Además, puedes jugar de forma segura y confiable, con múltiples opciones de pago disponibles.*Ingresa ahora a Casino Codere y vive la emoción de apostar en línea."
             }
           ]
         }
       },
+
       "casino-bonus": {
         "id": "casino-bonus",
         "label": "Cómo funciona el bono de Casino",
@@ -1449,6 +1458,7 @@
           ]
         }
       },
+
       "poker-rules": {
         "id": "poker-rules",
         "label": "Reglas del poker",
@@ -1459,390 +1469,171 @@
             "description": "Encuentra toda la ayuda de poker: reglas, clasificación de manos, límites, rake, torneos Twister Arena/Vuelo/Mystery Bounty y funciones avanzadas del juego."
           },
           "top": {
-            "title": "Reglas de poker",
-            "description": "Importante: Las reglas y ejemplos mostrados en la ayuda utilizan el euro como moneda, pero son aplicables a todas las demás monedas relevantes."
+            "title": "Reglas del poker en Codere: cómo jugar y entender la plataforma",
+            "description": "El poker es uno de los juegos más populares del mundo y una de las principales opciones dentro de Codere. En la plataforma, el poker online opera a través de Playtech y su red global iPoker, lo que permite acceder a mesas y torneos con jugadores reales de forma constante. Esta guía explica de manera clara cómo funciona el poker en Codere, sus reglas completas y los conceptos necesarios para jugar de forma informada."
           },
           "content": [
             {
-              "title": "Estructuras de apuestas",
-              "description": "Hay distintas estructuras de apuestas disponibles. No todas ellas están disponibles en cada formato de juego.",
-              "subcontent": [
-                {
-                  "title": "Juegos de Fixed Limit",
-                  "description": "En los juegos de fixed limit (o limit) tan solo puedes apostar o subir una cantidad predeterminada. Hay dos cantidades de apuestas:",
-                  "ul": [
-                    "Apuesta pequeña: habitualmente se usa en las dos primeras rondas de apuestas.",
-                    "Apuesta grande: se usa en las rondas de apuestas posteriores.",
-                    "Si por ejemplo ves una partida de €1/€2 fixed limit hold'em, la apuesta pequeña es de €1 y la grande es de €2."
-                  ]
-                },
-                {
-                  "title": "Juegos Pot Limit",
-                  "description": "Los juegos pot limit difieren de los de limit en las cantidades que los jugadores pueden apostar y subir.",
-                  "ul": [
-                    "La cantidad de la subida mínima será igual a la apuesta o subida anterior de la misma mano.",
-                    "La cantidad máxima de subida es igual a: cantidad total del bote antes de las apuestas de sus oponentes en la ronda actual + las apuestas totales de sus oponentes en la ronda actual + la cantidad que tendría que poner para igualar.",
-                    "El importe máximo de la apuesta es igual al tamaño del bote.",
-                    "Fórmula práctica: la apuesta máxima es igual a tres veces la última apuesta más el tamaño del bote antes de la apuesta."
-                  ]
-                },
-                {
-                  "title": "Juegos No Limit",
-                  "description": "Los juegos no limit difieren de los de limit porque (aparte del balance en la mesa del jugador) no hay máximo para lo que se puede apostar o subir.",
-                  "ul": [
-                    "La subida mínima permitida será igual a la apuesta o subida anterior en la misma mano.",
-                    "Por ejemplo, si el primer jugador apuesta 10 euros y el segundo desea subir, deberá subir al menos 10 euros.",
-                    "A diferencia de los juegos limit, los límites de las partidas de no limit no cambian durante las rondas de apuestas posteriores."
-                  ]
-                }
-              ]
+              "title": "Cómo funciona el poker en Codere",
+              "description": "El poker en Codere conecta a los jugadores a través de la red internacional iPoker, donde participan usuarios en diferentes mesas y torneos en tiempo real. Esto permite encontrar partidas activas con distintos niveles de apuesta y modalidades disponibles en todo momento. A diferencia de plataformas aisladas, el juego se desarrolla dentro de una red compartida que facilita mayor dinamismo y variedad de partidas."
             },
             {
-              "title": "Comisión (Rake)",
-              "description": "En nuestro póquer, no juegas contra la sala de juego, sino contra otros jugadores. Por lo tanto, la casa se lleva un cargo en forma de rake de cada bote. No se cobra rake si la mano termina antes de que se repartan las cartas del flop - \"No flop no drop\".",
-              "table": {
-                "headers": [
-                  "Apuesta",
-                  "Número de jugadores",
-                  "Comisión por bote",
-                  "Max Comisión"
-                ],
-                "rows": [
-                  [
-                    "€0.10/€0.20",
-                    "2 jugadores",
-                    "0,01 € por cada 0,20 € en el bote",
-                    "€1"
-                  ],
-                  [
-                    "€0.10/€0.20",
-                    "3-10 jugadores",
-                    "0,01 € por cada 0,20 € en el bote",
-                    "€2"
-                  ]
-                ]
-              }
-            },
-            {
-              "title": "Tasa del torneo (tasa de la casa)",
-              "description": "El rake por participar en un torneo se cobra como una cuota de entrada. La cuota de inscripción es un porcentaje configurable del importe del torneo.",
-              "table": {
-                "headers": [
-                  "Tipo de torneo",
-                  "Cuota de inscripción",
-                  "Ejemplo"
-                ],
-                "rows": [
-                  ["Torneos Sit Go", "10%", "Importe 1 €, cuota 0,10 €"],
-                  ["Torneos programados", "9%", "Importe 10 €, cuota 0,9 €"]
-                ]
-              }
-            },
-            {
-              "title": "Twister RTP",
-              "description": "Si la comisión del torneo está representada por un X%, el RTP de Twister = 100% - X%. El RTP de Twister varía en función de la tasa de torneo establecida. Esto conllevará también un cambio en la cantidad de ganancias totales.*Fórmula: RTP (%) = 100 * Ganancias Totales / Apuestas Totales."
-            },
-            {
-              "title": "Interrupciones de juegos",
-              "description": "Debido a la naturaleza del juego de póquer en línea, una vez que se interrumpe una partida, ésta no puede continuar más adelante.",
+              "title": "Cómo empezar a jugar paso a paso",
+              "description": "Para comenzar a jugar poker en Codere:",
               "ul": [
-                "Si la interrupción se produce en una partida de cash, la mano en curso se cancela y los jugadores reciben de nuevo el dinero que han gastado desde el inicio de la sesión de cash hasta la última mano terminada.",
-                "Si la interrupción se produce en un torneo, éste se cancela y todos los participantes reciben el reembolso del dinero o de los premios en función de la fase del torneo en la que se haya producido la interrupción."
+                "Accede a la sección de poker dentro del sitio.",
+                "Elige una modalidad (Texas Hold’em, Omaha o torneos).",
+                "Selecciona una mesa o torneo disponible.",
+                "Entra con tu saldo o ficha indicada.",
+                "Participa en las rondas de apuestas.",
+                "Cada partida se desarrolla contra otros jugadores reales y sigue las reglas tradicionales del poker."
               ]
             },
             {
-              "title": "Problemas de conectividad",
-              "description": "Si un jugador experimenta un problema de conectividad mientras juega al póquer:",
+              "title": "Cómo funcionan las mesas y torneos",
+              "description": "Mesas cash: se juega con fichas de valor real y puedes entrar o salir en cualquier momento. En las mesas de poker, las apuestas y ganancias se manejan en euros (€). En partidas de cash, el importe apostado y el bote están expresados en esta moneda, mientras que en torneos el buy-in o entrada también se muestra en euros, incluyendo la comisión correspondiente. Torneos: todos los jugadores comienzan con la misma cantidad de fichas y compiten hasta que uno gana. En los torneos, la eliminación ocurre cuando un jugador pierde todas sus fichas."
+            },
+            {
+              "title": "Reglas jugar del poker en Codere",
+              "description": "El poker se desarrolla en rondas donde los jugadores buscan formar la mejor mano posible o hacer que sus oponentes se retiren.",
               "subcontent": [
                 {
-                  "title": "En partidas cash",
+                  "title": "Fases de una mano",
                   "ul": [
-                    "Pasa a \"sit-out\" y el sistema actúa en su nombre (check cuando es posible y fold en los demás casos).",
-                    "Si no vuelve en X minutos (configurable), se le retira de la partida de cash.",
-                    "Si vuelve a tiempo, puede seguir jugando."
+                    "Reparto de cartas.",
+                    "Ronda de apuestas inicial.",
+                    "Cartas comunitarias (según modalidad).",
+                    "Nuevas rondas de apuestas.",
+                    "Showdown (comparación de manos)."
                   ]
                 },
                 {
-                  "title": "En torneos",
+                  "title": "Acciones del jugador",
+                  "description": "Durante cada ronda puedes realizar estas acciones:",
                   "ul": [
-                    "Pasa a \"sit-out\" y el sistema actúa en su nombre.",
-                    "Si vuelve antes de quedarse sin fichas, continúa.",
-                    "Si se queda sin fichas antes de volver, es eliminado del torneo."
+                    "Check (pasar): no apostar y continuar en la mano.",
+                    "Bet (apostar): colocar fichas en el bote.",
+                    "Call (igualar): igualar la apuesta de otro jugador.",
+                    "Raise (subir): aumentar la apuesta.",
+                    "Fold (retirarse): abandonar la mano."
+                  ]
+                },
+                {
+                  "title": "Tipos de apuestas",
+                  "ul": [
+                    "No Limit: permite apostar cualquier cantidad de fichas, incluso todas en una sola jugada (all-in).",
+                    "Pot Limit: la apuesta máxima depende del tamaño del bote.",
+                    "Fixed Limit: las apuestas tienen un valor fijo predefinido."
+                  ]
+                },
+                {
+                  "title": "Clasificación de las manos de poker",
+                  "description": "Las manos se forman con cinco cartas. Estas son las combinaciones principales (de mayor a menor):",
+                  "ul": [
+                    "Escalera real de color: Cinco cartas consecutivas del mismo palo desde 10 hasta As. Ejemplo: 10♦, J♦, Q♦, K♦, A♦.",
+                    "Escalera de color: Cinco cartas consecutivas del mismo palo. Ejemplo: 5♥, 6♥, 7♥, 8♥, 9♥.",
+                    "Poker: Cuatro cartas del mismo valor. Ejemplo: 7♣, 7♦, 7♠, 7♥.",
+                    "Full house: Un trío más una pareja. Ejemplo: 4♥, 4♣, 4♠, J♦, J♠.",
+                    "Color: Cinco cartas del mismo palo. Ejemplo: 10♥, 2♥, J♥, 4♥, A♥.",
+                    "Escalera: Cinco cartas consecutivas. Ejemplo: 6, 7, 8, 9, 10.",
+                    "Trío: Tres cartas del mismo valor. Ejemplo: 7♥, 7♦, 7♠.",
+                    "Dobles parejas: Dos pares; gana par alto, luego par bajo, luego kicker. Ejemplo: 9♦, 9♠, Q♣, Q♦.",
+                    "Pareja: Dos cartas iguales. Ejemplo: 8♣, 8♦.",
+                    "Carta alta: Gana la carta más alta cuando no hay combinación."
                   ]
                 }
               ]
             },
             {
-              "title": "Referencias de traducción",
-              "description": "La siguiente tabla muestra el significado en español de algunos términos en inglés:",
-              "table": {
-                "headers": ["Inglés", "Español"],
-                "rows": [
-                  ["Big Blind", "Ciega grande"],
-                  ["Small Blind", "Ciega pequeña"],
-                  ["Custom Big Blind", "Ciega grande personalizada"],
-                  ["Custom Small Blind", "Ciega pequeña personalizada"],
-                  ["Buy-in", "Importe"],
-                  ["Re-buy", "Re-compra"],
-                  ["Add-on", "Complemento"],
-                  ["Hand", "Mano"],
-                  ["Stacks", "Pilas"],
-                  ["Time", "Tiempo"],
-                  ["Speed", "Velocidad"],
-                  ["Sit out mode", "Modo ausente"],
-                  ["Check", "Pasar"],
-                  ["Call", "Pagar"],
-                  ["Fold", "Abandonar"],
-                  ["Bet", "Apuesta"],
-                  ["Raise", "Subir"],
-                  ["Re-Raise", "Resubida"],
-                  ["All-in", "Apostarlo todo"]
-                ]
-              }
-            },
-            {
-              "title": "Clasificación: Las 10 manos del poker",
-              "description": "Una mano de poker consta de la mejor combinación posible de cinco cartas.",
+              "title": "Modalidades de poker en Codere",
+              "description": "Codere ofrece distintas variantes para adaptarse a diferentes estilos de juego:",
               "subcontent": [
-                {
-                  "title": "Escalera real de color",
-                  "description": "Escalera de color de 10 al As del mismo palo.*Ejemplo: 10♦, J♦, Q♦, K♦, A♦"
-                },
-                {
-                  "title": "Escalera de color",
-                  "description": "Cinco cartas consecutivas del mismo palo; gana la más alta.*Ejemplo: 5♥, 6♥, 7♥, 8♥, 9♥"
-                },
-                {
-                  "title": "Poker",
-                  "description": "Cuatro cartas del mismo valor; si empatan, gana el kicker más alto.*Ejemplo: 7♣, 7♦, 7♠, 7♥"
-                },
-                {
-                  "title": "Full house",
-                  "description": "Trío + pareja; gana el trío más alto, luego la pareja.*Ejemplo: 4♥, 4♣, 4♠, J♦, J♠"
-                },
-                {
-                  "title": "Color",
-                  "description": "Cinco cartas del mismo palo; gana carta más alta.*Ejemplo: 10♥, 2♥, J♥, 4♥, A♥"
-                },
-                {
-                  "title": "Escalera",
-                  "description": "Cinco consecutivas; gana la más alta; As puede ser alto o bajo.*Ejemplo: 6, 7, 8, 9, 10"
-                },
-                {
-                  "title": "Trío",
-                  "description": "Tres iguales; gana el trío más alto y luego kickers.*Ejemplo: 7♥, 7♦, 7♠"
-                },
-                {
-                  "title": "Dobles parejas",
-                  "description": "Dos pares; gana par alto, luego par bajo, luego kicker.*Ejemplo: 9♦, 9♠, Q♣, Q♦"
-                },
-                {
-                  "title": "Pareja",
-                  "description": "Dos iguales; gana la pareja más alta y luego kicker.*Ejemplo: 8♣, 8♦"
-                },
-                {
-                  "title": "Carta alta",
-                  "description": "Cuando no hay combinación, gana la carta más alta y siguientes."
-                }
-              ]
-            },
-            {
-              "title": "Juegos de poker",
-              "description": "PlaytechOne ofrece los siguientes juegos:",
-              "ul": [
-                "Texas Hold'em",
-                "Omaha",
-                "Pot Limit Omaha 5 Cards",
-                "Robo de 5 Cartas",
-                "Speed Poker",
-                "Twister Poker",
-                "Torneo Twister Arena",
-                "Torneos de Vuelo",
-                "Torneos Mystery Bounty"
-              ],
-              "subcontent": [
-                {
-                  "title": "Texas Hold'em",
-                  "description": "Juego de 2-10 jugadores. Puede jugarse como no limit, pot limit o fixed limit. A cada jugador se le reparten dos cartas (ocultas) y se revelan hasta 5 comunitarias.",
-                  "ul": [
-                    "Se determina el repartidor (botón).",
-                    "Se pagan las ciegas (pequeña y grande).",
-                    "Se reparten dos cartas ocultas a cada jugador.",
-                    "Primera ronda de apuestas (fold/check/call/raise).",
-                    "Se reparte el flop (3 comunitarias).",
-                    "Segunda ronda de apuestas.",
-                    "Se reparte el turn (1 comunitaria).",
-                    "Tercera ronda de apuestas.",
-                    "Se reparte el river (última comunitaria).",
-                    "Última ronda de apuestas.",
-                    "Enfrentamiento (showdown).",
-                    "Vuelta a empezar (pasa el botón)."
-                  ]
-                },
                 {
                   "title": "Omaha",
-                  "description": "Mismas reglas que Texas Hold'em, con dos diferencias:",
-                  "ul": [
-                    "Recibes 4 cartas (no 2).",
-                    "Para formar tu mano final debes usar exactamente 2 de tu mano y 3 comunitarias.",
-                    "Ejemplo: aunque tengas cuatro ases, no tienes poker (solo pareja)."
-                  ]
+                  "description": "Cada jugador recibe cuatro cartas privadas y debe utilizar exactamente dos."
                 },
                 {
                   "title": "Pot Limit Omaha 5 Cards",
-                  "description": "Versión de Omaha con una 5ª carta adicional al jugador. Solo cash y Pot Limit. Máximo 9 jugadores."
+                  "description": "Versión de Omaha con cinco cartas privadas."
                 },
                 {
                   "title": "Five Card Draw",
-                  "description": "Variante sencilla: 5 cartas boca abajo, dos rondas de apuestas y fase de cambio.",
-                  "ul": [
-                    "Primera ronda de apuestas.",
-                    "Fase de sorteo (descartar 1 a 5 cartas o \"Stand pat\").",
-                    "Segunda ronda de apuestas.",
-                    "Showdown (mejor mano de 5 cartas gana)."
-                  ]
+                  "description": "Cinco cartas privadas y una fase de descarte."
                 },
                 {
                   "title": "Speed Poker",
-                  "description": "Minimiza el tiempo de espera entre manos. Compatible con Texas Hold'em y Omaha.",
-                  "ul": [
-                    "Ciegas se pagan automáticamente.",
-                    "Puedes usar \"Speed Fold\" para foldear y pasar rápido a otra mesa.",
-                    "En modo ausente pasas a una mesa vacía; vuelves con \"He vuelto\".",
-                    "Si estás ausente más de 5 minutos, sales de la partida."
-                  ]
+                  "description": "Reduce el tiempo entre manos."
                 },
                 {
                   "title": "Twister Poker",
-                  "description": "Torneos turbo rápidos con 3 jugadores. Premio aleatorio (puede ser miles) desde buy-in de €1. Formato \"winner takes all\", salvo premios elevados que pueden repartirse.",
-                  "ul": [
-                    "Classic Twister",
-                    "Wild Twister",
-                    "Age of the Gods Twister"
-                  ]
+                  "description": "Torneos rápidos de tres jugadores con premios aleatorios."
                 },
                 {
-                  "title": "Age of the Gods Twister",
-                  "description": "Combina Twister + posibilidad de ganar uno de cuatro botes misteriosos. Una parte de la apuesta contribuye al jackpot.",
-                  "ul": [
-                    "Jackpot progresivo de 4 niveles: Power, Extra Power, Super Power, Ultimate Power.",
-                    "Semillas: €50 / €500 / €5,000 / €100,000.",
-                    "Contribución: 0.99%.",
-                    "Activación aleatoria: entrar al jackpot garantiza ganar uno de los botes.",
-                    "Mecanismo: 20 monedas, al encontrar 3 símbolos iguales se gana el bote.",
-                    "Temporizador: 30 segundos, si expira se juega automáticamente."
-                  ]
-                },
-                {
-                  "title": "Torneos de Twister Arena",
-                  "description": "Torneo multimesa con formato \"Shootout\". Ganador de cada ronda pasa a la siguiente. Puede haber inscripción tardía en primera ronda. Premios de rondas pagadas siempre son en metálico. Mesa final reparte el premio según configuración."
+                  "title": "Twister Arena",
+                  "description": "Formato Shootout por rondas."
                 },
                 {
                   "title": "Torneos de Vuelo",
-                  "description": "Eventos en dos días: Día 1 (A, B, C…) y Día 2 (principal). Objetivo: sobrevivir Día 1 para clasificar al Día 2.",
-                  "ul": [
-                    "Best Stack Forward (clasificas con tu mejor stack).",
-                    "Stack Builder (sumas stacks de varios Día 1).",
-                    "No puedes anular inscripción una vez clasificado al Día 2."
-                  ]
+                  "description": "Clasificación al Día 2 desde varios vuelos."
                 },
                 {
-                  "title": "Torneos Mystery Bounty",
-                  "description": "Variación de Knock-Out Flight: al eliminar a un oponente ganas una recompensa aleatoria.",
-                  "ul": [
-                    "Bolsa de bounties proviene de parte del buy-in del KO.",
-                    "La otra parte va al premio regular.",
-                    "Para entrar a bounties debes clasificar al Día 2.",
-                    "Día 1 no da premios ni bounties.",
-                    "En Día 2 puedes ver bounties restantes en widget Mystery Bounty.",
-                    "La recompensa se abona directo al saldo, independiente de tu posición.",
-                    "El ganador recibe premio principal + bounties ganados."
-                  ]
+                  "title": "Mystery Bounty",
+                  "description": "Recompensas aleatorias por eliminar rivales."
                 }
               ]
             },
             {
-              "title": "Funciones de promoción",
+              "title": "Funciones especiales del juego",
               "subcontent": [
                 {
-                  "title": "Recompensas de Bonos",
-                  "description": "Accesible desde la cabecera del cliente (cuando el icono está activo). Puede incluir:",
-                  "ul": [
-                    "rueda de bonificación",
-                    "tarjetas de rascar",
-                    "o ambas"
-                  ]
+                  "title": "All-in Cash Out",
+                  "description": "Permite cobrar el valor esperado antes del river en determinadas manos."
                 },
                 {
-                  "title": "Página de Misiones",
-                  "ul": [
-                    "misiones disponibles",
-                    "progreso en misión seleccionada",
-                    "recompensas por completarla"
-                  ]
+                  "title": "Run it Twice",
+                  "description": "Reparte dos veces las cartas restantes cuando ambos jugadores están all-in."
                 },
                 {
-                  "title": "Página VIP",
-                  "description": "Resumen del estatus VIP."
+                  "title": "Tratos Twister",
+                  "description": "Permite pactar el reparto del premio en heads-up."
                 },
                 {
-                  "title": "Página de Bonos",
-                  "description": "Historial de bonos y bonos liberándose actualmente."
+                  "title": "Twister Boost",
+                  "description": "Incrementa el premio mediante un buy-in adicional cuando está disponible."
                 }
               ]
             },
             {
-              "title": "Características del juego",
-              "description": "PlaytechOne Poker ofrece funcionalidades para mejorar la experiencia: All-in Cash Out, Run it Twice, Tratos Twister y Twister Boost.",
+              "title": "Interrupciones y conectividad",
+              "description": "En caso de problemas técnicos o pérdida de conexión:",
+              "ul": [
+                "En mesas cash: el sistema actúa automáticamente (check o retiro).",
+                "En torneos: el jugador pasa a modo “sit-out”.",
+                "Si no regresa a tiempo, puede perder sus fichas o ser eliminado."
+              ]
+            },
+            {
+              "title": "Juego responsable",
+              "description": "El poker es un juego de entretenimiento. Es importante jugar de manera responsable, estableciendo límites y evitando el uso del juego como fuente de ingresos. Codere promueve prácticas de juego seguro y responsable dentro de un entorno regulado."
+            },
+            {
+              "title": "Preguntas frecuentes",
               "subcontent": [
                 {
-                  "title": "Función \"All-in Cash Out\" (Todo Incluido)",
-                  "description": "Permite cobrar tu equidad estando all-in antes del river y sin más acciones posibles.",
-                  "ul": [
-                    "Cash Texas Hold'em.",
-                    "Tú y un oponente all-in.",
-                    "Sin river repartido.",
-                    "Equidad entre 0% y 100%.",
-                    "Puede limitarse a botes grandes o alta equidad.",
-                    "Puede aplicar comisión por cobro."
-                  ]
+                  "title": "¿Cuál es la mejor mano del poker?",
+                  "description": "La escalera real de color."
                 },
                 {
-                  "title": "Función \"Ejecutarlo dos veces\"",
-                  "description": "Permite repartir dos veces las cartas restantes si ambos jugadores van all-in antes del river.",
-                  "ul": [
-                    "Se reparten dos boards.",
-                    "El bote se divide en dos mitades.",
-                    "Cada mitad se paga al ganador de cada board.",
-                    "Si uno no acepta, se juega normal.",
-                    "Disponible en cash No Limit Hold'em, incluyendo Speed Poker.",
-                    "No se cobra rake adicional."
-                  ]
+                  "title": "¿Qué significa all-in?",
+                  "description": "Es cuando un jugador apuesta todas sus fichas en una sola mano."
                 },
                 {
-                  "title": "Función \"Tratos Twister\"",
-                  "description": "Permite hacer un trato en heads-up.",
-                  "ul": [
-                    "Jugador ofrece trato marcando casilla.",
-                    "Oponente acepta o no.",
-                    "Al terminar la mano aparece pop-up con condiciones.",
-                    "Si ambos aceptan antes del tiempo, termina torneo y se reparte premio.",
-                    "Tipos: reparto igualitario o reparto proporcional (según stacks).",
-                    "Disponible solo para Twister clásicos con premios en efectivo."
-                  ]
+                  "title": "¿Cuál es la diferencia entre No Limit y Pot Limit?",
+                  "description": "No Limit permite apostar cualquier cantidad, mientras que Pot Limit depende del tamaño del bote."
                 },
                 {
-                  "title": "Función \"Twister Boost\"",
-                  "description": "Permite aumentar el premio Twister con buy-in adicional.",
-                  "ul": [
-                    "Twisters con boost están marcados con icono.",
-                    "Si el multiplicador lo permite, se pregunta si quieren boost.",
-                    "Si todos aceptan y transacciones ok, se sortea premio adicional y se suma.",
-                    "Si falla una transacción, reembolso y sigue normal.",
-                    "Solo para Twister Clásico y Wild.",
-                    "Configurable por multiplicador.",
-                    "Máximo boosts y premio máximo dependen de configuración."
-                  ]
+                  "title": "¿Se puede jugar desde el celular?",
+                  "description": "Sí, el poker en Codere está disponible en dispositivos móviles."
                 }
               ]
             }
@@ -1862,7 +1653,7 @@
       },
       "top": {
         "title": "Juega y apuesta en cualquier lugar con la app Codere",
-        "description": "Vive toda la emoción de las apuestas deportivas y el casino en línea con la APP oficial de Codere México. Descárgala en tu dispositivo Android o iOS, regístrate en segundos, haz tu primer depósito y comienza a disfrutar de cuotas competitivas, juegos de casino en vivo y las mejores ligas deportivas del mundo."
+        "description_html": "<p class=\"mt-[4px]\">Vive toda la emoción de las apuestas deportivas y el casino en línea con la APP oficial de Codere México. Descárgala en tu dispositivo <a class=\"underline\" href=\"https://codere.onelink.me/GO14/5bcec134\" target=\"_blank\" rel=\"nofollow\">Android o iOS</a>, regístrate en segundos, haz tu primer depósito y comienza a disfrutar de cuotas competitivas, juegos de casino en vivo y las mejores ligas deportivas del mundo.</p>"
       },
       "content": [
         {
@@ -2346,7 +2137,7 @@
   },
   "club-codere": {
     "id": "Club Codere",
-    "label": "Club Codere",
+    "label": "Codere Club",
     "url": "https://www.codere.mx/casino/codere-club",
     "page": {
       "seo": {},
@@ -2366,7 +2157,7 @@
       },
       "top": {
         "title": "Tu lugar para disfrutar el juego en vivo: Casinos Codere",
-        "description": "Codere no solo es apuestas online. También contamos con una red de casinos físicos en todo México, donde disfrutas de una experiencia completa: máquinas de juego de última generación, apuestas deportivas en vivo, gastronomía variada y promociones exclusivas para miembros."
+        "description_html": "<p class=\"mt-[4px]\">Codere no solo es apuestas online. También contamos con una red de <a class=\"underline\" href=\"https://www.codere.mx/in-on\" >casinos físicos</a> en todo México, donde disfrutas de una experiencia completa: máquinas de juego de última generación, apuestas deportivas en vivo, gastronomía variada y promociones exclusivas para miembros.</p>"
       },
       "content": [
         {
