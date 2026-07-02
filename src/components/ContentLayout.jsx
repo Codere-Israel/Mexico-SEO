@@ -7,6 +7,23 @@ import { CodereHelmet } from "../data/helpers";
 const splitParagraphs = (text) =>
   typeof text === "string" ? text.split("*").filter(Boolean) : [];
 
+function renderList(items, type, key) {
+  if (!Array.isArray(items) || items.length === 0) return null;
+
+  const ListTag = type;
+  const listClass = type === "ul" ? "list-disc" : "list-decimal";
+
+  return (
+    <ListTag className={`${listClass} ml-6 mt-2`}>
+      {items.map((item, i) => (
+        <li key={`${key}-${i}`} className="mt-1">
+          {item}
+        </li>
+      ))}
+    </ListTag>
+  );
+}
+
 function renderSection(section, depth = 1, idx = 0) {
   if (!section) return null;
   const Heading = depth === 1 ? "h2" : "h3";
@@ -28,15 +45,12 @@ function renderSection(section, depth = 1, idx = 0) {
         </p>
       ))}
 
-      {Array.isArray(section.ul) && section.ul.length > 0 && (
-        <ul className="list-disc ml-6 mt-2">
-          {section.ul.map((item, i) => (
-            <li key={i} className="mt-1">
-              {item}
-            </li>
-          ))}
-        </ul>
+      {section.description_html && (
+        <div dangerouslySetInnerHTML={{ __html: section.description_html }} />
       )}
+
+      {renderList(section.ul, "ul", `ul-${idx}`)}
+      {renderList(section.ol, "ol", `ol-${idx}`)}
 
       {section.table && <Table table={section.table} />}
 
@@ -87,11 +101,16 @@ const ContentLayout = observer(({ subtopicObject: propsObject }) => {
             </h1>
           )}
 
+          {/* Avner */}
+
           {splitParagraphs(top.description).map((p, i) => (
             <p key={i} className="mt-1">
               {p}
             </p>
           ))}
+          {top.description_html && (
+            <div dangerouslySetInnerHTML={{ __html: top.description_html }} />
+          )}
         </section>
 
         {content.map((section, idx) => (
