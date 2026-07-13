@@ -1410,50 +1410,61 @@
           },
           "top": {
             "title": "Aprende a usar el bono de Casino de Codere",
-            "description": "En Codere.mx, los nuevos usuarios disfrutan de recompensas exclusivas que multiplican sus primeras jugadas. El Triple Bono de Casino y el Bono de Registro están diseñados para que empieces con más saldo, más giros y más oportunidades de ganar desde tu primer día."
+            "description": "En Codere.mx, los nuevos usuarios pueden comenzar su experiencia con una ventaja exclusiva. Al realizar tu primer depósito de $200 MXN o más, recibirás un Bono de Bienvenida del 100% de tu depósito, hasta un máximo de $7,000 en fondos disponibles para jugar en Casino y Casino en Vivo."
           },
           "content": [
             {
-              "title": "Triple Bono de Casino: hasta 5,000 fondos disponibles",
-              "description": "El Triple Bono de Casino es progresivo y se activa con tus tres primeros depósitos.",
+              "title": "Bono de Bienvenida de Casino: hasta $7,000 en fondos disponibles",
+              "description": "El Bono de Bienvenida se activa con tu primer depósito y duplica el monto que ingreses, para que disfrutes más tiempo de juego desde el inicio.",
               "subcontent": [
                 {
                   "title": "Guía paso a paso",
                   "ul": [
-                    "Primer depósito: recibe un 100% hasta 2,000 FD.",
-                    "Segundo depósito: obtén un 50% hasta 1,000 FD.",
-                    "Tercer depósito: suma un 70% hasta 2,000 FD.",
-                    "En total, puedes alcanzar hasta 5,000 FD adicionales para jugar en tus títulos favoritos de casino."
+                    "Regístrate en Codere.mx.",
+                    "Acepta participar en la promoción.",
+                    "Realiza tu primer depósito de al menos $200 MXN.",
+                    "Recibe un bono del 100% de tu depósito, hasta $7,000 en fondos disponibles"
                   ]
                 },
                 {
-                  "title": "Condiciones principales",
+                  "description": "Ejemplos:",
                   "ul": [
-                    "Debes apostar 30 veces la suma del bono más el depósito.",
-                    "El plazo máximo para cumplir los requisitos es de 14 días.",
-                    "Contribución de juegos: Slots 100%, Blackjack 20%, Ruleta 25% (si cubre menos del 66% de la mesa).",
-                    "Algunos juegos, como Savage Jungle, no participan en la promoción."
+                    "Deposita $1,000 MXN y recibe $1,000 en fondos disponibles.",
+                    "Deposita $7,000 MXN y recibe $7,000 en fondos disponibles."
                   ]
-                }
-              ]
-            },
-            {
-              "title": "Bono de Registro: 1,000 gratis para deportes",
-              "description": "Además del bono de casino, Codere te regala un Bono de Registro solo por completar tu cuenta. En tu segundo inicio de sesión, después de validar por SMS, recibes 1,000 gratis para apostar en deportes.",
-              "subcontent": [
+                },
                 {
-                  "title": "Requisitos para liberarlo",
+                  "title": "Condiciones principal",
                   "ul": [
-                    "Apostar 10 veces el monto recibido.",
-                    "Solo válido en eventos con momios entre +100 y +2000.",
-                    "Con este bono puedes ganar hasta 3,000 MXN."
+                    "Promoción exclusiva para nuevos usuarios registrados durante la vigencia.",
+                    "Válida únicamente para el primer depósito.",
+                    "Depósito mínimo de $200 MXN.",
+                    "Bono máximo de $7,000 en fondos disponibles.",
+                    "Debes apostar 30 veces la suma del depósito y del bono recibido.",
+                    "Dispones de 14 días para completar el requisito de apuesta.",
+                    "Si realizas un retiro antes de completar el rollover, el bono y las ganancias generadas con él serán cancelados.",
+                    "La cantidad máxima que podrá transferirse al saldo en dinero una vez cumplidos los requisitos es de $60,000 MXN."
+                  ]
+                },
+                {
+                  "description": "Contribución de juegos:",
+                  "ul": [
+                    "Slots: 100%",
+                    "Otros juegos de casino: 100%",
+                    "Blackjack: 20%",
+                    "Baccarat: 20%",
+                    "Ruleta: 25% (cuando la apuesta cubra menos del 66% de la mesa)",
+                    "Juegos Turbo de YAK: 20%",
+                    "Algunos juegos están excluidos y no contribuyen al requisito de apuesta",
+                    "Microbeneficio: duplica tu primer depósito y disfruta de más oportunidades para jugar en Casino y Casino en Vivo desde el primer día",
+                    "👉 Descubre más en la sección de Casino Codere y activa tu bono con tu primer depósito."
                   ]
                 }
               ]
             },
             {
               "title": "Conclusión",
-              "description": "El Triple Bono de Casino y el Bono de Registro son la mejor manera de comenzar en Codere con ventaja. Más saldo, más apuestas y más emoción en cada jugada. Conoce las condiciones, activa tu promoción y vive la experiencia de apostar con beneficios extra desde el primer momento."
+              "description": "El Bono de Bienvenida de Casino es la forma ideal de comenzar a jugar en Codere.mx con más saldo y más oportunidades. Solo necesitas registrarte, realizar tu primer depósito y cumplir los requisitos de apuesta para aprovechar al máximo esta promoción.*👉 Explora todas las promociones de Codere y empieza a jugar hoy mismo."
             }
           ]
         }
