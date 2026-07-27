@@ -23,6 +23,24 @@ export function CodereHelmet(seo, canonical) {
   canonicalLink.setAttribute("rel", "canonical");
   canonicalLink.setAttribute("href", `https://www.codere.mx${canonical}`);
 
+  // Update JSON-LD structured data
+
+  const jsonLD = document.querySelectorAll(
+    'script[type="application/ld+json"]',
+  );
+
+  jsonLD.forEach((json) => {
+    json.remove();
+  });
+
+  if (seo?.json) {
+    let tempJson = document.createElement("script");
+    tempJson.type = "application/ld+json";
+    tempJson.textContent = JSON.stringify(JSON.parse(seo.json));
+
+    head.insertBefore(tempJson, head.firstChild);
+  }
+
   head.insertBefore(canonicalLink, head.firstChild);
   head.insertBefore(mdes, head.firstChild);
   head.insertBefore(titleEl, head.firstChild);

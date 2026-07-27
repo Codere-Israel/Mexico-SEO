@@ -69,7 +69,8 @@
         "page": {
           "seo": {
             "title": "Registro de cuenta: Crea tu perfil fácilmente | Codere®",
-            "description": "Aprende cómo crear tu cuenta en Codere de manera rápida y segura para empezar a disfrutar de todos los juegos y servicios de la plataforma."
+            "description": "Aprende cómo crear tu cuenta en Codere de manera rápida y segura para empezar a disfrutar de todos los juegos y servicios de la plataforma.",
+            "json": "{ \"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [ { \"@type\": \"Question\", \"name\": \"¿Cuánto tarda el registro?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Menos de 5 minutos. Una vez verifiques tus datos, podrás empezar a jugar.\" } }, { \"@type\": \"Question\", \"name\": \"¿Qué documentos necesito?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Un documento oficial vigente y un número de celular para validar tu cuenta.\" } }, { \"@type\": \"Question\", \"name\": \"¿Cómo activo mi bono?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Elige el bono al registrarte, haz tu depósito mínimo y se activa automáticamente.\" } } ] }"
           },
           "top": {
             "title": "Cómo crear tu cuenta en Codere México",
@@ -143,26 +144,81 @@
       },
       "password-recovery": {
         "id": "password-recovery",
-        "label": "Recuperación contraseña",
+        "label": "Recuperación de contraseña",
         "url": "/ayuda/cuenta/recuperacion-contrasena",
         "page": {
           "seo": {
-            "title": "Recuperación de contraseña Codere | Codere®",
-            "description": "Guía para restablecer tu clave de acceso y volver a entrar a tu cuenta Codere."
+            "title": "Olvidaste tu contraseña? Recupérala y sigue jugando | Codere®",
+            "description": "Restablece la contraseña de tu cuenta en Codere, de una manera sencilla y segura, para volver a disfrutar de tus apuestas sin complicaciones."
           },
           "top": {
-            "title": "Recuperación de contraseña",
-            "description": "Si olvidaste tu contraseña, puedes restablecerla en pocos pasos desde la pantalla de acceso. Si no recibes el correo de recuperación, revisa tu bandeja de spam o contacta a Atención al Cliente."
+            "title": "Cómo recuperar tu cuenta de Codere paso a paso",
+            "description": "Recuperar tu acceso en Codere.mx es un proceso sencillo y seguro que puedes completar en pocos minutos. No necesitas papeleo, solo contar con el correo electrónico registrado en tu cuenta para restablecer tu contraseña rápidamente."
           },
           "content": [
             {
-              "title": "Pasos para recuperar tu contraseña",
+              "title": "Recuerda",
               "ul": [
-                "Ingresa a la página de acceso de Codere.",
-                "Haz clic en \"¿Olvidaste tu contraseña?\".",
-                "Introduce el correo electrónico asociado a tu cuenta.",
-                "Revisa tu correo y sigue el enlace recibido.",
-                "Crea una nueva contraseña segura."
+                "Podrás volver a entrar y jugar en cuanto completes el proceso.",
+                "El enlace de recuperación es válido por 30 minutos, así que úsalo de inmediato para evitar demoras.",
+                "Tu nueva contraseña debe ser segura: entre 8 y 20 caracteres, con mayúsculas, minúsculas y al menos un número."
+              ]
+            },
+            {
+              "title": "Pasos para recuperar tu cuenta",
+              "ol": [
+                "Ingresa a codere.mx y haz clic en “¿Olvidaste tu contraseña?”.",
+                "Escribe tu correo electrónico registrado y pulsa en “Enviar”.",
+                "Revisa tu bandeja de entrada (y carpetas de spam) para encontrar el correo con tu contraseña temporal.",
+                "Accede con tu usuario y la clave temporal.",
+                "En la ventana emergente, introduce la contraseña temporal en “Contraseña anterior” y define tu nueva contraseña en los campos correspondientes.",
+                "En minutos tu acceso quedará restablecido y podrás seguir apostando y jugando con total seguridad."
+              ],
+              "subcontent": [
+                {
+                  "title": "Si no recibes el correo",
+                  "ul": [
+                    "Verifica que tu dirección de correo esté registrada correctamente.",
+                    "Revisa las carpetas de spam o promociones.",
+                    "Solicita un nuevo enlace si el anterior expiró."
+                  ]
+                },
+                {
+                  "title": "Si todavía no puedes recuperar tu cuenta",
+                  "description": "Borra las cookies y caché de tu navegador e inténtalo otra vez. Si el problema persiste, contacta a nuestro equipo de Atención al Cliente 24/7, que siempre está disponible para ayudarte a recuperar el acceso."
+                }
+              ]
+            },
+            {
+              "title": "¿Qué hacer si tu cuenta Codere está suspendida o bloqueada?",
+              "description": "Si al intentar recuperar tu acceso no puedes iniciar sesión, es posible que tu cuenta Codere esté suspendida o bloqueada. Esto es diferente a haber olvidado la contraseña y requiere una revisión adicional.",
+              "subcontent": [
+                {
+                  "title": "Motivos comunes por los que Codere puede suspender una cuenta",
+                  "ul": [
+                    "Verificación pendiente o incompleta de documentos de identidad.",
+                    "Intentos fallidos repetidos al ingresar la contraseña por seguridad.",
+                    "Actividad inusual o sospechosa, detectada por los sistemas de protección.",
+                    "Solicitud temporal de autoexclusión o medidas de juego responsable."
+                  ]
+                },
+                {
+                  "title": "¿Cómo recuperar una cuenta Codere suspendida?",
+                  "ol": [
+                    "Verifica si recibiste un correo de Codere con información sobre la suspensión.",
+                    "Accede al centro de ayuda o contacta a Atención al Cliente 24/7 desde la web.",
+                    "Proporciona los datos solicitados para validar tu identidad y revisar tu caso."
+                  ]
+                },
+                {
+                  "description": "Una vez revisada la información, el equipo de soporte te indicará los pasos para recuperar tu cuenta Codere o el tiempo estimado de reactivación."
+                },
+                {
+                  "description": "👉 Si tu cuenta no está suspendida y solo olvidaste la contraseña, sigue los pasos anteriores para restablecerla en pocos minutos."
+                },
+                {
+                  "description_html": "<p>👉 <a class=\"underline text-[#79c000]\" href=\"https://www.codere.mx\">Recupera tu contraseña</a> ahora y vuelve a jugar en pocos minutos</p>"
+                }
               ]
             }
           ]
@@ -986,7 +1042,8 @@
         "page": {
           "seo": {
             "title": "FAQs de Apuestas: Depósitos, Cuotas y En Vivo | Codere®",
-            "description": "Encuentra respuestas rápidas a las dudas más comunes sobre apuestas en Codere: límites, cuotas y funcionamiento."
+            "description": "Encuentra respuestas rápidas a las dudas más comunes sobre apuestas en Codere: límites, cuotas y funcionamiento.",
+            "json": "{ \"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [ { \"@type\": \"Question\", \"name\": \"¿Cuál es el depósito mínimo y el monto mínimo/máximo para apostar?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"El depósito mínimo suele ser de 100 MXN, dependiendo del método de pago elegido. La apuesta mínima varía según el mercado, pero normalmente inicia desde 1 MXN. Los límites máximos cambian según el evento, la cuota y el tipo de apuesta.\" } }, { \"@type\": \"Question\", \"name\": \"¿Qué pasa si se suspende un partido en Codere?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Si un evento se suspende, la apuesta se cancela y se devuelve el dinero, salvo que el resultado ya estuviera definido antes de la suspensión.\" } }, { \"@type\": \"Question\", \"name\": \"¿Por qué cambian las cuotas constantemente?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Las cuotas se actualizan en tiempo real según la evolución del partido, la demanda del mercado y otros factores, lo que permite aprovechar oportunidades en el momento adecuado.\" } }, { \"@type\": \"Question\", \"name\": \"¿Puedo apostar en vivo en Codere?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Sí. Puedes apostar mientras se juega el partido con cuotas que cambian al instante desde la sección de Deportes en Vivo.\" } }, { \"@type\": \"Question\", \"name\": \"¿Puedo cancelar una apuesta ya realizada?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"No. Una vez confirmada, la apuesta no puede cancelarse. En algunos eventos puedes usar la función de Cerrar Apuesta para asegurar ganancias parciales o reducir pérdidas.\" } }, { \"@type\": \"Question\", \"name\": \"¿Hay transmisiones en vivo en Codere?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Sí. Puedes acceder al streaming en directo desde la sección de Deportes en Vivo, siempre que el evento lo permita.\" } } ] }"
           },
           "top": {
             "title": "Respuestas a las preguntas más comunes sobre apuestas en Codere",
