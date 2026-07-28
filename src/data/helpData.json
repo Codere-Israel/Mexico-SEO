@@ -2772,16 +2772,13 @@
               "description": "Si crees o te han dicho amigos o familiares que el juego se ha convertido en un problema para ti, puedes contactar con entidades y asociaciones especializadas en patología del juego. Algunas de ellas son:",
               "subcontent": [
                 {
-                  "title": "Comisión Nacional contra las Adicciones",
-                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata\">https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata</a>"
+                  "description_html": "<a class=\"text-lg text-[#79c000]\" target=\"_blank\" href=\"https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata\">Comisión Nacional contra las Adicciones</a>"
                 },
                 {
-                  "title": "Centro Nacional para la Prevención y el Control de las Adicciones",
-                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A\">https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A</a>"
+                  "description_html": "<a class=\"text-lg text-[#79c000]\" target=\"_blank\" href=\"https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A\">Centro Nacional para la Prevención y el Control de las Adicciones</a>"
                 },
                 {
-                  "title": "Directorio de servicios para la Prevención y la Atención del Juego Patológico en México",
-                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf\">https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf</a>"
+                  "description_html": "<a class=\"text-lg text-[#79c000]\" target=\"_blank\" href=\"https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf\">Directorio de servicios para la Prevención y la Atención del Juego Patológico en México</a>"
                 },
                 {
                   "description": "Además, todo el personal del Servicio de Atención al Cliente del Grupo Codere ha recibido formación sobre Juego Responsable y atenderá cualquier pregunta que tengas sobre este tema, poniendo a tu disposición toda la información pertinente para ayudarte a abordar los problemas de juego.\n\nPara más información sobre Juego Responsable puedes contactar a través de nuestro teléfono de ayuda: 800 227 4667 o en el siguiente enlace:",
