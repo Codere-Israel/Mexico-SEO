@@ -1855,30 +1855,8 @@
                     },
                     {
                       "title": "1.3 Tipos de apuestas",
-                      "description": "CODERE.MX ofrece a sus clientes los siguientes tipos de apuestas:",
-                      "ul": [
-                        "Derecha",
-                        "Parlay",
-                        "Multiseleccion",
-                        "Round Robin"
-                      ],
-                      "children": [
-                        {
-                          "title": "Apuesta derecha",
-                          "description": "La apuesta derecha es aquella en la que se apuesta por un único resultado de un único evento. Si el apostante acierta en su pronóstico, la apuesta es ganadora.",
-                          "sourcePages": [3]
-                        },
-                        {
-                          "title": "Apuesta Parlay",
-                          "description": "Es una apuesta a dos o más pronósticos diferentes en eventos distintos. Para que la apuesta sea ganadora, el apostante debe acertar todos los pronósticos que haya seleccionado.*Las apuestas parlay son de 2 a 20 selecciones.*El Round Robin es el seleccionar de 3 a 20 selecciones ya sea en grupos de dos o más*selecciones dependiendo los eventos seleccionados.",
-                          "sourcePages": [3, 4]
-                        },
-                        {
-                          "title": "Apuesta Round Robin",
-                          "description": "Es una apuesta a tres o más pronósticos en eventos distintos que se combinan en grupos de dos o más pronósticos. Para tener derecho a premio hay que acertar todos los pronósticos que forman parte de una de las combinaciones.*Ejemplo 1: El cliente quiere realizar las apuestas dobles que hay en 4 selecciones (en el sistema round robin 2/4) sobre los siguientes pronósticos:*Evento Mercado Pronóstico Multiplicador*Ganador del A FUTBOL: Inglaterra - Francia Partido 1 - Inglaterra 2,8*Ganador del B FUTBOL: Holanda – Austria Partido 2 - Empate 4,0*TENIS ATP HAMBURGO: Mayer Ganador del C Vs Nadal Partido 3 - Nadal 1,5*BEISBOL: Chicago Cubs Vs ST Ganador del 4 - Chicago D Louis Cardinals Partido Cubs 1,6*Las posibles combinaciones de estos 4 eventos tomados de 2 en 2 son 6 apuestas: A - B; A - C; A - D; B - C; B - D; C - D.*Para tener derecho a premio el cliente debe acertar en 2 ó más pronósticos. Si por ejemplo apuesta $$120 (20 por cada una de las 6 apuestas dobles) y acierta todos los pronósticos, su premio será:*20 x 2,8 x 4,00 = 224 20 x 2,8 x 1,5 = 84 20 x 2,8 x 1,6 = 89,60 20 x 4,00 x 1,50 = 120 20 x 4,00 x 1,60 = 128 20 x 1,50 x 1,60 = 48*El premio final del cliente será el resultado de sumar todos los premios de las apuestas acertadas:*224 + 84 + 89,6 + 120 + 128 + 48 = $ 693,60 → Ganancia 693,60 – 120 = $573,60*En el caso de que, por ejemplo, la apuesta a Inglaterra fuese perdedora, el cliente ganaría el premio correspondiente al resto de pronósticos que sí haya acertado:*Premio: 120 + 128 + 48 = $ 296 → Ganancia: 296 – 120 = $ 176*Ejemplo 2: El cliente quiere realizar las apuestas triples que hay en 4 selecciones (en el sistema round robin 3/4) Sobre los mismos pronósticos del ejemplo 1. Las posibles combinaciones de los 4 eventos tomados de 3 en 3 son:*A – B – C; A – B – D; B – C – D; A – C – D;*Para tener derecho a premio el cliente debe acertar en 3 ó más pronósticos. Si, por ejemplo, apuesta $ 16, ($4 por cada una de las 4 apuestas) y acierta todos los pronósticos, su premio será:*4 x 2,80 x 4,00 x 1,50 = 67,20 4 x 2,80 x 4,00 x 1,60 = 71,68 4 x 2,80 x 1,50 x 1,60 = 26,88 4 x 4,00 x 1,50 x 1,60 = 38,40*El premio será: 67,20 + 71,68 + 26,88 + 38,40 = $ 204,16 → Ganancia: 204,16 – 16 = $ 188,16*Si, como en el caso anterior, Inglaterra resultara perdedora, el premio de nuestro cliente sería:*4 x 4,00 x 1,50 x 1,60 = 38,40*Premio: $ 38,40 → Ganancia: $$22,40*En el caso de que, dentro de la misma apuesta, el cliente eligiese 2 ó más pronósticos*pertenecientes al mismo evento, al realizar las posibles combinaciones se excluyen todas aquellas en las que participen los pronósticos correspondientes a un mismo evento.*Ejemplo 1: El cliente quiere realizar las apuestas dobles de 4 selecciones (en el sistema round robin 2/4) pero en este caso dos de sus pronósticos pertenecen al mismo evento:*Evento Mercado Pronóstico Multiplicador*Ganador del FUTBOL: Inglaterra - Francia Partido 1 – Inglaterra 2,8 A Primer gol del FUTBOL: Inglaterra - Francia Partido 2 – H.Kane 4*TENIS ATP HAMBURGO: Mayer Vs Ganador del B Nadal Partido 3 – Nadal 1,5*BEISBOL: Chicago Cubs Vs ST Ganador del 4 - Chicago C Louis Cardinals Partido Cubs 1,6*En este caso, al haber dos pronósticos dentro del mismo evento, dichos pronósticos no podrán coincidir dentro de una apuesta, así que los dobles resultantes serán: A1 - B; A1 - C; A2 - B; A2 - C; B - C.*Los pronósticos H.Kane e Inglaterra no podrán ir juntos dentro de una apuesta.*Para tener derecho a premio el cliente debe acertar en 2 o más pronósticos. Si, por ejemplo, apuesta $ 10 (2 por cada una de las 5 apuestas dobles) y acierta todos los pronósticos, su premio será:*2 x 2,80 x 1,50 = 8,40 2 x 2,80 x 1,60 = 8,96 2 x 4,00 x 1,50 = 12 2 x 4,00 x 1,60 = 12,80 2 x 1,50 x 1,60 = 4,80*El premio será:*8,40 + 8,96 + 12 + 12,80 + 4,80 = $ 46,96 → Ganancia: 46,96 – 10 = $ 36,96",
-                          "sourcePages": [4, 5, 6, 7]
-                        }
-                      ],
+
+                      "description_html": "<div class=\"space-y-4\"> <p> CODERE.MX ofrece a sus clientes los siguientes tipos de apuestas: </p> <ul class=\"list-disc space-y-1 ps-6\"> <li>Derecha</li> <li>Parlay</li> <li>Multiseleccion</li> <li>Round Robin</li> </ul> <h3 class=\"mt-6 text-[16px] font-semibold\"> Apuesta derecha </h3> <p> La apuesta derecha es aquella en la que se apuesta por un único resultado de un único evento. Si el apostante acierta en su pronóstico, la apuesta es ganadora. </p> <h3 class=\"mt-6 text-[16px] font-semibold\"> Apuesta Parlay </h3> <p> Es una apuesta a dos o más pronósticos diferentes en eventos distintos. Para que la apuesta sea ganadora, el apostante debe acertar todos los pronósticos que haya seleccionado. </p> <p> Las apuestas parlay son de 2 a 20 selecciones. </p> <p> El Round Robin es el seleccionar de 3 a 20 selecciones, ya sea en grupos de dos o más selecciones, dependiendo de los eventos seleccionados. </p> <h3 class=\"mt-6 text-[16px] font-semibold\"> Apuesta Round Robin </h3> <p> Es una apuesta a tres o más pronósticos en eventos distintos que se combinan en grupos de dos o más pronósticos. Para tener derecho a premio hay que acertar todos los pronósticos que forman parte de una de las combinaciones. </p> <h4 class=\"mt-6 font-semibold\"> Ejemplo 1: Round Robin 2/4 </h4> <p> El cliente quiere realizar las apuestas dobles que hay en 4 selecciones —en el sistema Round Robin 2/4— sobre los siguientes pronósticos: </p> <div class=\"mt-4 w-full overflow-x-auto\"> <table class=\"w-full min-w-[650px] border-collapse text-left text-[13px] md:text-[14px]\" > <thead> <tr> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Selección </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Evento </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Mercado </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Pronóstico </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Multiplicador </th> </tr> </thead> <tbody> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> A </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> FUTBOL: Inglaterra - Francia </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1 - Inglaterra </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 2,8 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> B </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> FUTBOL: Holanda - Austria </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 2 - Empate </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 4,0 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> C </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> TENIS ATP HAMBURGO: Mayer Vs Nadal </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 3 - Nadal </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1,5 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> D </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> BEISBOL: Chicago Cubs Vs ST Louis Cardinals </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 4 - Chicago Cubs </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1,6 </td> </tr> </tbody> </table> </div> <p> Las posibles combinaciones de estos 4 eventos tomados de 2 en 2 son 6 apuestas: </p> <p class=\"font-semibold\"> A - B; A - C; A - D; B - C; B - D; C - D. </p> <p> Para tener derecho a premio el cliente debe acertar en 2 o más pronósticos. Si, por ejemplo, apuesta $120 —$20 por cada una de las 6 apuestas dobles— y acierta todos los pronósticos, su premio será: </p> <div class=\"overflow-x-auto\"> <table class=\"w-full min-w-[420px] border-collapse text-left text-[13px] md:text-[14px]\" > <thead> <tr> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Combinación </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Cálculo </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Premio </th> </tr> </thead> <tbody> <tr> <td class=\"border border-white/20 px-3 py-2\">A - B</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 2,8 × 4,00 </td> <td class=\"border border-white/20 px-3 py-2\">224</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A - C</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 2,8 × 1,5 </td> <td class=\"border border-white/20 px-3 py-2\">84</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A - D</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 2,8 × 1,6 </td> <td class=\"border border-white/20 px-3 py-2\">89,60</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">B - C</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 4,00 × 1,50 </td> <td class=\"border border-white/20 px-3 py-2\">120</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">B - D</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 4,00 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">128</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">C - D</td> <td class=\"border border-white/20 px-3 py-2\"> 20 × 1,50 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">48</td> </tr> </tbody> <tfoot> <tr> </td> </tr> </tfoot> </table> </div> <div class=\"border-s-4 border-white/30 bg-white/5 px-4 py-3\"> <p> <strong>Premio final:</strong> 224 + 84 + 89,60 + 120 + 128 + 48 = $693,60. </p> <p class=\"mt-2\"> <strong>Ganancia:</strong> $693,60 - $120 = $573,60. </p> </div> <p> En el caso de que, por ejemplo, la apuesta a Inglaterra fuese perdedora, el cliente ganaría el premio correspondiente al resto de pronósticos que sí haya acertado: </p> <div class=\"border-s-4 border-white/30 bg-white/5 px-4 py-3\"> <p> <strong>Premio:</strong> 120 + 128 + 48 = $296. </p> <p class=\"mt-2\"> <strong>Ganancia:</strong> $296 - $120 = $176. </p> </div> <h4 class=\"mt-6 font-semibold\"> Ejemplo 2: Round Robin 3/4 </h4> <p> El cliente quiere realizar las apuestas triples que hay en 4 selecciones —en el sistema Round Robin 3/4— sobre los mismos pronósticos del ejemplo 1. Las posibles combinaciones de los 4 eventos tomados de 3 en 3 son: </p> <p class=\"font-semibold\"> A - B - C; A - B - D; B - C - D; A - C - D. </p> <p> Para tener derecho a premio el cliente debe acertar en 3 o más pronósticos. Si, por ejemplo, apuesta $16 —$4 por cada una de las 4 apuestas— y acierta todos los pronósticos, su premio será: </p> <div class=\"overflow-x-auto\"> <table class=\"w-full min-w-[420px] border-collapse text-left text-[13px] md:text-[14px]\" > <thead> <tr> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Combinación </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Cálculo </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Premio </th> </tr> </thead> <tbody> <tr> <td class=\"border border-white/20 px-3 py-2\">A - B - C</td> <td class=\"border border-white/20 px-3 py-2\"> 4 × 2,80 × 4,00 × 1,50 </td> <td class=\"border border-white/20 px-3 py-2\">67,20</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A - B - D</td> <td class=\"border border-white/20 px-3 py-2\"> 4 × 2,80 × 4,00 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">71,68</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A - C - D</td> <td class=\"border border-white/20 px-3 py-2\"> 4 × 2,80 × 1,50 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">26,88</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">B - C - D</td> <td class=\"border border-white/20 px-3 py-2\"> 4 × 4,00 × 1,50 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">38,40</td> </tr> </tbody> <tfoot> <tr>  </tr> </tfoot> </table> </div> <div class=\"border-s-4 border-white/30 bg-white/5 px-4 py-3\"> <p> <strong>Premio:</strong> 67,20 + 71,68 + 26,88 + 38,40 = $204,16. </p> <p class=\"mt-2\"> <strong>Ganancia:</strong> $204,16 - $16 = $188,16. </p> </div> <p> Si, como en el caso anterior, Inglaterra resultara perdedora, el premio del cliente sería: </p> <div class=\"border-s-4 border-white/30 bg-white/5 px-4 py-3\"> <p> 4 × 4,00 × 1,50 × 1,60 = 38,40. </p> <p class=\"mt-2\"> <strong>Premio:</strong> $38,40. </p> <p class=\"mt-2\"> <strong>Ganancia:</strong> $38,40 - $16 = $22,40. </p> </div> <h4 class=\"mt-6 font-semibold\"> Ejemplo con pronósticos pertenecientes al mismo evento </h4> <p> En el caso de que, dentro de la misma apuesta, el cliente eligiese 2 o más pronósticos pertenecientes al mismo evento, al realizar las posibles combinaciones se excluyen todas aquellas en las que participen los pronósticos correspondientes a un mismo evento. </p> <p> El cliente quiere realizar las apuestas dobles de 4 selecciones —en el sistema Round Robin 2/4—, pero en este caso dos de sus pronósticos pertenecen al mismo evento: </p> <div class=\"mt-4 w-full overflow-x-auto\"> <table class=\"w-full min-w-[650px] border-collapse text-left text-[13px] md:text-[14px]\" > <thead> <tr> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Selección </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Evento </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Mercado </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Pronóstico </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Multiplicador </th> </tr> </thead> <tbody> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> A1 </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> FUTBOL: Inglaterra - Francia </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1 - Inglaterra </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 2,8 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> A2 </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> FUTBOL: Inglaterra - Francia </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Primer gol del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 2 - H. Kane </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 4 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> B </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> TENIS ATP HAMBURGO: Mayer Vs Nadal </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 3 - Nadal </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1,5 </td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2 align-top\"> C </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> BEISBOL: Chicago Cubs Vs ST Louis Cardinals </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> Ganador del Partido </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 4 - Chicago Cubs </td> <td class=\"border border-white/20 px-3 py-2 align-top\"> 1,6 </td> </tr> </tbody> </table> </div> <p> En este caso, al haber dos pronósticos dentro del mismo evento, dichos pronósticos no podrán coincidir dentro de una apuesta. Los dobles resultantes serán: </p> <p class=\"font-semibold\"> A1 - B; A1 - C; A2 - B; A2 - C; B - C. </p> <p> Los pronósticos H. Kane e Inglaterra no podrán ir juntos dentro de una apuesta. </p> <p> Para tener derecho a premio el cliente debe acertar en 2 o más pronósticos. Si, por ejemplo, apuesta $10 —$2 por cada una de las 5 apuestas dobles— y acierta todos los pronósticos, su premio será: </p> <div class=\"overflow-x-auto\"> <table class=\"w-full min-w-[420px] border-collapse text-left text-[13px] md:text-[14px]\" > <thead> <tr> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Combinación </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Cálculo </th> <th class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> Premio </th> </tr> </thead> <tbody> <tr> <td class=\"border border-white/20 px-3 py-2\">A1 - B</td> <td class=\"border border-white/20 px-3 py-2\"> 2 × 2,80 × 1,50 </td> <td class=\"border border-white/20 px-3 py-2\">8,40</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A1 - C</td> <td class=\"border border-white/20 px-3 py-2\"> 2 × 2,80 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">8,96</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A2 - B</td> <td class=\"border border-white/20 px-3 py-2\"> 2 × 4,00 × 1,50 </td> <td class=\"border border-white/20 px-3 py-2\">12</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">A2 - C</td> <td class=\"border border-white/20 px-3 py-2\"> 2 × 4,00 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">12,80</td> </tr> <tr> <td class=\"border border-white/20 px-3 py-2\">B - C</td> <td class=\"border border-white/20 px-3 py-2\"> 2 × 1,50 × 1,60 </td> <td class=\"border border-white/20 px-3 py-2\">4,80</td> </tr> </tbody> <tfoot> <tr> <td colspan=\"2\" class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\" > Premio total </td> <td class=\"border border-white/20 bg-white/5 px-3 py-2 font-semibold\"> $46,96 </td> </tr> </tfoot> </table> </div> <div class=\"border-s-4 border-white/30 bg-white/5 px-4 py-3\"> <p> <strong>Premio:</strong> 8,40 + 8,96 + 12 + 12,80 + 4,80 = $46,96. </p> <p class=\"mt-2\"> <strong>Ganancia:</strong> $46,96 - $10 = $36,96. </p> </div> </div>",
                       "sourcePages": [3]
                     },
                     {
@@ -2686,107 +2664,130 @@
             "description": "Conoce qué es el juego responsable en Codere México y las herramientas disponibles para apostar con control, seguridad y equilibrio."
           },
           "top": {
-            "title": "Juego responsable: prevención y control en Codere",
-            "description": "En Grupo Codere estamos comprometidos con ofrecer un entorno de entretenimiento seguro, confiable y responsable, tanto en apuestas online como en locales físicos. Nuestro objetivo es que el juego se mantenga como una actividad divertida y nunca se convierta en un problema."
+            "title": "Compromiso de Codere",
+            "description": "En Grupo Codere, como empresa dedicada a la oferta de juegos y apuestas tanto online como presencial, estamos totalmente comprometidos con la responsabilidad social que nuestra actividad conlleva."
           },
           "content": [
             {
-              "title": "¿Qué significa jugar con responsabilidad?",
-              "description": "Para la mayoría de las personas, el juego es una actividad social y de ocio practicada con moderación. Pero puede convertirse en un problema si:",
+              "description": "Nuestro objetivo es proporcionar un entorno de entretenimiento adecuado, seguro y alejado de comportamientos perjudiciales y compulsivos que puedan convertir la diversión y el ocio en problemas relacionados con el juego.\n\nPara la mayoría de las personas, el juego no es más que una actividad social practicada con moderación, con una duración limitada en el tiempo y con un presupuesto aceptable y asumible. Estos jugadores se divierten y disfrutan con el juego sin sufrir ningún tipo de consecuencia adversa.\n\nSin embargo, para algunas personas, el juego puede convertirse en un problema.\n\nEl juego es un problema si:",
               "ul": [
                 "Interfiere con tu trabajo, estudios u otras actividades.",
-                "Provoca problemas emocionales o de salud.",
-                "Te genera dificultades financieras.",
-                "Afecta tus relaciones familiares o personales."
+                "Te origina problemas emocionales o de salud.",
+                "Te genera problemas financieros.",
+                "Interfiere en tu familia u otras relaciones personales."
+              ],
+              "subcontent": [
+                {
+                  "description": "En Grupo Codere afirmamos que la mayoría de las personas juega por diversión. Sin embargo, debemos de ser cautos para que el juego no se convierta en un comportamiento problemático"
+                }
               ]
             },
             {
-              "title": "El perfil del jugador responsable",
-              "ul": [
-                "Juega para divertirse, no para ganar dinero.",
-                "Acepta que puede ganar o perder.",
-                "Mantiene control sobre el tiempo y el dinero invertido.",
-                "Convierte el juego en una experiencia agradable, sin riesgos para sí mismo ni para quienes lo rodean."
+              "title": "El Jugador Responsable",
+              "ol": [
+                "Juega para divertirse y entretenerse, no para ganar dinero. Sabe que puede tener suerte y ganar, pero que también puede perder.",
+                "Jugar responsablemente significa tomar decisiones basadas en hechos, manteniendo el control sobre el tiempo y el dinero que quiere gastar.",
+                "Jugando responsablemente, hace que la actividad del juego sea una experiencia agradable, divertida, sin riesgo de daño a sí mismo, familia y/o amigos."
               ]
             },
             {
-              "title": "Consejos prácticos para jugar con seguridad",
-              "ul": [
-                "Considera el juego como entretenimiento, no como forma de ingreso.",
-                "Juega solo con dinero que puedas permitirte perder.",
-                "Establece un límite de gasto y un límite de tiempo antes de empezar.",
-                "Evita jugar si estás estresado o deprimido.",
-                "Alterna el juego con otras actividades.",
-                "No intentes recuperar pérdidas.",
-                "Descansa y haz pausas frecuentes.",
-                "Evita alcohol o drogas al jugar."
+              "title": "Consejos de Seguridad",
+              "description": "Desde el Grupo Codere queremos ofrecerte unos consejos para jugar con seguridad.",
+              "ol": [
+                "No pienses en los juegos de azar como una forma de ganar dinero: piensa en el juego como un gasto en tu entretenimiento, como ir al cine o a un restaurante.",
+                "Juega con dinero que puedas permitirte perder: juega siempre dentro de tu presupuesto de ocio.",
+                "Establece un límite de dinero por adelantado: decide cuánto puedes permitirte perder antes de ir a jugar. Si ganas, has tenido suerte, pero no te decepciones si tu suerte no continúa.",
+                "Establece un límite de tiempo por adelantado: es fácil perder la noción del tiempo cuando estás jugando. Establece un límite de tiempo o alarma, y cuando se acabe el tiempo, se acabó el juego.",
+                "No intentes recuperar tus pérdidas: si pierdes el presupuesto que hayas establecido, no intentes recuperarlo antes de irte.",
+                "No juegues si estás deprimido o estresado: asegúrate de jugar solo cuando te sientas bien y con la mente despejada.",
+                "Equilibra el juego con otras actividades: cuando el juego se convierte en tu única forma de entretenimiento, es poco probable que sigas jugando solo por diversión. ¡Que el juego no sea tu único pasatiempo!",
+                "Cuando vayas a jugar, no lo hagas a crédito: es importante tener siempre el control sobre lo que se está jugando.",
+                "Descansa habitualmente cuando juegues: jugar continuamente puede hacer que pierdas la noción del tiempo y la perspectiva. Sal a tomar un poco de aire o a comer algo de vez en cuando.",
+                "No exageres con el alcohol ni consumas drogas cuando juegues."
               ]
             },
             {
               "title": "Protección de menores de edad",
-              "description": "El juego es exclusivo para mayores de 18 años. Por eso:",
-              "ul": [
-                "Informamos sobre esta prohibición en todos nuestros canales.",
-                "Verificamos la edad de cada jugador con documentos oficiales.",
-                "Bloqueamos el acceso a quienes no cumplan con la edad legal."
-              ],
+              "description": "El juego es ilegal para los menores de 18 años y, por eso, desde Grupo Codere llevamos a cabo una serie de actuaciones para impedir su acceso a nuestra oferta de juego:",
               "subcontent": [
                 {
-                  "title": "Consejos para familias y tutores",
+                  "title": "Avisamos e informamos",
+                  "description": "Informamos sobre la prohibición del juego a menores de edad en todas nuestras páginas y aplicaciones de juego, así como en las zonas habilitadas para el juego presencial."
+                },
+                {
+                  "title": "Verificamos la edad de todos nuestros jugadores",
+                  "description": "Solicitamos la identificación oficial de todos nuestros clientes y se procede a la verificación de los mismos con los organismos competentes de cada país/región. Asimismo, no permitimos el registro de menores de 18 años en Codere.mx"
+                },
+                {
+                  "description": "Para prevenir conductas de riesgo entre los menores de edad, desde Grupo Codere queremos ofrecerte una serie de consejos e información destinados a sus familias o tutores legales.\n\nEs importante que los mayores eduquen a sus hijos e hijas para que sean capaces de entender en qué consisten los juegos de azar y cuáles son sus posibles riesgos y consecuencias Si, cuando llegan a la edad adulta, nuestros hijos e hijas deciden jugar, deben tener muy claro que el juego no es una actividad sin riesgos y que es fundamental mantener un comportamiento de juego responsable.\n\nSiempre verás el logotipo que recuerda que únicamente los mayores de 18 años tienen permitida la participación en los espacios habilitados para el juego por parte del Grupo Codere."
+                },
+                {
+                  "title": "¿Qué pueden hacer las familias?",
                   "ul": [
-                    "Habla con tus hijos sobre los riesgos del juego.",
-                    "Supervisa sus actividades online y gastos.",
-                    "Protege tus dispositivos con contraseñas y bloqueos.",
-                    "Siempre encontrarás el logotipo +18 en nuestros espacios de juego."
+                    "Intervenir cuanto antes. No hay que esperar a que sea demasiado tarde.",
+                    "Ofrecer información clara sobre juegos y apuestas online y presencial.",
+                    "Supervisar las actividades que realizan los menores de edad a través de internet, así como el gasto de dinero.",
+                    "Proteger los ordenadores o terminales de acceso a internet, manteniendo en secreto la contraseña, cerrando la sesión después de jugar o bloqueando ciertas páginas."
                   ]
                 }
               ]
             },
             {
-              "title": "Derecho de autoexclusión",
-              "description": "La autoexclusión permite que un jugador decida bloquear su acceso temporal o definitivamente. Al solicitarla:",
-              "ul": [
-                "Tu cuenta queda bloqueada de inmediato.",
-                "Puedes retirar tus fondos en cualquier momento.",
-                "No recibirás comunicaciones de Codere durante ese periodo.",
-                "Solicita la autoexclusión escribiendo a apuestas@codere.mx."
+              "title": "Derecho de autoexclusión y condiciones de ejercicio",
+              "description": "La autoexclusión consiste en solicitar a un operador de juego que te impida acceder a sus servicios de forma temporal o indefinida.\n\nDesde Grupo Codere ponemos a tu disposición esta opción, permitiendo que cualquier cliente que desee autoexcluirse pueda solicitarlo siguiendo el procedimiento establecido.\n\nPara solicitar la autoexclusión, deberás ponerte en contacto con nosotros enviando un correo electrónico a apuestas@codere.mx desde la misma dirección de correo electrónico asociada a tu cuenta de juego.\n\nUna vez recibida la solicitud, Codere procederá a revisarla y atenderla conforme a sus procedimientos internos. Desde el momento en que la autoexclusión se haga efectiva por parte del equipo de Codere, el acceso a tu cuenta quedará bloqueado y no será posible realizar ninguna actividad de juego durante el período de autoexclusión.\n\nPor supuesto, podrás solicitar el retiro de los fondos existentes en tu cuenta con absoluta normalidad.\n\nPara hacerlo tan solo tienes que ponerte en contacto con nosotros enviando un correo electrónico a: apuestas@codere.mx y te facilitaremos las instrucciones necesarias para que puedas disponer de tu saldo a la mayor brevedad.\n\nDurante el período de autoexclusión Grupo Codere no mantendrá ningún tipo de comunicación comercial contigo."
+            },
+            {
+              "title": "Control de tiempo y gasto de juego",
+              "description": "Al iniciar una sesión en tu cuenta Codere lo primero que verás es información sobre cuándo fue la última vez que te conectaste.\n\nAdemás, mientras juegas puedes ver en todo momento un reloj que marca la hora actual. De esta manera es muy difícil que pierdas la noción del tiempo, por lo que podrás controlar perfectamente tu juego.",
+              "subcontent": [
+                {
+                  "title": "Puedes controlar tus gastos en el juego",
+                  "description": "Además de averiguar cuándo fue tu última conexión, al acceder a tu cuenta Codere verás en todo momento el saldo que tienes disponible. También puedes consultar todos los movimientos económicos y de juego que hayas realizado en un período determinado. En cualquier momento puedes conocer cuánto dinero has destinado y qué resultados exactos has obtenido en cada uno de los juegos"
+                }
               ]
             },
             {
-              "title": "Control de tiempo y gasto",
-              "description": "Codere te facilita herramientas para mantener el control:",
-              "ul": [
-                "Visualiza la fecha de tu última conexión.",
-                "Consulta un reloj en pantalla durante tus partidas.",
-                "Accede a tu saldo disponible en segundos.",
-                "Revisa todos tus movimientos económicos y resultados de juego."
+              "title": "Test Autocontrol",
+              "description": "En Grupo Codere hemos creado nuestra oferta de juegos como una fórmula de ocio y entretenimiento saludable. Queremos que jugar sea siempre una experiencia divertida, placentera, segura y responsable.\n\nAnte el menor indicio de que puedas estar dejando de jugar únicamente para divertirte, te recomendamos que actúes.\n\nComprueba si estás jugando bien y de manera responsable contestando a las preguntas del test y si contestas positivamente a 5 o más preguntas, solicítanos información.",
+              "ol": [
+                "¿Te encuentras a menudo recordando experiencias pasadas de juego, planificando la próxima vez que vas a jugar y/o te planteas formas de conseguir dinero con el que jugar?",
+                "¿Alguna vez has jugado más dinero de lo que tenías pensado?",
+                "¿Intentas controlar, interrumpir o detener el juego?",
+                "¿El intento de interrumpir o detener el juego te produce inquietud o irritabilidad?",
+                "¿Juegas para evadirte de algún problema con el juego?",
+                "Cuando juegas dinero real, ¿vuelves otra vez a jugar para recuperar el dinero perdido?",
+                "¿Crees que puedes tener algún problema con el juego?",
+                "¿Financias tu actividad de juego mediante dinero familiar, préstamo, falsificación, fraude o robo?",
+                "¿Alguna vez has perdido tiempo de trabajo o de clase debido al juego?",
+                "¿Has acudido a alguien para que te ayude con problemas económicos producidos por el juego?"
+              ],
+              "subcontent": [
+                {
+                  "description": "*Basado en el test NODS (Asoc. Norteamericana de Psiquiatría, 1994)."
+                }
               ]
             },
             {
-              "title": "Test de autocontrol",
-              "description": "Responde con sinceridad a estas preguntas. Si contestas \"sí\" a 5 o más, considera pedir ayuda:",
-              "ul": [
-                "¿Juegas más dinero del planeado?",
-                "¿Intentas detenerte y no lo logras?",
-                "¿Juegas para evadir problemas?",
-                "¿Recurres al juego para recuperar pérdidas?",
-                "¿Has tenido problemas económicos, familiares o laborales por jugar?"
+              "title": "Si necesitas ayuda...",
+              "description": "Si crees o te han dicho amigos o familiares que el juego se ha convertido en un problema para ti, puedes contactar con entidades y asociaciones especializadas en patología del juego. Algunas de ellas son:",
+              "subcontent": [
+                {
+                  "title": "Comisión Nacional contra las Adicciones",
+                  "description": "https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata"
+                },
+                {
+                  "title": "Centro Nacional para la Prevención y el Control de las Adicciones",
+                  "description": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A"
+                },
+                {
+                  "title": "Directorio de servicios para la Prevención y la Atención del Juego Patológico en México",
+                  "description": "https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf"
+                },
+                {
+                  "description": "Además, todo el personal del Servicio de Atención al Cliente del Grupo Codere ha recibido formación sobre Juego Responsable y atenderá cualquier pregunta que tengas sobre este tema, poniendo a tu disposición toda la información pertinente para ayudarte a abordar los problemas de juego.\n\nPara más información sobre Juego Responsable puedes contactar a través de nuestro teléfono de ayuda: 800 227 4667 o en el siguiente enlace:",
+                  "description_html": "<a class=\"underline text-[#79c000]\" href=\"https://www.codere.mx/ayuda/contacto\">https://www.codere.mx/ayuda/contacto</a><br/>Puedes descargar toda la información sobre Juego Responsable desde <a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.codere.mx/library/Other/Juego_Responsable_vf.pdf\">aquí</a><br/>Asimismo, Grupo Codere pone a su disposición el Centro de Orientación Telefónica (COT), que atiende las solicitudes en materia de Juego Patológico a nivel nacional durante las 24 horas, los 365 días del año:<br/><b>800 911 2000</b><br/><b>LADA sin costo 24 horas, los 365 días del año</b>"
+                }
               ]
-            },
-            {
-              "title": "Dónde pedir ayuda",
-              "description": "Si el juego ha dejado de ser un pasatiempo, contacta con instituciones especializadas:",
-              "ul": [
-                "Comisión Nacional contra las Adicciones.",
-                "Centro Nacional para la Prevención y Control de Adicciones.",
-                "Directorio nacional para atención al juego patológico en México.",
-                "Llama a nuestro equipo de atención: 800 227 4667.",
-                "Centro de Orientación Telefónica (COT): 800 911 2000, atiende 24/7."
-              ]
-            },
-            {
-              "title": "Conclusión",
-              "description": "En Grupo Codere trabajamos para que disfrutes de un juego responsable, seguro y controlado. Con nuestras herramientas de límites, autoexclusión y asesoría, siempre tendrás el control de tu experiencia."
             }
           ]
         }
