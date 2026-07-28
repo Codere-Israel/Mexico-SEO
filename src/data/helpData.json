@@ -2773,15 +2773,15 @@
               "subcontent": [
                 {
                   "title": "Comisión Nacional contra las Adicciones",
-                  "description": "https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata"
+                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata\">https://www.juegosysorteos.gob.mx/es/Juegos_y_Sorteos/Atencion_al_Ludopata</a>"
                 },
                 {
                   "title": "Centro Nacional para la Prevención y el Control de las Adicciones",
-                  "description": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A"
+                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A\">https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=CIJ-2019-146-004-A</a>"
                 },
                 {
                   "title": "Directorio de servicios para la Prevención y la Atención del Juego Patológico en México",
-                  "description": "https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf"
+                  "description_html": "<a class=\"underline text-[#79c000]\" target=\"_blank\" href=\"https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf\">https://www.pronosticos.gob.mx/Documentos/JuegoResponsable/directorio.pdf</a>"
                 },
                 {
                   "description": "Además, todo el personal del Servicio de Atención al Cliente del Grupo Codere ha recibido formación sobre Juego Responsable y atenderá cualquier pregunta que tengas sobre este tema, poniendo a tu disposición toda la información pertinente para ayudarte a abordar los problemas de juego.\n\nPara más información sobre Juego Responsable puedes contactar a través de nuestro teléfono de ayuda: 800 227 4667 o en el siguiente enlace:",
