@@ -1816,47 +1816,637 @@
       ]
     },
     "items": {
-      "general-terms": {
+      "sports-rules": {
         "id": "general-terms",
         "label": "Condiciones generales de apuestas",
         "url": "/ayuda/legal/condiciones-apuestas",
         "page": {
+          "type": "accordion",
           "seo": {
             "title": "Condiciones generales de apuestas | Codere®",
             "description": "Consulta las normas y condiciones para apostar en Codere, incluyendo requisitos y reglas legales."
           },
           "top": {
-            "title": "Normas de apuestas deportivas y de casino en Codere",
-            "description": "Para garantizar una experiencia de juego segura, justa y confiable, Codere establece reglas claras en sus apuestas deportivas y de casino. Conócelas antes de comenzar a jugar y disfruta de la emoción con total tranquilidad."
+            "title": "Reglas de apuestas deportivas",
+            "description": "Consulta las condiciones generales de contratación y las reglas específicas aplicables a cada deporte y modalidad de apuesta."
           },
           "content": [
             {
-              "title": "Apuestas válidas",
-              "description": "Solo los usuarios registrados y mayores de edad pueden realizar apuestas en Codere. Una vez confirmada, la apuesta no puede cancelarse, por lo que es importante revisar tu boleto antes de dar clic en Aceptar."
-            },
-            {
-              "title": "Errores y correcciones",
-              "description": "En caso de detectarse errores evidentes en cuotas o eventos, Codere se reserva el derecho de corregir la información o anular la apuesta. Esto garantiza que siempre juegues con datos justos y actualizados."
-            },
-            {
-              "title": "Eventos suspendidos o cancelados",
-              "description": "Si un evento no se realiza en el plazo establecido, las apuestas serán anuladas, salvo que el mercado ya se haya resuelto antes de la suspensión.*Ejemplo práctico: si apostaste a \"primer equipo en anotar\" y ya ocurrió, tu apuesta sigue siendo válida aunque el partido no finalice."
-            },
-            {
-              "title": "Liquidación de apuestas",
-              "description": "Todas las apuestas se pagan con base en los resultados oficiales de las competiciones. Cambios posteriores, como modificaciones disciplinarias o administrativas, no afectan las apuestas ya liquidadas."
-            },
-            {
-              "title": "Límites y uso indebido",
-              "description": "Existen límites de apuesta y de ganancias para garantizar un juego equilibrado. Además, cualquier conducta fraudulenta, manipulación de resultados o uso indebido de la cuenta puede dar lugar a la anulación de apuestas y cierre definitivo de la cuenta."
-            },
-            {
-              "title": "Conclusión",
-              "description": "Las reglas de Codere aseguran un entorno de apuestas transparente, justo y seguro. Conocerlas te permite jugar con confianza y centrarte en lo más importante: disfrutar la emoción del deporte y del casino."
+              "type": "accordion",
+              "items": [
+                {
+                  "title": "1. Condiciones Generales",
+                  "description": "CODERE.MX ofrece una clase de apuestas: las apuestas de contrapartida (bancadas). Las apuestas de contrapartida (bancadas) son aquellas en las que el cliente apuesta contra una empresa autorizada, en este caso, CODERE.MX .*En las apuestas de contrapartida (bancadas), el premio por apuesta unitaria se obtendrá multiplicando el monto apostado por la línea validada previamente por CODERE.MX .*Cualquier modificación de estas Condiciones Generales de Contratación se comunicará al órgano competente en materia de juego y, una vez validada, se publicará.*Estas Condiciones Generales de Contratación, así como las condiciones específicas aplicables a cada deporte, evento y modalidad de apuesta, incluidas también aquí, establecen los términos bajo los que se aceptan apuestas. Es responsabilidad del cliente conocer y aceptar estas condiciones al realizar una apuesta.*Cuando el cliente apuesta con CODERE.MX , está arriesgando una cantidad de dinero sobre los resultados de un evento previamente determinado, de desenlace incierto y ajeno a las partes que intervienen en la misma.*El cliente decide el monto que apuesta dentro de unos límites prefijados y CODERE.MX establece los eventos en los que se puede apostar. Los pronósticos poseen unas líneas predeterminados, en función de las probabilidades de que el resultado de dicho pronóstico se produzca, que se aplican automáticamente a la apuesta. Una vez que la apuesta ha sido aceptada por CODERE.MX , de acuerdo con estas condiciones y si el resultado pronosticado por el apostante se produce, la apuesta es ganadora y el cliente recibe una cantidad equivalente al producto del monto apostado por la línea aplicado en el momento en el que se realizó la apuesta. Si la apuesta no es ganadora y el resultado pronosticado no se produce, el cliente no recibe devolución alguna.",
+                  "description_html": "<p>Las condiciones de contratación aquí incluidas garantizan al cliente de CODERE.MX una operativa segura y que respeta escrupulosamente lo establecido por la ley. Para cualquier aclaración o consulta, el cliente puede ponerse en contacto con nuestro Departamento de Atención al Cliente mediante correo electrónico <a class=\"text-[#79c000] underline\" href=\"mailto:apuestas@codere.mx\">apuestas@CODERE.mx</a>.</p>",
+                  "children": [
+                    {
+                      "title": "1.1 Acuerdo entre las partes",
+                      "description": "Cuando CODERE.MX acepta una apuesta de un cliente, se establece un contrato legal vinculante entre el cliente y la empresa.*Para realizar una apuesta en CODERE.MX , el cliente tiene que ser mayor de edad.*Además, no pueden participar en las apuestas:*empresas dedicadas a la organización y comercialización de las apuestas en la unidad de negocio CODERE , su personal, directivos o empleados. • Los deportistas, sus agentes, entrenadores u otros participantes directos en el acontecimiento objeto de las apuestas. • Los jueces o árbitros que ejerzan sus funciones en el acontecimiento objeto de las apuestas, así como las personas que resuelvan los recursos contra las decisiones de aquellos. • El personal empleado en los locales de apuestas y en las zonas de apuestas.*Asimismo CODERE.MX se reserva el derecho de admisión.",
+                      "ul": [
+                        "Los incapacitados legalmente.",
+                        "Los accionistas, partícipes o titulares de las"
+                      ],
+                      "sourcePages": [2]
+                    },
+                    {
+                      "title": "1.2 Eventos a los que se puede apostar y apuestas principales",
+                      "description": "Todos los deportes y eventos en los que se puede apostar se rigen por las normas oficiales de la federación correspondiente o el ente organizador del evento o sistema virtual.*El resultado de las apuestas se basa en el resultado oficial establecido en el momento de la resolución del hecho sobre el que se apuesta, independientemente de cualquier modificación o reclamación posterior a la fijación de dicho resultado.*Cada uno de los deportes a los que se puede apostar incluye unas modalidades de apuesta concretas. En el apartado 2 de estas Condiciones Generales, denominado “Condiciones Específicas aplicables a cada evento”, se especifican las modalidades principales. Únicamente se aceptan apuestas a deportes o eventos especiales incluidos en la gama de apuestas de CODERE.MX . Se encuentra prohibida la captación de apuestas sobre eventos deportivos a nivel amateur.*Las apuestas realizadas a cada uno de estos deportes y eventos se rigen por las reglas específicas detalladas en el Capítulo 2 de estas Condiciones Generales de*Contratación.*CODERE.MX se reserva el derecho a aceptar o no una determinada apuesta tanto en deportes como en eventos especiales o no deportivos, con la finalidad de controlar y gestionar el riesgo asumible por la empresa.*Cuando al comprobar el ticket de apuesta aparezca la opción “CERRAR APUESTA”, se le ofrecerá al cliente la posibilidad de cerrar su apuesta en el momento que decida y obtener así un pago antes de la resolución de la misma, con la finalidad de que tenga un mayor control sobre la apuesta realizada y el riesgo asumido en la misma. La cantidad ofrecida en cada momento por CODERE.MX , dependiendo del desarrollo del evento, podrá ser superior o inferior a la cantidad inicialmente apostada por el cliente.*Esta posibilidad de “CERRAR APUESTA” se ofrecerá discrecionalmente por CODERE.MX para determinados mercados.*Si el cliente decide seleccionar la opción “CERRAR APUESTA” con la cantidad fijada, ésta le será liquidada en ese mismo acto, quedando invalidado el boleto o resguardo, de modo que la calificación final del pronóstico como perdedor o ganador no tendrá ninguna incidencia para el cliente que haya seleccionado esta opción.",
+                      "sourcePages": [2, 3]
+                    },
+                    {
+                      "title": "1.3 Tipos de apuestas",
+                      "description": "CODERE.MX ofrece a sus clientes los siguientes tipos de apuestas:",
+                      "ul": [
+                        "Derecha",
+                        "Parlay",
+                        "Multiseleccion",
+                        "Round Robin"
+                      ],
+                      "children": [
+                        {
+                          "title": "Apuesta derecha",
+                          "description": "La apuesta derecha es aquella en la que se apuesta por un único resultado de un único evento. Si el apostante acierta en su pronóstico, la apuesta es ganadora.",
+                          "sourcePages": [3]
+                        },
+                        {
+                          "title": "Apuesta Parlay",
+                          "description": "Es una apuesta a dos o más pronósticos diferentes en eventos distintos. Para que la apuesta sea ganadora, el apostante debe acertar todos los pronósticos que haya seleccionado.*Las apuestas parlay son de 2 a 20 selecciones.*El Round Robin es el seleccionar de 3 a 20 selecciones ya sea en grupos de dos o más*selecciones dependiendo los eventos seleccionados.",
+                          "sourcePages": [3, 4]
+                        },
+                        {
+                          "title": "Apuesta Round Robin",
+                          "description": "Es una apuesta a tres o más pronósticos en eventos distintos que se combinan en grupos de dos o más pronósticos. Para tener derecho a premio hay que acertar todos los pronósticos que forman parte de una de las combinaciones.*Ejemplo 1: El cliente quiere realizar las apuestas dobles que hay en 4 selecciones (en el sistema round robin 2/4) sobre los siguientes pronósticos:*Evento Mercado Pronóstico Multiplicador*Ganador del A FUTBOL: Inglaterra - Francia Partido 1 - Inglaterra 2,8*Ganador del B FUTBOL: Holanda – Austria Partido 2 - Empate 4,0*TENIS ATP HAMBURGO: Mayer Ganador del C Vs Nadal Partido 3 - Nadal 1,5*BEISBOL: Chicago Cubs Vs ST Ganador del 4 - Chicago D Louis Cardinals Partido Cubs 1,6*Las posibles combinaciones de estos 4 eventos tomados de 2 en 2 son 6 apuestas: A - B; A - C; A - D; B - C; B - D; C - D.*Para tener derecho a premio el cliente debe acertar en 2 ó más pronósticos. Si por ejemplo apuesta $$120 (20 por cada una de las 6 apuestas dobles) y acierta todos los pronósticos, su premio será:*20 x 2,8 x 4,00 = 224 20 x 2,8 x 1,5 = 84 20 x 2,8 x 1,6 = 89,60 20 x 4,00 x 1,50 = 120 20 x 4,00 x 1,60 = 128 20 x 1,50 x 1,60 = 48*El premio final del cliente será el resultado de sumar todos los premios de las apuestas acertadas:*224 + 84 + 89,6 + 120 + 128 + 48 = $ 693,60 → Ganancia 693,60 – 120 = $573,60*En el caso de que, por ejemplo, la apuesta a Inglaterra fuese perdedora, el cliente ganaría el premio correspondiente al resto de pronósticos que sí haya acertado:*Premio: 120 + 128 + 48 = $ 296 → Ganancia: 296 – 120 = $ 176*Ejemplo 2: El cliente quiere realizar las apuestas triples que hay en 4 selecciones (en el sistema round robin 3/4) Sobre los mismos pronósticos del ejemplo 1. Las posibles combinaciones de los 4 eventos tomados de 3 en 3 son:*A – B – C; A – B – D; B – C – D; A – C – D;*Para tener derecho a premio el cliente debe acertar en 3 ó más pronósticos. Si, por ejemplo, apuesta $ 16, ($4 por cada una de las 4 apuestas) y acierta todos los pronósticos, su premio será:*4 x 2,80 x 4,00 x 1,50 = 67,20 4 x 2,80 x 4,00 x 1,60 = 71,68 4 x 2,80 x 1,50 x 1,60 = 26,88 4 x 4,00 x 1,50 x 1,60 = 38,40*El premio será: 67,20 + 71,68 + 26,88 + 38,40 = $ 204,16 → Ganancia: 204,16 – 16 = $ 188,16*Si, como en el caso anterior, Inglaterra resultara perdedora, el premio de nuestro cliente sería:*4 x 4,00 x 1,50 x 1,60 = 38,40*Premio: $ 38,40 → Ganancia: $$22,40*En el caso de que, dentro de la misma apuesta, el cliente eligiese 2 ó más pronósticos*pertenecientes al mismo evento, al realizar las posibles combinaciones se excluyen todas aquellas en las que participen los pronósticos correspondientes a un mismo evento.*Ejemplo 1: El cliente quiere realizar las apuestas dobles de 4 selecciones (en el sistema round robin 2/4) pero en este caso dos de sus pronósticos pertenecen al mismo evento:*Evento Mercado Pronóstico Multiplicador*Ganador del FUTBOL: Inglaterra - Francia Partido 1 – Inglaterra 2,8 A Primer gol del FUTBOL: Inglaterra - Francia Partido 2 – H.Kane 4*TENIS ATP HAMBURGO: Mayer Vs Ganador del B Nadal Partido 3 – Nadal 1,5*BEISBOL: Chicago Cubs Vs ST Ganador del 4 - Chicago C Louis Cardinals Partido Cubs 1,6*En este caso, al haber dos pronósticos dentro del mismo evento, dichos pronósticos no podrán coincidir dentro de una apuesta, así que los dobles resultantes serán: A1 - B; A1 - C; A2 - B; A2 - C; B - C.*Los pronósticos H.Kane e Inglaterra no podrán ir juntos dentro de una apuesta.*Para tener derecho a premio el cliente debe acertar en 2 o más pronósticos. Si, por ejemplo, apuesta $ 10 (2 por cada una de las 5 apuestas dobles) y acierta todos los pronósticos, su premio será:*2 x 2,80 x 1,50 = 8,40 2 x 2,80 x 1,60 = 8,96 2 x 4,00 x 1,50 = 12 2 x 4,00 x 1,60 = 12,80 2 x 1,50 x 1,60 = 4,80*El premio será:*8,40 + 8,96 + 12 + 12,80 + 4,80 = $ 46,96 → Ganancia: 46,96 – 10 = $ 36,96",
+                          "sourcePages": [4, 5, 6, 7]
+                        }
+                      ],
+                      "sourcePages": [3]
+                    },
+                    {
+                      "title": "1.4 Líneas: Cuánto gana el apostante",
+                      "description": "En CODERE.MX , las cifras que acompañan a cada pronóstico podrán expresarse en líneas decimales, líneas americanos o líneas fraccionales para que al apostante le resulte más fácil saber el monto íntegro que percibirá, en caso de que su apuesta resulte ganadora.*CODERE.MX establece los líneas tanto para los deportes y eventos habituales, como para los especiales. La línea vigente en el momento en que se aceptó la apuesta es el que se utiliza para calcular el monto del premio, independientemente de los cambios posteriores que pueda sufrir dicha línea.*Las líneas y coeficientes están siempre sujetos a revisiones y cambios por parte de CODERE.MX hasta el momento en que se realiza la apuesta. La línea definitiva aplicable a la apuesta ganadora es siempre aquel que esté vigente en el momento en que se formaliza la apuesta y que se consigna en el boleto de la apuesta.*Cualquier modificación posterior de los coeficientes o líneas no afectará a las apuestas ya realizadas.*Las fechas y horas de comienzo de los eventos recogidas en los boletos, programas, folletos, cupones, pantallas o cualquier otro soporte informativo son también orientativas.",
+                      "children": [
+                        {
+                          "title": "1.4.1 línea decimal",
+                          "description": "La línea decimal es la cifra que determina el premio final que corresponde pagar a una apuesta ganadora al ser multiplicada por la cantidad apostada y ya incluye la devolución de la cantidad apostada, menos la tasa de impuesto aplicada.*La ganancia, también conocida como coeficiente, es la cifra que determina la cuantía que corresponde pagar a una apuesta ganadora al ser multiplicada por la cantidad apostada, añadiéndole a dicho monto la devolución del monto apostado. Se realiza el*redondeo a dos decimales. Si el tercer decimal es igual o superior a 5, el redondeo es hacia arriba.*Ejemplo: El coeficiente de un pronóstico con valor de 2,50 equivale a una línea decimal 3,50 (coeficiente + 1). Si se apuestan $ 100 a dicho pronóstico el monto de las ganancias es de $ 250 ($ 100 x 2,50).*MONTO APOSTADO x COEFICIENTE = GANANCIAS Las ganancias se suman al monto apostado, por lo que la devolución total es de $ 250 + $ 100 = $ 350 Para evitar este paso adicional, se utiliza la línea decimal. De esta forma, el monto apostado se multiplica por la línea ($ 100 x 3,50 = $ 350) para que el cliente pueda conocer el premio total a percibir.*MONTO APOSTADO x LÍNEA = PREMIO",
+                          "sourcePages": [7, 8]
+                        },
+                        {
+                          "title": "1.4.2 línea americana",
+                          "description": "La línea americana se expresa en números enteros positivos y negativos, dependiendo de las posibilidades del participante a la hora de ganar un evento; es decir, por regla general las líneas negativos se asignan al participante favorito, asignándose líneas positivos para el participante que menos posibilidades tiene de ganar el evento, si bien podría darse el caso de que a ambos participantes se les asigne una línea positivo.*La línea negativa indica la cantidad que el cliente debe apostar para obtener un beneficio de 100 unidades monetarias, mientras que la línea positiva indica el beneficio correspondiente a una apuesta de 100 unidades monetarias.*Para calcular el premio potencial sobre apuestas con líneas negativos el cliente debe aplicar la siguiente fórmula: -100 / LÍNEA + 1 x CANTIDAD APOSTADA Para calcular el premio potencial sobre apuestas con líneas positivos el cliente debe aplicar la siguiente fórmula: LÍNEA / 100 + 1 x CANTIDAD APOSTADA Ejemplo con línea negativo: Apostamos $ 30 a una línea -110.*El premio potencial de esta apuesta sería el siguiente: -100 / -110 + 1 x $ 30 = $ 57,27 Ejemplo con línea positivo: Apostamos $ 30 a una línea 280 El premio potencial de esta apuesta sería el siguiente: 280 / 100 + 1 x $ 30 = $ 114 Lo más sencillo a la hora de calcular el premio potencial de una apuesta es convertir las líneas americanos en líneas decimales, aplicando las fórmulas descritas anteriormente (no incluyendo la cantidad apostada): Línea negativo: -100 / LÍNEA + 1 Línea positivo: LÍNEA / 100 + 1",
+                          "sourcePages": [8]
+                        }
+                      ],
+                      "sourcePages": [7]
+                    },
+                    {
+                      "title": "1.5 Límite de apuestas y ganancias",
+                      "description": "CODERE.MX podrá limitar el monto de las apuestas a realizar a un determinado mercado para proceder a su admisión, con la finalidad de controlar y gestionar el riesgo asumible por la empresa.*Igualmente podrá no admitir nuevas apuestas a un determinado mercado con idéntica finalidad de control. Además, CODERE.MX establece los límites de ganancias que se recogen en este apartado. Los límites de ganancias se indican en la moneda nacional.*Una apuesta se acepta bajo el supuesto de que se trata de la inversión de un único cliente y las cantidades reflejadas a continuación se refieren a las ganancias máximas que un cliente puede ganar en un día, independientemente de la cantidad apostada.*Las ganancias son el beneficio del cliente, una vez restado al premio el monto apostado. Por tanto, el cliente deberá ajustar el monto o los pronósticos (en caso de una apuesta round robin) para no exceder la cantidad máxima de ganancias.*Si en una apuesta round robin se combinan eventos con diferentes límites, se aplica el límite más bajo.",
+                      "sourcePages": [9]
+                    },
+                    {
+                      "title": "1.6 Aceptación de la apuesta",
+                      "description": "El cliente debe tener siempre en cuenta que:*apuesta previa realizada después del inicio del evento será cancelada.*Apuestas en Directo: En el cual pudiera existir un resultado ya cierto del mismo, ya sea total o parcial, y por ello exista una ventaja, del mismo modo será cancelada.*normas contenidas en estas Condiciones Generales de Contratación.*válidas todas las apuestas formalizadas antes de esta hora.*apuestas hasta la hora de comienzo del evento, a excepción de las apuestas en directo.*apuesta que se ha realizado.*del evento, ya sea deportivo o no deportivo, será declarada nula, teniendo el cliente derecho a la devolución de la suma apostada. Asimismo, si dicha apuesta hubiera sido aceptada después del inicio del evento en un mercado “no en directo”, ésta será declarada nula, teniendo el cliente derecho a la devolución de la suma apostada.*aceptada en la que se hayan producido errores obvios y manifiestos en la introducción de las líneas de la apuesta. • La aceptación de apuestas en vivo puede incluir una demora intencionada, de acuerdo con la política interna antifraude de CODERE.*Sobre los datos de los marcadores y posibles retrasos durante la transmisión en vivo de los mercados disponibles:*Codere.mx trabaja y hace todo lo posible para garantizar que la información que brindamos en nuestro sitio web respecto a un evento sea fiable, solo debe utilizarse con fines informativos por nuestros usuarios.*No asumimos responsabilidad de la información sobre el juego, tiempo, marcador, etc., ya que podría resultar inexacto al momento de ser consultado.",
+                      "ul": [
+                        "Todas las apuestas deberán ser realizadas antes de que inicie el evento, cualquier",
+                        "CODERE.MX no aceptará ninguna apuesta en el caso de que no se ajuste a las",
+                        "Existe una hora límite de aceptación de las apuestas por parte de CODERE.MX . Son",
+                        "Si no se anuncia una hora límite de aceptación de apuestas, se podrán formalizar",
+                        "Las apuestas se aceptan sobre la base de las condiciones que rigen el tipo de",
+                        "Toda apuesta de eventos no en directo que hubiera sido aceptada después del inicio",
+                        "CODERE se reserva el derecho de anular cualquier pronóstico sobre una apuesta"
+                      ],
+                      "sourcePages": [9, 10]
+                    },
+                    {
+                      "title": "1.7 Retirada de participantes y empates",
+                      "description": "Cuando un competidor – ya sea a título individual o un equipo – se retira antes del comienzo del evento y no participa, las apuestas relativas al mismo se declaran nulas independientemente del motivo (lesión, retirada, inhabilitación, suspensión o cualquier otra circunstancia), salvo en el caso de que se anuncie un resultado oficial que descalifique al participante elegido por el cliente en su apuesta, por las reglas de la competición de que se trate y se señale un ganador del evento. Si el competidor participa en el evento, aunque no lo haga en su totalidad, la apuesta seguirá siendo válida.*Empates En el caso de que se produzca un empate entre dos o más participantes, donde no se haya establecido una línea para el empate y las reglas oficiales de la competición o evento no designen a un claro ganador, el monto del premio que correspondería a una apuesta ganadora se divide entre el total de participantes que han empatado.*Es decir, en el caso de dos equipos o deportistas empatados, el monto del premio*obtenido se reducirá a la mitad del establecido en el momento de formalizar la apuesta. En el caso de tres equipos o deportistas empatados, el monto del premio final obtenido consistirá en un tercio del original y así sucesivamente.*Si se aplican deducciones por retirada o por empate aplicables a los diferentes eventos que forman una apuesta parlay, el monto total del premio se establecerá aplicando las deducciones de cada pronóstico por riguroso orden cronológico de finalización del evento.",
+                      "sourcePages": [10, 11]
+                    },
+                    {
+                      "title": "1.8 Apuestas nulas",
+                      "description": "Cuando una apuesta se declara nula, se devuelve la totalidad del monto apostado en las apuestas derechas. En las apuestas parlay, el monto se destina a los pronósticos restantes, con lo que una apuesta doble se convierte en derecha; una apuesta triple, en doble y así sucesivamente.*Salvo que se especifique lo contrario en las condiciones específicas aplicables a cada deporte o evento (en dicho caso prevalecerán las específicas aplicables a cada deporte), la anulación de pronósticos se rige por las siguientes reglas: Se considerará nula aquella apuesta en la que el apostante ha realizado un pronóstico en relación a un competidor que finalmente no participa en el evento, independientemente del motivo (lesión, retirada, inhabilitación, suspensión… o cualquier otra circunstancia), salvo en el caso de que se anuncie un resultado oficial que descalifique al participante elegido por el cliente en su apuesta, por las reglas de la competición de que se trate y se señale un ganador del evento, o salvo que se trate de una apuesta anticipada. Si el competidor participa en el evento, aunque no lo haga en su totalidad, la apuesta seguirá siendo válida.*En caso de aplazamiento o suspensión temporal de un evento, se define un plazo máximo de reprogramación del mismo. Salvo que se especifique lo contrario en las condiciones específicas de cada deporte (en dicho caso prevalecerán las condiciones específicas aplicables a cada deporte), dicho plazo será:*1) En el caso de eventos celebrados en el marco de torneos o campeonatos con una duración relativamente corta, normalmente inferior a cinco semanas, el plazo máximo de reprogramación se establece en los días que efectivamente dure el torneo, siempre que el evento se reprograme dentro del marco del torneo o campeonato de referencia. A modo de ejemplo, tienen cabida dentro de esta categoría el campeonato de tenis de Wimbledon, o la Copa Mundial de Fútbol.*2) En cualquier otro caso, se establece el plazo máximo de reprogramación en el plazo*que transcurre desde la hora y fecha de celebración del evento, hasta el final de ese día natural en el país/franja horaria de celebración de dicho evento.*Si un evento deportivo no llega a iniciarse y es aplazado, pero se celebra durante el plazo máximo de reprogramación definido, los pronósticos realizados se consideran válidos. Si se superase este período, los pronósticos serán anulados.*Si un evento deportivo no llega a iniciarse, pero durante el plazo máximo de reprogramación definido, la federación u organismo organizador del evento, decide dar por finalizado el encuentro, declarando un resultado, se atenderá a dicho resultado oficial en relación a los pronósticos a ganador del evento.*Si durante la celebración de un evento éste es suspendido, pero durante el plazo máximo de reprogramación definido, la federación u organismo organizador del evento, decide dar por finalizado el encuentro declarando un resultado, se atenderá a dicho resultado oficial en relación a los pronósticos a ganador del evento. En todo caso, se considerarán válidos aquellos pronósticos que ya se hubieran resuelto en el momento de la suspensión.*Si un evento es suspendido durante la celebración del mismo y no se reanuda durante el plazo máximo de reprogramación definido, se anularán al término de dicho período todos los pronósticos que no estuvieran resueltos en el momento de la suspensión.*Si un evento es suspendido durante la celebración del mismo, pero se reanuda en el mismo punto en el que se suspendió durante el plazo máximo de reprogramación definido, todos los pronósticos que no estuvieran resueltos en el momento de la suspensión seguirán siendo válidos.*Si un evento es suspendido durante la celebración del mismo, pero se reanuda íntegramente desde su inicio dentro del plazo máximo de reprogramación definido, todos los pronósticos realizados antes del inicio del partido original suspendido y que no estuvieran resueltos en el momento de la suspensión seguirán siendo válidos. Sin embargo, se anularán los pronósticos de las apuestas “En directo” realizados durante la celebración del partido suspendido y que no estuvieran resueltos en el momento de la suspensión.*Ejemplo 1: en una apuesta derecha, el apostante pronostica que determinado jugador marcará el primer gol de un partido de fútbol y, finalmente, el jugador no participa en el encuentro. La apuesta se considera nula y se devuelve el monto apostado.*Ejemplo 2: en una apuesta parlay el apostante elige los siguientes pronósticos: Evento*Mercado Pronóstico Multiplicador A FUTBOL: Inglaterra – Francia Ganador del Partido 1 – Inglaterra 2,8 B FUTBOL: Holanda – Austria Ganador del Partido 2 – Empate 4,0 C TENIS ATP HAMBURGO: Mayer Vs Nadal Ganador del Partido 3 – Nadal 1,5 D BEISBOL: Chicago Cubs Vs ST Louis Cardinals Ganador del Partido 4 - Chicago Cubs 1,6 Si se anula el evento A y el mismo no se volviera a disputar dentro del plazo establecido por en estas Condiciones Generales, en todas las apuestas en las que participa dicho evento, es decir, A – B, A - C y A - D, se aplicará en dicho evento anulado el multiplicador 1.*Ejemplo 4: en el caso de que dentro de la apuesta hubiese pronósticos relacionados, se aplicaría la norma como en el caso anterior.",
+                      "sourcePages": [11, 12, 13]
+                    },
+                    {
+                      "title": "1.9 Reclamaciones",
+                      "description": "En caso de producirse un conflicto relativo a cualquier apuesta o a estas Condiciones Generales de Contratación, el cliente puede ponerse en contacto con nuestro Departamento de Atención al Cliente mediante correo electrónico (apuestas@CODERE.MX), sin perjuicio de la utilización por parte del cliente del sistema de reclamaciones establecido por el órgano competente en materia de juego.*Únicamente se abonará el premio tras la presentación del boleto oficial.*Cada apuesta es única y tiene un único boleto que posibilita su cobro en caso de ser ganadora. Una vez realizado el pago tras la presentación del boleto oficial, la transacción se completa evitando que se pueda realizar dos veces el pago de la misma apuesta. La presentación de otro boleto referente a la misma apuesta no se abonará, sin perjuicio de iniciar las investigaciones pertinentes sobre el posible intento de fraude que esta circunstancia podría evidenciar.",
+                      "sourcePages": [13]
+                    },
+                    {
+                      "title": "1.10 Prohibiciones de participación",
+                      "description": "CODERE.MX establecerá los sistemas de control que aseguren el cumplimiento de la prohibición de participación en los juegos y apuestas en la forma y condiciones que reglamentariamente se determinen.",
+                      "sourcePages": [13]
+                    },
+                    {
+                      "title": "1.11 Información adicional y protección contra el fraude",
+                      "description": "Si el cliente no comprende o tiene dudas al respecto del significado de cualquier término incluido en estas Condiciones Generales de Contratación puede consultar el Glosario de Términos de Apuestas.*Estas Condiciones Generales de Contratación constituyen el acuerdo íntegro entre las*partes y sustituyen toda representación, comunicación y negociación respecto al objeto de este contrato.*Las presentes Condiciones Generales formarán parte del contrato para la formalización de la apuesta, las cuales se entenderán aceptadas por el adherente al formalizar su apuesta, siendo para ello suficiente que estas Condiciones Generales.*En caso de que existan indicios de que se ha producido una manipulación de una carrera, partido o evento, CODERE.MX se reservará el derecho de retener el pago de los premios, a la espera del resultado de las investigaciones pertinentes que realice la entidad organizadora del evento. En el caso de que finalmente se determine por la organización del evento la existencia de tal manipulación, o no se resuelva esta situación en un plazo máximo de 3 meses desde el día de la celebración del evento, CODERE.MX anulará las apuestas correspondientes a dicho evento procediendo a la devolución del monto íntegro de las mismas.*En caso de que existan indicios de que se ha producido una manipulación o falsificación de líneas de una carrera, partido o evento, CODERE.MX se reservará el derecho de tener el pago de los premios, a la espera de lo que determinen los tribunales competentes.*La anulación de apuestas derivada de la autoexclusión de la cuenta de juego se realizará previa solicitud del cliente y deberá estar conforme a la política antifraude de CODERE .",
+                      "sourcePages": [13, 14]
+                    }
+                  ],
+                  "sourcePages": [1]
+                },
+                {
+                  "title": "2. Condiciones especificas aplicables a cada deporte",
+                  "description": "Únicamente se ofrecerán apuestas a los deportes y pronósticos que posean un multiplicador asociado. En este Segundo Capítulo de las Condiciones Generales de Contratación de CODERE se detallan las condiciones específicas que rigen las apuestas en cada tipo de deporte y evento.*Cualquier incidencia no contemplada en este capítulo de condiciones específicas de cada deporte se regulará por las reglas generales de apuestas deportivas, Capítulo 1 de este documento.",
+                  "children": [
+                    {
+                      "title": "2.1 Beisbol",
+                      "description": "Si el pitcher (lanzador) está identificado en el boleto, la apuesta está realizada antes del inicio del partido, y hay un hay un cambio de pitcher (lanzador) antes de que cada uno de los pitchers hayan realizado al menos un lanzamiento, las apuestas se declararán nulas, procediéndose conforme a lo establecido de estas Políticas de Apuesta.*Si el partido no llega a iniciarse y es aplazado, pero se celebra dentro del mismo día natural en el país de celebración de dicho evento, los pronósticos realizados se consideran válidos. Si se superase este periodo, los pronósticos serán anulados.*Si el partido se suspende y no se reanuda dentro del mismo día natural en el país de celebración de dicho evento, se declararán nulas todas aquellas apuestas que no se hayan resuelto en el momento de la suspensión del partido. Sin embargo, si dentro del mismo día natural, la federación u organismo organizador del evento, decide dar por finalizado el encuentro declarando un resultado, se atenderá a dicho resultado oficial en relación a los pronósticos a ganador del partido.*Si el partido se suspende, pero se reanuda en el mismo punto en el que se suspendió durante el mismo día natural en el país de celebración de dicho evento, todos los pronósticos que no estuvieran resueltos en el momento de la suspensión seguirán válidos.*Si el partido se suspende, pero se reanuda íntegramente desde su inicio durante el mismo día natural en el país de celebración de dicho evento, todos los pronósticos realizados antes del inicio del partido original suspendido y que no estuvieran resueltos en el momento de la suspensión seguirán siendo válidos. Sin embargo, se anularán los pronósticos de las apuestas “En directo” realizados durante la celebración del partido suspendido y que no estuvieran resueltos en el momento de la suspensión.",
+                      "children": [
+                        {
+                          "title": "Principales pronósticos aplicables",
+                          "children": [
+                            {
+                              "title": "Resultado del Partido ó Ganador sin empate ó Ganador del partido sin empate",
+                              "description": "Es un pronóstico sobre el ganador de un partido, sin posibilidad de que se produzca un*empate; si se produce un empate se anula el pronóstico y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [15, 16]
+                            },
+                            {
+                              "title": "Ganador sin empate en las primeras 5 entradas",
+                              "description": "Es un pronóstico sobre qué equipo irá ganando el partido al finalizar la quinta entrada. Si se produce un empate se anula el pronóstico y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Ganador sin empate en las primeras 7 entradas",
+                              "description": "Es un pronóstico sobre qué equipo irá ganando el partido al finalizar la séptima entrada. Si se produce un empate se anula el pronóstico y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Total de carreras Par / Impar de un equipo",
+                              "description": "Es un pronóstico sobre el número total de carreras par o impar que anotará un equipo determinado durante el partido.*En este pronóstico el 0 es considerado par.",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Total de carreras Más / Menos",
+                              "description": "Es un pronóstico sobre si en un partido se anotarán entre los dos equipos más o menos carreras de un número determinado; (Ej.: Se pronostica que en un partido se anotarán más de 9,5 carreras, lo que significa que al menos deberán anotarse 10 carreras para que el pronóstico sea ganador).",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Resultado primeras 5 entradas/final",
+                              "description": "Es un pronóstico simultáneo sobre el resultado exacto de carreras anotadas por los dos equipos en las primeras 5 entradas y el resultado exacto de carreras anotadas por los dos equipos desde la sexta entrada hasta el final del partido.*Se considera un único pronóstico, por lo que se fija un único multiplicador.",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Hándicap (sin empate)",
+                              "description": "Es un pronóstico sobre el ganador del partido, aplicando una ventaja inicial de carreras establecida por CODERE y que se asigna de los dos equipos que disputan el partido, a aquél que no es considerado el favorito. Si se produce un empate una vez establecida la ventaja inicial, el pronóstico se declara nulo y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [16]
+                            },
+                            {
+                              "title": "Hándicap sin empate primeras 5 entradas",
+                              "description": "Es un pronóstico sobre el ganador al finalizar la quinta entrada, aplicando una ventaja inicial de carreras establecida por CODERE y que se asigna de los dos equipos que disputan el partido, a aquél que no es considerado el favorito. Si se produce un empate una vez aplicada la ventaja inicial, el pronóstico se declara nulo y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [17]
+                            },
+                            {
+                              "title": "Hándicap sin empate primeras 7 entradas",
+                              "description": "Es un pronóstico sobre el ganador al finalizar la séptima entrada, aplicando una ventaja inicial de carreras establecida por CODERE y que se asigna de los dos equipos que disputan el partido, a aquél que no es considerado el favorito. Si se produce un empate una vez aplicada la ventaja inicial, el pronóstico se declara nulo y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [17]
+                            },
+                            {
+                              "title": "Hándicap sin empate de la X entrada",
+                              "description": "Es un pronóstico sobre el ganador al finalizar la entrada X, aplicando una ventaja inicial de carreras establecida por CODERE y que se asigna de los dos equipos que disputan el partido, a aquél que no es considerado el favorito. Si se produce un empate una vez aplicada la ventaja inicial, el pronóstico se declara nulo y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                              "sourcePages": [17]
+                            },
+                            {
+                              "title": "Hándicap y Más/Menos puntos",
+                              "description": "Es un pronóstico simultáneo sobre el ganador del partido, aplicando una ventaja inicial de puntos establecida por CODERE.MX - y sobre si en un partido se marcarán más o menos puntos de un número determinado.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*En este pronóstico la ventaja inicial de puntos establecida por CODERE.MX únicamente se aplicará a la parte del pronóstico sobre ganador del partido.",
+                              "sourcePages": [17]
+                            },
+                            {
+                              "title": "Hándicap y Más/Menos carreras",
+                              "description": "Es un pronóstico simultáneo sobre el ganador del partido, aplicando una ventaja inicial de puntos establecida por CODERE.MX - y sobre si en un partido se marcarán más o menos carreras de un número determinado.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*En este pronóstico la ventaja inicial de puntos establecida por CODERE.MX únicamente se aplicará a la parte del pronóstico sobre ganador del partido.",
+                              "sourcePages": [17]
+                            }
+                          ],
+                          "sourcePages": [15]
+                        }
+                      ],
+                      "sourcePages": [15]
+                    },
+                    {
+                      "title": "2.2 Futbol",
+                      "description": "Con carácter general, en las apuestas a fútbol sólo se tendrá en cuenta el tiempo reglamentario y el tiempo de descuento, pero no la prórroga ni los lanzamientos de penaltis. Los términos “resultado final”, “90 minutos de juego”, “tiempo reglamentario”, “1X2” o “resultado del partido”, se utilizan para indicar el período de juego que incluye el tiempo de descuento, pero no la prórroga ni la tanda de lanzamientos de penaltis. La prórroga y los lanzamientos de penaltis sólo se tendrán en cuenta para la determinación del resultado cuando se pronostique el campeón o ganador de un campeonato, torneo, copa, el clasificado dentro de una fase eliminatoria de aquéllos, y todos aquellos pronósticos que lo establezcan de forma explícita.*En todos los partidos que no se disputen, se aplacen, se adelanten, se suspendan o no se completen en su totalidad, todos los pronósticos se declararán nulos y se aplicarán las reglas establecidas en estas Condiciones Generales para las apuestas nulas, a menos que el partido se dispute o se reanude durante la misma semana natural de su fecha de celebración inicial, incluyendo hasta el siguiente lunes (de lunes a lunes), en cuyo caso, los pronósticos continúan siendo válidos.*En los mercados de jugadores donde se indica que debe ser titular, en caso de no serlo, la selección se considerará nula.",
+                      "children": [
+                        {
+                          "title": "Modificación del lugar de celebración del evento",
+                          "description": "En el caso de que el lugar de celebración de un evento cambie sin que sea publicado, los pronósticos sobre ese evento continuarán siendo válidos, siempre que el nuevo lugar de celebración no sea el campo del equipo inicialmente visitante, en cuyo caso, los pronósticos para ese partido se anularán y se procederá conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.*Si un equipo juega contra otro diferente al registrado en el cupón de apuestas, todos los pronósticos relativos a ese partido se declararán nulos y por tanto, se procederá conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.",
+                          "sourcePages": [18]
+                        },
+                        {
+                          "title": "Goles en propia meta",
+                          "description": "Como regla general, salvo que se especifique lo contrario en la definición de los pronósticos aplicables, no se contabilizan los goles en propia meta, cuando el*pronóstico sea sobre el jugador que marca el gol, pero cuando se pronostique sobre el equipo que marca el gol, o sobre la cantidad de goles marcados en un campeonato, partido o parte de los mismos sin hacer referencia a un jugador específico, dicho gol en propia meta se contabilizará y se adjudicará al equipo a cuyo marcador suba.",
+                          "sourcePages": [18, 19]
+                        },
+                        {
+                          "title": "Principales pronósticos aplicables",
+                          "children": [
+                            {
+                              "title": "1X2 o Resultado del Partido o Ganador o Ganador del partido (sin incluir la prórroga)",
+                              "description": "Pronóstico sobre la victoria del equipo local (1), al empate (X), o a la victoria del equipo visitante (2). En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 o Resultado del Partido incluyendo la prórroga",
+                              "description": "Es un pronóstico sobre la victoria del equipo local (1), al empate (X), o a la victoria del equipo visitante (2). En este mercado se tiene en consideración la prórroga, pero no los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 (Ventaja de 2 goles)",
+                              "description": "Apuesta a la victoria del equipo local (1), al empate (X), o a la*victoria del equipo visitante (2). En este mercado si el equipo seleccionado como ganador lleva 2 goles de ventaja se resolverá anticipadamente dicha selección como ganadora sin esperar a la finalización del partido, exclusivamente para las apuestas en las que se hubiera pronosticado a ese equipo como ganador, y con independencia de cuál sea el resultado final. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 después de X minutos jugados",
+                              "description": "Es un pronóstico sobre si el equipo local irá ganando (1), el empate (X), o si el equipo visitante irá ganando (2), una vez han transcurrido X minutos jugados.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 al descanso",
+                              "description": "Pronóstico sobre la victoria del equipo local (1), al empate (X), o a la victoria del equipo visitante (2) al finalizar la primera mitad del partido. Por su propia naturaleza, en este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 Resto del Partido (marcador X:Y) ó Ganar el resto del partido (Marcador X:Y)",
+                              "description": "Es un pronóstico 1X2 sobre el resultado de lo que falta del partido poniendo el marcador a cero en el momento de realizar la apuesta. Para este pronóstico no se contabiliza la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [19]
+                            },
+                            {
+                              "title": "1X2 de la prórroga",
+                              "description": "Es un pronóstico sobre la victoria del equipo local (1), al empate (X), o a la victoria del equipo visitante (2) al finalizar la prórroga.",
+                              "sourcePages": [19, 20]
+                            },
+                            {
+                              "title": "1X2 al descanso de la prórroga",
+                              "description": "Es un pronóstico sobre la victoria del equipo local (1), al empate (X), o a la victoria del equipo visitante (2) al finalizar la primera parte de la prórroga.",
+                              "sourcePages": [20]
+                            },
+                            {
+                              "title": "1X2 y Más/Menos goles",
+                              "description": "Es un pronóstico simultáneo sobre 1X2 sobre el resultado al final del partido y sobre si en un partido se marcarán más o menos goles de un número determinado. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.",
+                              "sourcePages": [20]
+                            },
+                            {
+                              "title": "1X2 y Marcan ambos equipos",
+                              "description": "Es un pronóstico simultáneo 1X2 sobre el resultado al final del partido y sobre si los dos equipos marcarán por lo menos un gol durante el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.",
+                              "sourcePages": [20]
+                            },
+                            {
+                              "title": "Más/Menos goles y Marcan ambos equipos",
+                              "description": "Es un pronóstico simultáneo sobre si en un partido se marcarán más o menos goles de un número determinado y sobre si los dos equipos marcarán por lo menos un gol durante el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.",
+                              "sourcePages": [20]
+                            },
+                            {
+                              "title": "Próximo en marcar un gol en la prórroga",
+                              "description": "Es una apuesta que pronostica el jugador o el equipo que marcará el próximo gol en la prórroga del partido. En este mercado no se tiene en consideración los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [20]
+                            },
+                            {
+                              "title": "Campeón o ganador de una competición",
+                              "description": "Es un pronóstico sobre el ganador de una competición, liga o copa. En este mercado si se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los*hubiese.",
+                              "sourcePages": [20, 21]
+                            },
+                            {
+                              "title": "Resultado final",
+                              "description": "Es un pronóstico sobre el resultado o marcador exacto a la finalización del partido, según los goles marcados por uno y otro equipo. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [21]
+                            },
+                            {
+                              "title": "Equipo no marca durante el partido",
+                              "description": "Es un pronóstico sobre qué equipo no marcará ningún gol a la finalización del partido. En este mercado no se tendrá en consideración la prórroga ni los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [21]
+                            },
+                            {
+                              "title": "Número total par o impar, o Nº total de goles par/impar, ó Total de goles Par/Impar",
+                              "description": "Es un pronóstico sobre si la suma de los goles de los dos equipos es par o impar (por ejemplo: El resultado de un partido de futbol es 3:1; la suma igual a 4 es par). El 0 es considerado par. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [21]
+                            },
+                            {
+                              "title": "Resultado 1ª y 2ª parte",
+                              "description": "Es un pronóstico sobre qué equipo irá ganando en el descanso del partido y cuál ganará al final del mismo. También es posible elegir si habrá empate. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*En este pronóstico no se permite la posibilidad de apostar a una sola de las partes, debiéndose elegir el resultado en el minuto 45 y al final del partido.",
+                              "sourcePages": [21]
+                            },
+                            {
+                              "title": "Ganar en ambas partes",
+                              "description": "Es un pronóstico sobre qué equipo ganará el partido en ambas partes, tanto al descanso del partido como al final del mismo; para acertar este pronóstico el equipo seleccionado deberá ser el que marque más goles tanto en la primera parte como en la segunda. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [21]
+                            },
+                            {
+                              "title": "Resultado final + primer gol",
+                              "description": "Es un pronóstico sobre el resultado exacto a la finalización del partido y qué jugador*marcará el primer gol. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*Si un jugador sale al campo después de que se haya marcado el primer gol o no participa en el partido, los pronósticos relativos a este jugador se anulan y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas. En cuanto al pronóstico sobre el “primer gol”, no cuentan los goles marcados en propia puerta.*Si, en un partido, únicamente se marcan goles en propia puerta, se anulan todos los pronósticos sobre el resultado final + primer gol y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas.*Si el partido se suspende, el pronóstico será nulo y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas, a menos que el partido se dispute o se reanude durante la misma semana natural de su fecha de celebración inicial, incluyendo hasta el siguiente lunes (de lunes a lunes), en cuyo caso, los pronósticos continúan siendo válidos.",
+                              "sourcePages": [21, 22]
+                            },
+                            {
+                              "title": "Resultado del partido (1X2) + primer goleador",
+                              "description": "Es un pronóstico sobre el resultado del partido y qué jugador marcará el primer gol. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*Si un jugador sale al campo después de que se haya marcado el primer gol o no participa en el partido, los pronósticos relativos a este jugador se anulan y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas. En cuanto al pronóstico sobre el “primer gol”, no cuentan los goles marcados en propia puerta.",
+                              "sourcePages": [22]
+                            },
+                            {
+                              "title": "Resultado del partido (1X2) + último goleador",
+                              "description": "Es un pronóstico sobre el resultado del partido y qué jugador marcará el último gol. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*Si un jugador sale al campo después de que se haya marcado el primer gol o no participa en el partido, los pronósticos relativos a este jugador se anulan y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas.",
+                              "sourcePages": [22, 23]
+                            },
+                            {
+                              "title": "Marca gol durante el partido y 1X2",
+                              "description": "Es un pronóstico sobre el resultado del partido y qué jugador marcará gol durante el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se considera un único pronóstico, por lo que se fija un único multiplicador.*Si un jugador sale al campo después de que se haya marcado el primer gol o no participa en el partido, los pronósticos relativos a este jugador se anulan y se procede conforme a lo establecido en estas Condiciones Generales para las apuestas nulas.*Es una apuesta que pronostica si se marcará gol en el próximo Penalti señalado en el partido. En este mercado se tiene en consideración la prórroga, pero no los penaltis (en tanda de penaltis) si los hubiese.*En caso de que el árbitro repita un penalti por penalización, solo se contabilizará el penalti repetido.*Si el gol se marca tras el fallo de un penalti, en una segunda jugada posterior al lanzamiento, no es válida.*En caso de que no haya el penalti X señalado, se devolverá el importe apostado.",
+                              "ul": [
+                                "¿Se marcará Gol en el X Penalti Señalado en el Partido?"
+                              ],
+                              "sourcePages": [23]
+                            },
+                            {
+                              "title": "Próximo goleador de un equipo",
+                              "description": "Es un pronóstico sobre qué jugador de un equipo concreto marcará el siguiente gol del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.",
+                              "sourcePages": [23]
+                            },
+                            {
+                              "title": "Jugador marca dos goles o más",
+                              "description": "Es un pronóstico sobre qué jugador marcará dos goles o más durante el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [23]
+                            },
+                            {
+                              "title": "Primer gol en una parte",
+                              "description": "Es un pronóstico sobre qué jugador o qué equipo que marcará el primer gol en una parte del partido (en la primera o en la segunda parte del mismo). En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.",
+                              "sourcePages": [24]
+                            },
+                            {
+                              "title": "Último gol",
+                              "description": "Es un pronóstico sobre qué jugador o qué equipo marcará el último gol del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.",
+                              "sourcePages": [24]
+                            },
+                            {
+                              "title": "Ultimo gol de una parte",
+                              "description": "Es un pronóstico sobre qué jugador o qué equipo marcará el último gol en una parte del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.",
+                              "sourcePages": [24]
+                            },
+                            {
+                              "title": "Minuto del próximo gol",
+                              "description": "Es un pronóstico sobre el minuto en el que se marcará el próximo gol del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en la tanda de penaltis) si los hubiese.*En este pronóstico se aplicará el tiempo reglamentario establecido por el ente organizador del evento.*El primer minuto del partido incluye el periodo de tiempo establecido entre los segundos 00:00 a 00:59 segundos, siendo el segundo minuto el periodo que abarca los segundos 1:00 a 1:59, y así sucesivamente.*Ejemplo: Se pronostica que en un partido Real Madrid-Barcelona, se marcará el próximo gol en el minuto 33.*El gol se marca en el minuto 32:20 el pronóstico es ganador*El gol se marca en el minuto 33:00 el pronóstico es perdedor.",
+                              "sourcePages": [24]
+                            },
+                            {
+                              "title": "¿Qué equipo marca el X gol?",
+                              "description": "Es un pronóstico sobre qué equipo marcará el X gol del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.*En los pronósticos sobre primer gol, primer gol de una parte y pronósticos sobre último gol, último gol de una parte y “¿Qué equipo marca el X gol?” son de aplicación las siguientes reglas:*Los pronósticos sobre qué jugadores serán sustituidos o expulsados antes de que se marque el primer gol se consideran perdedores. Los pronósticos sobre jugadores que no participen en el partido se consideran nulos, y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales. Si el jugador entra en el terreno de juego después de que se haya marcado el primer gol se considerarán nulos los pronósticos y se procede conforme a lo establecido para las apuestas nulas en estas Condiciones Generales, a menos que el primer gol se haya marcado en propia puerta (tratándose de apuestas al jugador), en cuyo caso, los pronósticos mantienen su validez.*Además es necesario tener en cuenta que:*a) En caso de disputa sobre la autoría del gol, la resolución de la apuesta se basa en la decisión del organismo del que oficialmente dependa el partido, inmediatamente después de su finalización.*b) No se contabilizan los goles marcados en la prórroga o en la tanda de penaltis.*c) En los pronósticos sobre el último gol, si el jugador pronosticado participa en el partido, aunque no lo haga en su totalidad, los pronósticos son válidos.",
+                              "sourcePages": [24, 25]
+                            },
+                            {
+                              "title": "Próximo gol",
+                              "description": "Es un pronóstico sobre qué jugador o equipo marcará el próximo gol. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese, salvo que la apuesta se formalice una vez finalizado el tiempo reglamentario (90 minutos), en cuyo caso si se tendrá en consideración la prórroga.",
+                              "sourcePages": [25]
+                            },
+                            {
+                              "title": "Próximo equipo en marcar al descanso",
+                              "description": "Es un pronóstico sobre qué equipo marcará un gol antes del descanso. Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.",
+                              "sourcePages": [25]
+                            },
+                            {
+                              "title": "Marca gol durante el partido",
+                              "description": "Es un pronóstico sobre si un jugador o un equipo marcarán durante el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [26]
+                            },
+                            {
+                              "title": "Marcan ambos equipos",
+                              "description": "Es un pronóstico sobre si los dos equipos marcarán por lo menos un gol durante el partido. En este mercado no se tiene en consideración la prórroga y la tanda de penaltis en caso de producirse.",
+                              "sourcePages": [26]
+                            },
+                            {
+                              "title": "Número total de goles o cantidad de goles marcados",
+                              "description": "Es un pronóstico sobre el número total de goles que se marcaran a lo largo de un partido. En este mercado no se tiene en cuenta la prórroga ni los penaltis (en tanda de penaltis) si los hubiese.*Se contabilizan los goles en propia puerta.",
+                              "sourcePages": [26]
+                            },
+                            {
+                              "title": "Próximo goleador (Marcador X:Y)",
+                              "description": "Es un pronóstico sobre qué jugador de un equipo concreto marcará el siguiente gol del partido partiendo de un marcador X:Y. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Si se pronosticara que no habrá goles, en el pronóstico del boleto se indicará “sin goles” o “no hay goles”.*minutos, o Total de goles Más/Menos después de X minutos jugados: Es un pronóstico sobre si pasados X minutos en un partido se habrán marcado más o menos goles de un número determinado. (Ej. Se pronostica que pasados X minutos de un partido se marcarán más de 2,5 goles, lo que significa que al menos deberán marcarse 3 goles para que la apuesta sea ganadora). En este mercado no se tiene en consideración la prórroga o la tanda de penaltis si la hubiese.*En este pronóstico el primer minuto del partido incluye el periodo de tiempo*establecido entre los segundos 00:00 a 00:59 segundos, siendo el segundo minuto el periodo que abarca los segundos 1:00 a 1:59, y así sucesivamente.",
+                              "ul": [
+                                "No se contabilizan los goles en propia puerta.",
+                                "Más/menos total de goles después de X minutos, o Más/menos goles después de X"
+                              ],
+                              "sourcePages": [26, 27]
+                            },
+                            {
+                              "title": "Más / Menos total goles equipo local o total de goles equipo local Más/Menos",
+                              "description": "Es un pronóstico sobre si el equipo local en un partido marcará más o menos goles de un número determinado. En este mercado no se tiene en cuenta la prórroga ni los penaltis (en tanda de penaltis) si los hubiese.*Se contabilizan los goles en propia meta y se adjudicarán al equipo a cuyo marcador suba.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Mano a mano",
+                              "description": "Es un pronóstico sobre qué jugador, entre dos determinados, marcará más goles en un partido. Ambos jugadores han de estar incluidos en la alineación inicial de su equipo para que el pronóstico sea válido, en caso contrario el pronóstico será nulo. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Hat Trick",
+                              "description": "Es un pronóstico sobre si un mismo jugador marcará tres o más goles en un partido (90 minutos). En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Marcar en ambas partes",
+                              "description": "Es un pronóstico sobre si un equipo marcará en ambas partes de un partido. Por su propia naturaleza, en este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Mantener portería propia a cero goles",
+                              "description": "Es un pronóstico sobre si un equipo mantendrá su portería a cero goles; independientemente del número de goles marcados por dicho equipo. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Ganar con la portería a cero",
+                              "description": "Es un pronóstico sobre si un equipo mantendrá su portería a cero goles y que además ganará el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27]
+                            },
+                            {
+                              "title": "Apuesta sin empate ó Ganador sin empate",
+                              "description": "Es un pronóstico sobre la victoria del equipo local o visitante; si se produce un empate se devolverá el importe apostado. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [27, 28]
+                            },
+                            {
+                              "title": "Doble oportunidad",
+                              "description": "Es un doble pronóstico, 1X, 12 ó X2, con un único multiplicador. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [28]
+                            },
+                            {
+                              "title": "Doble oportunidad al descanso",
+                              "description": "Es un doble pronóstico, 1X, 12 ó X2, al descanso con un único multiplicador.",
+                              "sourcePages": [28]
+                            },
+                            {
+                              "title": "Total de tarjetas",
+                              "description": "Es una apuesta que pronostica el número total de tarjetas amarillas y rojas mostradas a los dos equipos a lo largo de un partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Si un partido no se completa (90 minutos) se anula la apuesta, a menos que se haya resuelto el mercado, o que el partido se dispute o se reanude durante la misma semana natural de su fecha de celebración inicial, incluyendo hasta el siguiente lunes (de lunes a lunes), en cuyo caso, las apuestas continúan siendo válidas.*Las tarjetas amarillas cuentan como 1, las tarjetas rojas cuentan como 2.*La segunda tarjeta amarilla no cuenta (por tanto, el número máximo de tarjetas por jugador es 3).*Únicamente cuentan las tarjetas mostradas a jugadores que están disputando el partido en el momento en que reciben la tarjeta. Es decir, una tarjeta amarilla o roja mostrada a un jugador que se encuentre en el banquillo, a un entrenador o miembro del cuerpo técnico o una tarjeta mostrada tras la finalización del partido, no cuentan a los efectos de los pronósticos.*No cuentan las tarjetas mostradas a un jugador después de que éste haya sido sustituido, ni después de que el árbitro haya señalado el final del partido, pero sí las que se muestren durante el descanso.",
+                              "sourcePages": [28]
+                            },
+                            {
+                              "title": "¿Habrá tarjeta roja?",
+                              "description": "Es un pronóstico sobre si habrá una tarjeta roja a lo largo del partido.*En este pronóstico, únicamente cuentan las tarjetas mostradas a jugadores que están disputando el partido en el momento en que reciben la tarjeta, no contando aquellas tarjetas que se muestren en la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [28, 29]
+                            },
+                            {
+                              "title": "¿Habrá tarjeta roja para un equipo?",
+                              "description": "Es un pronóstico sobre si un equipo recibirá una tarjeta roja en el transcurso del partido.*En este pronóstico, únicamente cuentan las tarjetas mostradas a jugadores que están disputando el partido en el momento en que reciben la tarjeta, no contando aquellas tarjetas que se muestren en la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [29]
+                            },
+                            {
+                              "title": "Total de córners",
+                              "description": "Es un pronóstico sobre el número total de córners, entre los dos equipos, que se lanzarán a lo largo de un partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [29]
+                            },
+                            {
+                              "title": "Total de córners de un equipo",
+                              "description": "Es un pronóstico sobre el número total de córners que lanzará un equipo a lo largo del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*No se contabilizan las repeticiones de córners provocadas por cualquier circunstancia.",
+                              "sourcePages": [29]
+                            },
+                            {
+                              "title": "Equipo con más córners",
+                              "description": "Es un pronóstico sobre qué equipo lanzará más córners a lo largo del partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [29]
+                            },
+                            {
+                              "title": "Total de córners Más/Menos",
+                              "description": "Es un pronóstico sobre si el número total de córnes entre los dos equipos en un partido es mayor o menor de un número determinado.*En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [29]
+                            },
+                            {
+                              "title": "Total de córners par/impar",
+                              "description": "Es un pronóstico sobre si el número total de córnes entre los dos equipos en un partido es par o impar.*En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [29, 30]
+                            },
+                            {
+                              "title": "Córners Hándicap con empate",
+                              "description": "Es un pronóstico 1X2 sobre el equipo que lanzará más córners a lo largo del partido o si se producirá un empate en lanzamiento de córners, aplicando una ventaja inicial de córner establecida por CODERE y que se asigna de los dos equipos que disputan un partido, a aquél que no es considerado el favorito. No se contabilizan las repeticiones de córner provocadas por cualquier circunstancia.",
+                              "sourcePages": [30]
+                            },
+                            {
+                              "title": "Total goles en la primera mitad",
+                              "description": "Es un pronóstico sobre el número total de goles que se marcarán entre los dos equipos a lo largo de la primera mitad de un partido. Por su propia naturaleza, en este mercado n se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Se contabilizan los goles en propia puerta.",
+                              "sourcePages": [30]
+                            },
+                            {
+                              "title": "Hándicap",
+                              "description": "Es un pronóstico sobre el ganador del partido, aplicando una ventaja inicial de goles establecida por CODERE y que se asigna de los dos equipos que disputan un partido, a aquél que no es considerado el favorito. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Ejemplo:*Evento: Real Madrid - Barcelona*En este evento se considera favorito al Barcelona, y por tanto se le otorga una ventaja de 2 goles al Real Madrid. A continuación se desarrolla como se reflejaría el hándicap de 2 goles (que es único), dependiendo del equipo que seleccione el cliente como ganador.*Pronóstico: Real Madrid +2 (significa que se está pronosticando que el partido lo ganará el Real Madrid, teniendo en cuenta que se le están otorgando 2 goles de ventaja).*Si el resultado real fuera Real Madrid 3 – Barcelona 4, el pronóstico sería ganador dado que con la aplicación del hándicap el Real Madrid ganaría por un gol de diferencia.*Si el resultado real fuera Real Madrid 2 – Barcelona 4, el pronóstico sería perdedor dado que con la aplicación del hándicap ambos equipos resultarían empatados.*Pronóstico: Barcelona -2 (significa que se está pronosticando que el partido lo ganará el Barcelona, teniendo en cuenta que se le están otorgando 2 goles de ventaja al Real Madrid).*Si el resultado real fuera Real Madrid 3 – Barcelona 4, el pronóstico sería perdedor dado que con la aplicación del hándicap el Real Madrid ganaría por un gol de diferencia.*Si el resultado real fuera Real Madrid 1 – Barcelona 4, el pronóstico sería ganador dado que con la aplicación del hándicap el Barcelona ganaría por un gol de diferencia.",
+                              "sourcePages": [30, 31]
+                            },
+                            {
+                              "title": "1X2 con hándicap ó 1X2 con Hándicap Y:Z",
+                              "description": "Es un pronóstico sobre la victoria del equipo local (1), el empate (X), o la victoria del equipo visitante (2), aplicando una ventaja inicial de goles establecida por CODERE y que se asigna a uno de los equipos que disputan el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Si el mercado aparece con la notación Y:Z, esto indica, bien en la posición de la Y, bien en la de la Z, la ventaja de puntos otorgada y a qué equipo se le otorga. Siguiendo con el ejemplo anterior del partido Real Madrid-Barcelona, “1X2 con hándicap 2:0” indicaría una ventaja inicial del Real Madrid de 2 goles, mientras que “1X2 con hándicap 0:2” indicaría que esa ventaja es del Barcelona.",
+                              "sourcePages": [31]
+                            },
+                            {
+                              "title": "1X2 Hándicap con empate al descanso",
+                              "description": "Es un pronóstico sobre si al descanso del partido irá ganando el equipo local (1), habrá un empate (X), o si irá ganando el equipo visitante (2), aplicando una ventaja inicial de goles establecida por CODERE y que se asigna a uno de los equipos que disputan el partido. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.",
+                              "sourcePages": [31]
+                            },
+                            {
+                              "title": "Clasificarse",
+                              "description": "Es un pronóstico sobre si un equipo se clasificará para una competición o para la próxima ronda de un campeonato o competición.",
+                              "sourcePages": [31, 32]
+                            },
+                            {
+                              "title": "Margen de Victoria",
+                              "description": "Es un pronóstico sobre si un equipo ganará en un partido por un determinado margen de goles. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Ejemplo:*Se pronostica que en un partido de futbol Real Madrid – Barcelona ganará el Real Madrid por un margen de 1 a 5 goles. A continuación se establecen una serie de resultados para determinar si se trata de un pronóstico ganador o perdedor:*Real Madrid 6 – Barcelona 0 (Perdedor)*Real Madrid 5 – Barcelona 0 (Ganador)*Real Madrid 4 – Barcelona 0 (Ganador)*Real Madrid 3 – Barcelona 0 (Ganador)*Real Madrid 2 – Barcelona 0 (Ganador)*Real Madrid 1 – Barcelona 0 (Ganador)*Real Madrid 0 – Barcelona 30 (Perdedor).",
+                              "sourcePages": [32]
+                            },
+                            {
+                              "title": "Fichajes",
+                              "description": "Es un pronóstico sobre si un determinado jugador, entrenador, técnico deportivo, etc., será fichado por un equipo o selección.",
+                              "sourcePages": [32]
+                            },
+                            {
+                              "title": "Participantes en la final",
+                              "description": "Es un pronóstico sobre qué equipos o selecciones llegarán a la final de una competición.",
+                              "sourcePages": [32]
+                            },
+                            {
+                              "title": "Hándicap Asiático",
+                              "description": "Es un pronóstico al ganador del partido, aplicando una ventaja inicial de goles establecida por CODERE y que se asigna a uno de los equipos que disputan el partido, a aquél que no es considerado el favorito. En este mercado no se tiene en consideración la prórroga o los penaltis (en tanda de penaltis) si los hubiese.*Si una vez aplicado el hándicap se produce un empate, el pronóstico se declara nulo y se procederá conforme a lo establecido para las apuestas nulas en estas Condiciones Generales.*En este mercado existen tres tipos de hándicaps a aplicar:",
+                              "children": [
+                                {
+                                  "title": "a) Hándicap de Gol Entero",
+                                  "description": "El hándicap a aplicar es un número entero (por ejemplo 0,*1, 2 goles etc…).*Ejemplo: Barcelona – Sevilla.*En este evento se considera favorito al Barcelona, y por tanto se le otorga una ventaja de 2 goles al Sevilla. A continuación se desarrolla como se reflejaría el hándicap de 2 goles, cuando el cliente seleccione al Sevilla como ganador:*Pronóstico: Sevilla +2 (significa que se está pronosticando que el partido lo ganará el Sevilla después de otorgarle una ventaja de 2 goles).*Si el resultado final fuera Barcelona 4 – Sevilla 3, la apuesta sería ganadora dado que con la aplicación del hándicap el Sevilla ganaría por un gol de diferencia (Barcelona 4 – Sevilla 5).*Si el resultado real fuera Barcelona 4 – Sevilla 2, la apuesta sería nula dado que con la aplicación del hándicap ambos equipos resultarían empatados (Barcelona 4 – Sevilla 4).",
+                                  "sourcePages": [33]
+                                },
+                                {
+                                  "title": "b) Hándicap de Medio Gol",
+                                  "description": "El hándicap a aplicar es de medio número (por ejemplo 0,5;*1,5; 2,5 goles).*Ejemplo: Barcelona - Chelsea*Pronóstico: Barcelona -1,5 (significa que se está pronosticando que el partido lo ganará el Barcelona después de descontarle 1,5 goles).*Si el resultado real fuera Barcelona 4 – Chelsea 3, el pronóstico sería perdedor dado que con la aplicación del hándicap el Chelsea ganaría por 0,5 goles de diferencia (Barcelona 4 - Chelsea 4,5).*Si el resultado real fuera Barcelona 4 - Chelsea 1, el pronóstico sería ganador dado que con la aplicación del hándicap el Barcelona ganaría por 1,5 goles de diferencia*(Barcelona 4 – Chelsea 2,5).",
+                                  "sourcePages": [33, 34]
+                                },
+                                {
+                                  "title": "c) Hándicap Dividido",
+                                  "description": "Se aplican al mismo tiempo el hándicap de gol completo y el*hándicap de medio gol, por lo que la mitad de la cantidad apostada a este pronóstico será de hándicap a gol completo y la otra mitad será de hándicap de medio gol.*Ejemplo: Real Madrid – Milán*Pronóstico Real Madrid -1 y -1,5 (significa que se está pronosticando que el partido lo ganará el Real Madrid, teniendo en cuenta que se le están descontando 1 gol y 1,5 goles).*Si el resultado real fuera Real Madrid 2 – Milán 0, el pronóstico sobre ambos hándicaps sería ganador dado que con la aplicación de ambos hándicaps el Real Madrid ganaría por 1 gol y 0,5 goles de diferencia (Real Madrid 2 – Milán 1 y Real Madrid 2 – Milán 1,5)*Si el resultado real fuera Real Madrid 1 - Milán 1, el pronóstico sobre ambos hándicaps sería perdedor dado que con la aplicación de dichos hándicaps el Real Madrid perdería por 1 gol y 1,5 goles de diferencia (Real Madrid 1 – Milán 2 y Real Madrid 1 – Milán 2,5).*Por el contrario, si el resultado real fuera Real Madrid 1 - Milán 0, el pronóstico sobre el hándicap de medio gol sería perdedor dado que con la aplicación de dicho hándicap el Real Madrid perdería por 0,5 goles de diferencia, mientras que el pronóstico sobre el hándicap a gol entero sería nulo puesto que se produciría un empate (aplicación del multiplicador 1).",
+                                  "sourcePages": [34]
+                                }
+                              ],
+                              "sourcePages": [32, 33]
+                            },
+                            {
+                              "title": "Hándicap Asiático (solo prórroga)",
+                              "description": "Es un pronóstico al ganador de la prórroga, aplicando una ventaja inicial de goles establecida por CODERE y que se asigna a uno de los equipos que disputan el partido, a aquél que no es considerado el favorito.*Si se produce un empate una vez aplicada la ventaja inicial, se aplicará multiplicador 1 para el caso de apuestas combinadas o múltiples, reintegrándose el importe de la apuesta para el caso de apuestas sencillas. En este mercado existen tres tipos de hándicaps a aplicar:",
+                              "children": [
+                                {
+                                  "title": "a) Hándicap de Gol Entero",
+                                  "description": "El hándicap a aplicar es un número entero (por ejemplo 0,*1, 2 goles etc…).",
+                                  "sourcePages": [34]
+                                },
+                                {
+                                  "title": "b) Hándicap de Medio Gol",
+                                  "description": "El hándicap a aplicar es de medio número (por ejemplo 0,5;*1,5; 2,5 goles).",
+                                  "sourcePages": [34, 35]
+                                },
+                                {
+                                  "title": "c) Hándicap Dividido",
+                                  "description": "Se aplican al mismo tiempo el hándicap de gol completo y el*hándicap de medio gol, por lo que la mitad de la cantidad apostada a este pronóstico será de hándicap a gol completo y la otra mitad será de hándicap de medio gol.",
+                                  "sourcePages": [35]
+                                }
+                              ],
+                              "sourcePages": [34]
+                            },
+                            {
+                              "title": "Hándicap Asiático al descanso (solo prórroga)",
+                              "description": "Es un pronóstico al ganador al descanso de la prórroga, aplicando una ventaja inicial de goles establecida por CODERE y que se asigna a uno de los equipos que disputan el partido, a aquél que no es considerado el favorito.*Si se produce un empate una vez aplicada la ventaja inicial, se aplicará multiplicador 1 para el caso de apuestas combinadas o múltiples, reintegrándose el importe de la apuesta para el caso de apuestas sencillas. En este mercado existen tres tipos de hándicaps a aplicar:",
+                              "children": [
+                                {
+                                  "title": "a) Hándicap de Gol Entero",
+                                  "description": "El hándicap a aplicar es un número entero (por ejemplo 0,*1, 2 goles etc…).",
+                                  "sourcePages": [35]
+                                },
+                                {
+                                  "title": "b) Hándicap de Medio Gol",
+                                  "description": "El hándicap a aplicar es de medio número (por ejemplo 0,5;*1,5; 2,5 goles).",
+                                  "sourcePages": [35]
+                                },
+                                {
+                                  "title": "c) Hándicap Dividido",
+                                  "description": "Se aplican al mismo tiempo el hándicap de gol completo y el*hándicap de medio gol, por lo que la mitad de la cantidad apostada a este pronóstico será de hándicap a gol completo y la otra mitad será de hándicap de medio gol.",
+                                  "sourcePages": [35]
+                                }
+                              ],
+                              "sourcePages": [35]
+                            }
+                          ],
+                          "sourcePages": [19]
+                        },
+                        {
+                          "title": "Apuestas relativas a una competición",
+                          "description": "Para la resolución de la apuesta se utilizan las estadísticas oficiales del cuerpo organizador del torneo.*Los ganadores de la liga, copa o campeonato se determinan por el resultado oficial de la competición en el momento de la finalización de la misma. Se tienen en cuenta, siempre que existan, los play-off o cualquier otro proceso utilizado para determinar el ganador de la liga, copa o campeonato. En los pronósticos relativos a una competición la posición final de los equipos al término del calendario de partidos programado determina la posición, si bien para los equipos que participen en un play-off se tendrá en cuenta el resultado de éste para determinar dicha posición. No se realiza ningún cambio por promociones de ascenso o descenso, o por posteriores modificaciones en las ligas.",
+                          "sourcePages": [35]
+                        },
+                        {
+                          "title": "Crea tu Apuesta",
+                          "description": "‘Crea tu Apuesta’ permite a los jugadores crear y realizar apuestas personalizadas. ‘Crea tu Apuesta’ está disponible en los mercados pre partido de fútbol y algunos eventos en vivo*Todas las selecciones deben ser de un solo evento y no se pueden combinar con otros eventos. ‘Crea tu Apuesta’ debe contener al menos 2 selecciones. En caso de un error palpable, toda la apuesta de MatchAcca se considerará nula. Todas las selecciones dentro de Crea tu Apuesta deben ser ganadoras para obtener ganancias. Si una selección dentro de ‘Crea tu Apuesta’ es nula, entonces el ticket será nulo. En caso de un error palpable, toda la apuesta de ‘Crea tu Apuesta’ se considerará nula. La opción de Cash Out no está disponible para la función ‘Crea tu Apuesta’. Se aplican todas las demás reglas regulares de apuestas. Codere no se hace responsable si la opción ‘Crea tu Apuesta’ no está disponible por motivos técnicos. El operador se reserva el derecho de limitar las apuestas en cualquier momento.",
+                          "sourcePages": [36]
+                        },
+                        {
+                          "title": "Reglas generales de “Player Props”.",
+                          "description": "Todas las apuestas se liquidan según la información recibida de nuestro proveedor oficial de resultados. Todas las apuestas incluyen tiempo extra (tiempo de descuento) para fines de liquidación. No se incluyen las tandas de penaltis. Todas las apuestas realizadas antes de un cambio de sede se considerarán nulas. Si el partido comienza pero se abandona o suspende en cualquier momento antes del final del tiempo de juego normal (incluido el tiempo de descuento y la prórroga, si se designa) y el partido no se reinicia durante 5 horas, todas las apuestas a ese jugador se considerarán nulas. Si algún jugador no comienza el juego, se anularán todas las apuestas a ese jugador.",
+                          "sourcePages": [36]
+                        }
+                      ],
+                      "sourcePages": [18]
+                    }
+                  ],
+                  "sourcePages": [14]
+                }
+              ]
             }
           ]
         }
       },
+
       "privacy-policy": {
         "id": "privacy-policy",
         "label": "Privacidad",

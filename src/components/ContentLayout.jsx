@@ -3,6 +3,8 @@ import { observer } from "mobx-react";
 import { useLocation } from "react-router-dom";
 import myStore from "../mobx/myStore";
 import { CodereHelmet } from "../data/helpers";
+import AccordionContentLayout from "./AccordionContentLayout";
+import { toJS } from "mobx";
 
 const splitParagraphs = (text) =>
   typeof text === "string" ? text.split("*").filter(Boolean) : [];
@@ -85,6 +87,10 @@ const ContentLayout = observer(({ subtopicObject: propsObject }) => {
   const content = Array.isArray(subtopicObject.content)
     ? subtopicObject.content
     : [];
+  console.log(toJS(subtopicObject));
+
+  if (subtopicObject?.type === "accordion")
+    return <AccordionContentLayout subtopicObject={subtopicObject} />;
 
   return (
     <>
