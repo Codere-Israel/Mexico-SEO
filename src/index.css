@@ -125,6 +125,9 @@ body {
     font-size: 7.5vw;
     width: 88.667%;
   }
+  p{
+    font-size: 4vw !important;
+  }
   .floating {
     height: 37.5vw !important;
   }
