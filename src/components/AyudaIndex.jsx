@@ -95,7 +95,11 @@ const AyudaIndex = () => {
                   key={item.id}
                   className="border-b py-1 px-2 hover:ps-5 hover:bg-[#79c000] transition-all transition-200_"
                 >
-                  <Link to={item.url}>{item.label}</Link>
+                  {item.url?.includes("www.codere.mx") ? (
+                    <a href={item.url}>{item.label}</a>
+                  ) : (
+                    <Link to={item.url}>{item.label}</Link>
+                  )}
                 </div>
               ))}
             </div>
@@ -110,17 +114,25 @@ const AyudaIndex = () => {
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-3">
-          {quickLinks.map((item, i) => (
-            <NavLink
-              to={item.url}
-              key={i}
-              className="border h-[150px] text-center flex flex-col justify-center rounded-md p-3 hover:shadow-sm cursor-pointer transition"
-            >
-              {/* <div className="text-green text-sm">Icono</div> */}
-
-              <h3 className="mt-1 font-medium text-white">{item.title}</h3>
-            </NavLink>
-          ))}
+          {quickLinks.map((item, i) =>
+            item.url?.includes("www.codere.mx") ? (
+              <a
+                href={item.url}
+                key={i}
+                className="border h-[150px] text-center flex flex-col justify-center rounded-md p-3 hover:shadow-sm cursor-pointer transition"
+              >
+                <h3 className="mt-1 font-medium text-white">{item.title}</h3>
+              </a>
+            ) : (
+              <NavLink
+                to={item.url}
+                key={i}
+                className="border h-[150px] text-center flex flex-col justify-center rounded-md p-3 hover:shadow-sm cursor-pointer transition"
+              >
+                <h3 className="mt-1 font-medium text-white">{item.title}</h3>
+              </NavLink>
+            )
+          )}
         </div>
       </section>
 

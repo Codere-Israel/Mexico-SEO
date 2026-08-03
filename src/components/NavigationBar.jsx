@@ -37,21 +37,32 @@ const SubtopicLink = observer(({ topicSlug, slug, node, onNavigate }) => {
   const isActive = myStore.topic === topicSlug && myStore.subtopic === slug;
   const url = node?.url || "#";
   const label = node?.label || node?.id || slug;
+  const isExternal = url.includes("www.codere.mx");
 
   return (
     <li>
-      <Link
-        to={url}
-        onClick={() => {
-          myStore.updateTopic(topicSlug);
-          myStore.updateSubtopic(slug);
-          onNavigate?.();
-        }}
-        aria-current={isActive ? "page" : undefined}
-        className={`block _py-1 text-[13px] cursor-pointer text-white ps-2 pe-5 ${isActive ? "nav-active" : ""}`}
-      >
-        {label}
-      </Link>
+      {isExternal ? (
+        <a
+          href={url}
+          onClick={() => onNavigate?.()}
+          className="block _py-1 text-[13px] cursor-pointer text-white ps-2 pe-5"
+        >
+          {label}
+        </a>
+      ) : (
+        <Link
+          to={url}
+          onClick={() => {
+            myStore.updateTopic(topicSlug);
+            myStore.updateSubtopic(slug);
+            onNavigate?.();
+          }}
+          aria-current={isActive ? "page" : undefined}
+          className={`block _py-1 text-[13px] cursor-pointer text-white ps-2 pe-5 ${isActive ? "nav-active" : ""}`}
+        >
+          {label}
+        </Link>
+      )}
     </li>
   );
 });
@@ -60,8 +71,17 @@ const TopicHeader = observer(({ topicSlug, topic, onNavigate }) => {
   const isActive = myStore.topic === topicSlug && !myStore.subtopic;
   const url = topic?.url || "#";
   const label = topic?.label || topic?.id || topicSlug;
+  const isExternal = url.includes("www.codere.mx");
 
-  return (
+  return isExternal ? (
+    <a
+      href={url}
+      onClick={() => onNavigate?.()}
+      className="block text-[15px] font-semibold uppercase tracking-wide cursor-pointer text-green"
+    >
+      {label}
+    </a>
+  ) : (
     <Link
       to={url}
       onClick={() => {
@@ -200,7 +220,7 @@ const NavigationBar = observer(() => {
         {myStore.subtopicNode?.label || myStore.topicNode?.label || "Ayuda"}
       </button>
 
-      <aside className="md:block">
+      <aside className="md:block max-md:hidden">
         <NavList />
       </aside>
 
