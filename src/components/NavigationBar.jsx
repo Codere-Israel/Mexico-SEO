@@ -103,7 +103,7 @@ const NavList = observer(({ onNavigate }) => {
             onNavigate?.();
             navigate("/ayuda");
           }}
-          className="font-semibold uppercase text-[20px]"
+          className="font-semibold uppercase text-[20px] text-white"
         >
           Ayuda
         </h1>
@@ -200,7 +200,7 @@ const NavigationBar = observer(() => {
         {myStore.subtopicNode?.label || myStore.topicNode?.label || "Ayuda"}
       </button>
 
-      <aside className="hidden md:block">
+      <aside className="md:block">
         <NavList />
       </aside>
 

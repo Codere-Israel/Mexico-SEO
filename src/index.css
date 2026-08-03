@@ -33,7 +33,9 @@ h3 {
   padding: 0 !important;
   font-size: revert-layer !important;
 }
-
+.my-2{
+  margin-top: 0.5rem !important;
+}
 body {
   color: #fff !important;
   font-size: 16px !important;
@@ -42,6 +44,9 @@ body {
 
 .text-green {
   color: #79c000 !important;
+}
+.text-white {
+  color: #ffffff !important;
 }
 
 .floating-button {

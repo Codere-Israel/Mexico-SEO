@@ -118,7 +118,7 @@ const AyudaIndex = () => {
             >
               {/* <div className="text-green text-sm">Icono</div> */}
 
-              <h3 className="mt-1 font-medium">{item.title}</h3>
+              <h3 className="mt-1 font-medium text-white">{item.title}</h3>
             </NavLink>
           ))}
         </div>
