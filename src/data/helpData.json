@@ -142,147 +142,145 @@
           ]
         }
       },
-      "password-recovery": {
-        "id": "password-recovery",
-        "label": "Recuperación de contraseña",
-        "url": "/ayuda/cuenta/recuperacion-contrasena",
-        "page": {
-          "seo": {
-            "title": "Olvidaste tu contraseña? Recupérala y sigue jugando | Codere®",
-            "description": "Restablece la contraseña de tu cuenta en Codere, de una manera sencilla y segura, para volver a disfrutar de tus apuestas sin complicaciones."
-          },
-          "top": {
-            "title": "Cómo recuperar tu cuenta de Codere paso a paso",
-            "description": "Recuperar tu acceso en Codere.mx es un proceso sencillo y seguro que puedes completar en pocos minutos. No necesitas papeleo, solo contar con el correo electrónico registrado en tu cuenta para restablecer tu contraseña rápidamente."
-          },
-          "content": [
-            {
-              "title": "Recuerda",
-              "ul": [
-                "Podrás volver a entrar y jugar en cuanto completes el proceso.",
-                "El enlace de recuperación es válido por 30 minutos, así que úsalo de inmediato para evitar demoras.",
-                "Tu nueva contraseña debe ser segura: entre 8 y 20 caracteres, con mayúsculas, minúsculas y al menos un número."
-              ]
-            },
-            {
-              "title": "Pasos para recuperar tu cuenta",
-              "ol": [
-                "Ingresa a codere.mx y haz clic en “¿Olvidaste tu contraseña?”.",
-                "Escribe tu correo electrónico registrado y pulsa en “Enviar”.",
-                "Revisa tu bandeja de entrada (y carpetas de spam) para encontrar el correo con tu contraseña temporal.",
-                "Accede con tu usuario y la clave temporal.",
-                "En la ventana emergente, introduce la contraseña temporal en “Contraseña anterior” y define tu nueva contraseña en los campos correspondientes.",
-                "En minutos tu acceso quedará restablecido y podrás seguir apostando y jugando con total seguridad."
-              ],
-              "subcontent": [
-                {
-                  "title": "Si no recibes el correo",
-                  "ul": [
-                    "Verifica que tu dirección de correo esté registrada correctamente.",
-                    "Revisa las carpetas de spam o promociones.",
-                    "Solicita un nuevo enlace si el anterior expiró."
-                  ]
-                },
-                {
-                  "title": "Si todavía no puedes recuperar tu cuenta",
-                  "description": "Borra las cookies y caché de tu navegador e inténtalo otra vez. Si el problema persiste, contacta a nuestro equipo de Atención al Cliente 24/7, que siempre está disponible para ayudarte a recuperar el acceso."
-                }
-              ]
-            },
-            {
-              "title": "¿Qué hacer si tu cuenta Codere está suspendida o bloqueada?",
-              "description": "Si al intentar recuperar tu acceso no puedes iniciar sesión, es posible que tu cuenta Codere esté suspendida o bloqueada. Esto es diferente a haber olvidado la contraseña y requiere una revisión adicional.",
-              "subcontent": [
-                {
-                  "title": "Motivos comunes por los que Codere puede suspender una cuenta",
-                  "ul": [
-                    "Verificación pendiente o incompleta de documentos de identidad.",
-                    "Intentos fallidos repetidos al ingresar la contraseña por seguridad.",
-                    "Actividad inusual o sospechosa, detectada por los sistemas de protección.",
-                    "Solicitud temporal de autoexclusión o medidas de juego responsable."
-                  ]
-                },
-                {
-                  "title": "¿Cómo recuperar una cuenta Codere suspendida?",
-                  "ol": [
-                    "Verifica si recibiste un correo de Codere con información sobre la suspensión.",
-                    "Accede al centro de ayuda o contacta a Atención al Cliente 24/7 desde la web.",
-                    "Proporciona los datos solicitados para validar tu identidad y revisar tu caso."
-                  ]
-                },
-                {
-                  "description": "Una vez revisada la información, el equipo de soporte te indicará los pasos para recuperar tu cuenta Codere o el tiempo estimado de reactivación."
-                },
-                {
-                  "description": "👉 Si tu cuenta no está suspendida y solo olvidaste la contraseña, sigue los pasos anteriores para restablecerla en pocos minutos."
-                },
-                {
-                  "description_html": "<p>👉 <a class=\"underline text-[#79c000]\" href=\"https://www.codere.mx\">Recupera tu contraseña</a> ahora y vuelve a jugar en pocos minutos</p>"
-                }
-              ]
-            }
-          ]
-        }
+"password-recovery": {
+  "id": "password-recovery",
+  "label": "Recuperación de contraseña",
+  "url": "/ayuda/cuenta/recuperacion-contrasena",
+  "page": {
+    "seo": {
+      "title": "Olvidaste tu contraseña? Recupérala y sigue jugando | Codere®",
+      "description": "Restablece la contraseña de tu cuenta en Codere, de una manera sencilla y segura, para volver a disfrutar de tus apuestas sin complicaciones."
+    },
+    "top": {
+      "title": "Cómo recuperar tu cuenta de Codere paso a paso",
+      "description": "Recuperar tu acceso en Codere.mx es un proceso sencillo y seguro que puedes completar en pocos minutos. No necesitas papeleo, solo contar con el correo electrónico registrado en tu cuenta para restablecer tu contraseña rápidamente."
+    },
+    "content": [
+      {
+        "title": "Recuerda",
+        "ul": [
+          "Podrás volver a entrar y jugar en cuanto completes el proceso.",
+          "Tu nueva contraseña debe ser segura: entre 8 y 20 caracteres, con mayúsculas, minúsculas y al menos un número."
+        ]
       },
-      "document-verification": {
-        "id": "document-verification",
-        "label": "Verificación documental",
-        "url": "/ayuda/cuenta/verificacion-documental",
-        "page": {
-          "seo": {
-            "title": "Verificación de Documentos para un retiro fácil | Codere®",
-            "description": "Completa la verificación de tus documentos en Codere y asegura tu cuenta para apostar y retirar sin inconvenientes."
+      {
+        "title": "Pasos para recuperar tu cuenta",
+        "ol": [
+          "Ingresa a codere.mx y haz clic en “¿Olvidaste tu contraseña?”.",
+          "Escribe tu correo electrónico registrado y pulsa en “Enviar”.",
+          "Revisa tu bandeja de entrada (incluyendo la carpeta de spam) y busca el correo para crear tu nueva contraseña.",
+          "Al abrir el enlace del correo, se abrirá automáticamente la página de Codere. Ingresa tu nueva contraseña y confírmala.",
+          "Guarda los cambios e inicia sesión nuevamente utilizando tu nueva contraseña."
+        ],
+        "subcontent": [
+          {
+            "title": "Si no recibes el correo",
+            "ul": [
+              "Verifica que tu dirección de correo esté registrada correctamente.",
+              "Revisa las carpetas de spam o promociones.",
+              "Solicita un nuevo enlace si el anterior expiró."
+            ]
           },
-          "top": {
-            "title": "Verificación de documentos: guía paso a paso",
-            "description": "La verificación en Codere.mx es rápida y segura. Para completarla con éxito, lo primero es tener a la mano tu documento de identidad válido (INE, IFE, Pasaporte mexicano o residencia temporal/permanente), un comprobante de domicilio actualizado y una selfie sosteniendo tu identificación, donde se vea claramente tu rostro y los datos del documento."
-          },
-          "content": [
-            {
-              "title": "¿Cómo verificar tu cuenta en Codere.mx?",
-              "ul": [
-                "Ingresa a tu cuenta y ve a la pestaña \"Documentos\".",
-                "Elige el método de verificación.",
-                "Documento de identidad: validación automática a través de Shufti (si lo inicias en computadora, deberás completarlo desde tu celular).",
-                "Verificación bancaria: opción de enviar tu documentación por correo electrónico.",
-                "Caso especial – Pasaporte: deberás enviar tu pasaporte + comprobante de domicilio a verificacion@codere.mx.",
-                "Sube los archivos solicitados y sigue las recomendaciones que aparecen en pantalla o en el cajero virtual.",
-                "Espera la confirmación: recibirás un correo electrónico con el estado de tu verificación."
-              ],
-              "subcontent": [
-                {
-                  "title": "Consejo",
-                  "description": "Completa la validación lo antes posible para evitar demoras al momento de retirar tus ganancias."
-                }
-              ]
-            },
-            {
-              "title": "¿Cuánto tarda Codere en verificar documentos?",
-              "description": "El tiempo estimado de revisión es de 24 a 48 horas.",
-              "ul": [
-                "Si la validación es automática, tu cuenta quedará verificada en el mismo momento.",
-                "En algunos casos, el proceso puede tardar un poco más, pero siempre recibirás una notificación por correo electrónico con el estado.",
-                "Ten a la mano el número de caso que se envía a tu correo en caso de consultas posteriores."
-              ]
-            },
-            {
-              "title": "Cómo enviar los documentos",
-              "ul": [
-                "Automáticamente: sube tus documentos en la pestaña de verificación de tu cuenta.",
-                "Por correo: si usas pasaporte o no logras validar de manera automática, envía tus documentos a verificacion@codere.mx desde el correo electrónico asociado a tu cuenta."
-              ]
-            },
-            {
-              "title": "¿Qué hago si mis documentos no son aceptados?",
-              "ul": [
-                "Revisa tu correo electrónico, allí se detalla el motivo del rechazo.",
-                "Corrige la información y vuelve a enviar la documentación solicitada.",
-                "Si persiste el problema, contacta a nuestro equipo de Atención al Cliente 24/7, que te ayudará a completar el proceso con éxito."
-              ]
-            }
-          ]
-        }
+          {
+            "title": "Si todavía no puedes recuperar tu cuenta",
+            "description": "Borra las cookies y caché de tu navegador e inténtalo otra vez. Si el problema persiste, contacta a nuestro equipo de Atención al Cliente 24/7, que siempre está disponible para ayudarte a recuperar el acceso."
+          }
+        ]
       },
+      {
+        "title": "¿Qué hacer si tu cuenta Codere está suspendida o bloqueada?",
+        "description": "Si al intentar recuperar tu acceso no puedes iniciar sesión, es posible que tu cuenta Codere esté suspendida o bloqueada. Esto es diferente a haber olvidado la contraseña y requiere una revisión adicional.",
+        "subcontent": [
+          {
+            "title": "Motivos comunes por los que Codere puede suspender una cuenta",
+            "ul": [
+              "Verificación pendiente o incompleta de documentos de identidad.",
+              "Intentos fallidos repetidos al ingresar la contraseña por seguridad.",
+              "Actividad inusual o sospechosa, detectada por los sistemas de protección.",
+              "Solicitud temporal de autoexclusión o medidas de juego responsable."
+            ]
+          },
+          {
+            "title": "¿Cómo recuperar una cuenta Codere suspendida?",
+            "ol": [
+              "Verifica si recibiste un correo de Codere con información sobre la suspensión.",
+              "Accede al centro de ayuda o contacta a Atención al Cliente 24/7 desde la web.",
+              "Proporciona los datos solicitados para validar tu identidad y revisar tu caso."
+            ]
+          },
+          {
+            "description": "Una vez revisada la información, el equipo de soporte te indicará los pasos para recuperar tu cuenta Codere o el tiempo estimado de reactivación."
+          },
+          {
+            "description": "👉 Si tu cuenta no está suspendida y solo olvidaste la contraseña, sigue los pasos anteriores para restablecerla en pocos minutos."
+          },
+          {
+            "description_html": "<p>👉 <a class=\"underline text-[#79c000]\" href=\"https://www.codere.mx\">Recupera tu contraseña</a> ahora y vuelve a jugar en pocos minutos</p>"
+          }
+        ]
+      }
+    ]
+  }
+},
+"document-verification": {
+  "id": "document-verification",
+  "label": "Verificación documental",
+  "url": "/ayuda/cuenta/verificacion-documental",
+  "page": {
+    "seo": {
+      "title": "Verificación de Documentos para un retiro fácil | Codere®",
+      "description": "Completa la verificación de tus documentos en Codere y asegura tu cuenta para apostar y retirar sin inconvenientes."
+    },
+    "top": {
+      "title": "Verificación de documentos: guía paso a paso",
+      "description": "La verificación en Codere.mx es rápida y segura. Para completarla con éxito, lo primero es tener a la mano tu documento de identidad válido (INE, Pasaporte mexicano, residencia temporal/permanente o pasaporte extranjero), un comprobante de domicilio actualizado y una selfie sosteniendo tu identificación, donde se vea claramente tu rostro y los datos del documento."
+    },
+    "content": [
+      {
+        "title": "¿Cómo verificar tu cuenta en Codere.mx?",
+        "ul": [
+          "Ingresa a tu cuenta y ve a la pestaña \"Documentos\".",
+          "Elige el método de verificación.",
+          "Documento de identidad: validación automática a través de Shufti (sistema automático de verificación). Si lo inicias en computadora, deberás completarlo desde tu celular.",
+          "Verificación bancaria: opción de enviar tu documentación por correo electrónico.",
+          "Caso especial – Pasaporte: deberás enviar tu pasaporte + comprobante de domicilio a verificacion@codere.mx.",
+          "Sube los archivos solicitados y sigue las recomendaciones que aparecen en pantalla o en el cajero virtual. El sistema solicitará datos personales del jugador, como por ejemplo su domicilio, como parte del proceso de verificación.",
+          "Espera la confirmación: recibirás un correo electrónico con el estado de tu verificación."
+        ],
+        "subcontent": [
+          {
+            "title": "Consejo",
+            "description": "Completa la validación lo antes posible para evitar demoras al momento de retirar tus ganancias."
+          }
+        ]
+      },
+      {
+        "title": "¿Cuánto tarda Codere en verificar documentos?",
+        "description": "El tiempo estimado de verificación de tu cuenta es de 24 a 48 horas una vez que la documentación esté completa y correcta.",
+        "ul": [
+          "Si la validación es automática, tu cuenta quedará verificada en el mismo momento.",
+          "En algunos casos, el proceso puede tardar un poco más, pero siempre recibirás una notificación por correo electrónico con el estado.",
+          "Ten a la mano el número de caso que se envía a tu correo en caso de consultas posteriores."
+        ]
+      },
+      {
+        "title": "Cómo enviar los documentos",
+        "ul": [
+          "Automáticamente: sube tus documentos en la pestaña de verificación de tu cuenta (válido para documentos de identidad y residencias permanentes o temporales).",
+          "Por correo: si usas pasaporte o no logras validar de manera automática, envía tus documentos a verificacion@codere.mx desde el correo electrónico asociado a tu cuenta."
+        ]
+      },
+      {
+        "title": "¿Qué hago si mis documentos no son aceptados?",
+        "ul": [
+          "Revisa tu correo electrónico, allí se detalla el motivo del rechazo.",
+          "Corrige la información y vuelve a enviar la documentación solicitada.",
+          "Si persiste el problema, contacta a nuestro equipo de Atención al Cliente 24/7, que te ayudará a completar el proceso con éxito."
+        ]
+      }
+    ]
+  }
+},
       "data-modification": {
         "id": "data-modification",
         "label": "Modificación de datos",
@@ -365,144 +363,173 @@
         }
       },
 
-      "deposits": {
-        "id": "deposits",
-        "label": "Depósito en local y en línea",
-        "url": "/ayuda/cuenta/depositos-online-y-local",
-        "page": {
-          "seo": {
-            "title": "Cómo depositar en tu cuenta: métodos de pago | Codere® | Codere®",
-            "description": "Descubre cómo depositar en Codere rápidamente, con métodos online o en locales, y comienza a apostar sin complicaciones."
+"deposits": {
+  "id": "deposits",
+  "label": "Depósito en local y en línea",
+  "url": "/ayuda/cuenta/depositos-online-y-local",
+  "page": {
+    "seo": {
+      "title": "Cómo depositar en tu cuenta: métodos de pago | Codere® | Codere®",
+      "description": "Descubre cómo depositar en Codere rápidamente, con métodos online o en locales, y comienza a apostar sin complicaciones."
+    },
+    "top": {
+      "title": "Cómo depositar en Codere y empezar a jugar al instante",
+      "description": "Depositar en Codere es muy sencillo. En minutos tendrás saldo disponible para apostar y disfrutar de tus juegos favoritos. Aquí te guiamos paso a paso para que elijas el método que más se adapte a ti y empieces a jugar sin complicaciones."
+    },
+    "content": [
+      {
+        "title": "Depósitos online: el primer paso para apostar",
+        "description": "Antes de depositar, asegúrate de estar registrado. Si aún no lo estás, regístrate aquí y activa tu cuenta. Una vez dentro, solo necesitas cargar saldo. Depositar significa contar con dinero listo para apostar cuando quieras, y además podrás retirarlo en cualquier momento.",
+        "subcontent": [
+          {
+            "description": "Si aún no verificaste tu cuenta, tus depósitos estarán sujetos a un límite establecido por la normativa vigente, el cual se actualiza anualmente."
+          }
+        ]
+      },
+      {
+        "title": "Depósito en Book: efectivo y sin necesidad de banco",
+        "description": "Aprovecha la red de books Codere para depositar en efectivo, de forma inmediata y sin tarjetas. El proceso es simple:",
+        "ul": [
+          "Dirígete a tu book autorizado más cercano (encuéntralo aquí).",
+          "Inicia sesión en tu cuenta desde tu celular y selecciona \"Depositar en book\" en el menú.",
+          "Obtén el código de barras que identificará tu cuenta.",
+          "Entrégalo al operador junto con el efectivo.",
+          "¡Listo! Tu saldo estará disponible de inmediato.",
+          "Beneficio inmediato: no necesitas cuentas bancarias ni tarjetas, solo efectivo."
+        ],
+        "subcontent": [
+          {
+            "title": "Importante",
+            "description": "Recibirás un SMS confirmando tu depósito. Revísalo en el mismo book para resolver cualquier error al instante."
+          }
+        ]
+      },
+      {
+        "title": "Métodos de depósito disponibles",
+        "subcontent": [
+          {
+            "title": "Tarjeta de débito o crédito (Visa/Mastercard)",
+            "description": "Depósitos instantáneos, seguros y sin comisiones. Accede a \"Depositar online > Visa/Mastercard\" en tu cuenta. Recuerda que el depósito mínimo es de $100 y que solo puedes usar tarjetas a tu nombre."
           },
-          "top": {
-            "title": "Cómo depositar en Codere y empezar a jugar al instante",
-            "description": "Depositar en Codere es muy sencillo. En minutos tendrás saldo disponible para apostar y disfrutar de tus juegos favoritos. Aquí te guiamos paso a paso para que elijas el método que más se adapte a ti y empieces a jugar sin complicaciones."
+          {
+            "title": "Mercado Pago",
+            "description": "Deposita de forma rápida y segura con Mercado Pago. Solo elige este método, ingresa el monto que deseas recargar y confirma el pago desde tu cuenta. ¡Tu saldo estará disponible en minutos para seguir disfrutando en Codere!"
           },
-          "content": [
-            {
-              "title": "Depósitos online: el primer paso para apostar",
-              "description": "Antes de depositar, asegúrate de estar registrado. Si aún no lo estás, regístrate aquí y activa tu cuenta. Una vez dentro, solo necesitas cargar saldo. Depositar significa contar con dinero listo para apostar cuando quieras, y además podrás retirarlo en cualquier momento."
-            },
-            {
-              "title": "Depósito en Book: efectivo y sin necesidad de banco",
-              "description": "Aprovecha la red de books Codere para depositar en efectivo, de forma inmediata y sin tarjetas. El proceso es simple:",
-              "ul": [
-                "Dirígete a tu book autorizado más cercano (encuéntralo aquí).",
-                "Inicia sesión en tu cuenta desde tu celular y selecciona \"Depositar en book\" en el menú.",
-                "Obtén el código de barras que identificará tu cuenta.",
-                "Entrégalo al operador junto con el efectivo.",
-                "¡Listo! Tu saldo estará disponible de inmediato.",
-                "Beneficio inmediato: no necesitas cuentas bancarias ni tarjetas, solo efectivo."
-              ],
-              "subcontent": [
-                {
-                  "title": "Importante",
-                  "description": "Recibirás un SMS confirmando tu depósito. Revísalo en el mismo book para resolver cualquier error al instante."
-                }
-              ]
-            },
-            {
-              "title": "Métodos de depósito disponibles",
-              "subcontent": [
-                {
-                  "title": "Tarjeta de débito o crédito (Visa/Mastercard)",
-                  "description": "Depósitos instantáneos, seguros y sin comisiones. Accede a \"Depositar online > Visa/Mastercard\" en tu cuenta. Recuerda que el depósito mínimo es de $100 y que solo puedes usar tarjetas a tu nombre."
-                },
-                {
-                  "title": "Mercado Pago",
-                  "description": "Deposita de forma rápida y segura con Mercado Pago. Solo elige este método, ingresa el monto que deseas recargar y confirma el pago desde tu cuenta. ¡Tu saldo estará disponible en minutos para seguir disfrutando en Codere!"
-                },
-                {
-                  "title": "Paysafecard: recarga fácil en tiendas",
-                  "description": "Compra una tarjeta en Oxxo, 7-Eleven, Soriana y muchos más (lista completa aquí).",
-                  "ol": [
-                    "Rasca el código o usa el ticket con PIN de 16 dígitos.",
-                    "Ingresa el PIN en \"Depositar online > Paysafecard\".",
-                    "¡Saldo disponible al instante para jugar!"
-                  ]
-                },
-                {
-                  "title": "American Express (AMEX)",
-                  "description": "Deposita con tu tarjeta de crédito de forma fácil y rápida:",
-                  "ul": [
-                    "Accede a \"Depositar online > American Express\".",
-                    "Ingresa monto, tu número INE y los datos de la tarjeta.",
-                    "Confirma y paga.",
-                    "Tu saldo estará disponible inmediatamente."
-                  ]
-                },
-                {
-                  "title": "Paynet: depósitos en efectivo en cientos de puntos",
-                  "ol": [
-                    "Accede a \"Depositar online > Paynet\".",
-                    "Obtén tu código de barras de referencia.",
-                    "Paga en establecimientos como 7-Eleven, Walmart, Sam's Club, Farmacias del Ahorro y muchos más.",
-                    "Tu depósito se acreditará automáticamente.",
-                    "Beneficio inmediato: sin cuentas bancarias, con cientos de lugares cercanos para depositar."
-                  ]
-                },
-                {
-                  "title": "SPEI Transferencia",
-                  "description": "Deposita desde tu banca en línea en cualquier momento (servicio disponible 24/7).",
-                  "ul": [
-                    "Entra en \"Depositar online > SPEI Transferencia\".",
-                    "Ingresa el importe y tu número INE.",
-                    "Obtén los datos de pago (CLABE, referencia, concepto).",
-                    "Realiza la transferencia desde tu banco.",
-                    "Tu depósito se reflejará en tu cuenta de 1 a 4 horas hábiles."
-                  ]
-                },
-                {
-                  "title": "OxxoPay",
-                  "description": "Ideal si prefieres pagar en efectivo:",
-                  "ol": [
-                    "Genera un código de barras desde \"Depositar online > OxxoPay\".",
-                    "Llévalo impreso o en tu celular a cualquier OXXO.",
-                    "Paga en caja y muestra tu IFE.",
-                    "Tu saldo se acreditará en 24 a 72 horas."
-                  ]
-                },
-                {
-                  "title": "Todito Cash",
-                  "description": "Depósita con tu tarjeta Todito Cash:",
-                  "ul": [
-                    "Accede a \"Depositar online > Todito Cash\".",
-                    "Introduce el importe, tus datos y confirma.",
-                    "Tu saldo se activará en 24 a 48 horas."
-                  ]
-                },
-                {
-                  "title": "Otros métodos de pago disponibles",
-                  "description": "Astropay, 7-Eleven, Círculo K, Farmacias del Ahorro, Superama y Walmart."
-                }
-              ]
-            },
-            {
-              "title": "Verificar el estado de tu depósito",
-              "description": "Normalmente el importe se refleja de inmediato. Si no aparece, revisa que no se haya descontado de tu cuenta bancaria."
-            },
-            {
-              "title": "Tiempos de acreditación por método",
-              "table": {
-                "headers": ["Método", "Tiempo de acreditación"],
-                "rows": [
-                  ["Visa/Mastercard", "Inmediato"],
-                  ["Paysafecard", "Inmediato"],
-                  ["Paynet", "Inmediato"],
-                  ["AMEX", "Inmediato"],
-                  ["SPEI", "1 a 4 horas"],
-                  ["OxxoPay", "Hasta 72 horas"],
-                  ["Todito Cash", "24 a 48 horas"]
-                ]
-              }
-            },
-            {
-              "title": "¿Qué hacer si tu depósito no aparece?",
-              "description": "Contacta con nuestro servicio de Atención al Cliente. Adjunta un comprobante lo más completo posible (fecha, hora, monto, titular y referencia) para que podamos ayudarte de inmediato."
-            }
+          {
+            "title": "Paysafecard: recarga fácil en tiendas",
+            "description": "Compra una tarjeta en Oxxo, 7-Eleven, Soriana y muchos más (lista completa aquí).",
+            "ol": [
+              "Rasca el código o usa el ticket con PIN de 16 dígitos.",
+              "Ingresa el PIN en \"Depositar online > Paysafecard\".",
+              "¡Saldo disponible al instante para jugar!"
+            ]
+          },
+          {
+            "title": "American Express (AMEX)",
+            "description": "Deposita con tu tarjeta de crédito de forma fácil y rápida:",
+            "ul": [
+              "Accede a \"Depositar online > American Express\".",
+              "Ingresa monto, tu número INE y los datos de la tarjeta.",
+              "Confirma y paga.",
+              "Tu saldo estará disponible inmediatamente."
+            ]
+          },
+          {
+            "title": "Paynet: depósitos en efectivo en cientos de puntos",
+            "ol": [
+              "Accede a \"Depositar online > Paynet\".",
+              "Obtén tu código de barras de referencia.",
+              "Paga en establecimientos como 7-Eleven, Walmart, Sam's Club, Farmacias del Ahorro y muchos más.",
+              "Tu depósito se acreditará automáticamente.",
+              "Beneficio inmediato: sin cuentas bancarias, con cientos de lugares cercanos para depositar."
+            ]
+          },
+          {
+            "title": "SPEI Transferencia",
+            "description": "Deposita desde tu banca en línea en cualquier momento (servicio disponible 24/7).",
+            "ul": [
+              "Entra en \"Depositar online > SPEI Transferencia\".",
+              "Ingresa el importe y tu número INE.",
+              "Obtén los datos de pago (CLABE, referencia, concepto).",
+              "Realiza la transferencia desde tu banco.",
+              "Tu depósito se reflejará en tu cuenta de 1 a 4 horas hábiles."
+            ]
+          },
+          {
+            "title": "OxxoPay",
+            "description": "Ideal si prefieres pagar en efectivo:",
+            "ol": [
+              "Genera un código de barras desde \"Depositar online > OxxoPay\".",
+              "Llévalo impreso o en tu celular a cualquier OXXO.",
+              "Paga en caja.",
+              "Tu saldo se acreditará en 24 a 72 horas."
+            ]
+          },
+          {
+            "title": "Todito Cash",
+            "description": "Deposita con tu tarjeta Todito Cash:",
+            "ul": [
+              "Accede a \"Depositar online > Todito Cash\".",
+              "Introduce el importe, tus datos y confirma.",
+              "Tu saldo se activará en 24 a 48 horas."
+            ]
+          },
+          {
+            "title": "Otros métodos de pago disponibles",
+            "description": "Astropay, 7-Eleven, Círculo K, Farmacias del Ahorro, Superama y Walmart."
+          }
+        ]
+      },
+      {
+        "title": "Verificar el estado de tu depósito",
+        "description": "Normalmente el importe se refleja de inmediato. Si no aparece, revisa que no se haya descontado de tu cuenta bancaria."
+      },
+      {
+        "title": "Tiempos de acreditación por método",
+        "table": {
+          "headers": [
+            "Método",
+            "Tiempo de acreditación"
+          ],
+          "rows": [
+            [
+              "Visa/Mastercard",
+              "Inmediato"
+            ],
+            [
+              "Paysafecard",
+              "Inmediato"
+            ],
+            [
+              "Paynet",
+              "Inmediato"
+            ],
+            [
+              "AMEX",
+              "Inmediato"
+            ],
+            [
+              "SPEI",
+              "1 a 4 horas"
+            ],
+            [
+              "OxxoPay",
+              "Hasta 72 horas"
+            ],
+            [
+              "Todito Cash",
+              "24 a 48 horas"
+            ]
           ]
         }
       },
+      {
+        "title": "¿Qué hacer si tu depósito no aparece?",
+        "description": "Contacta con nuestro servicio de Atención al Cliente. Adjunta un comprobante lo más completo posible (fecha, hora, monto, titular y referencia) para que podamos ayudarte de inmediato."
+      }
+    ]
+  }
+},
 
       "bet-verification": {
         "id": "bet-verification",
@@ -553,91 +580,103 @@
           ]
         }
       },
-      "withdrawals": {
-        "id": "withdrawals",
-        "label": "Cobro online y presencial",
-        "url": "/ayuda/cuenta/cobro-online-y-local",
-        "page": {
-          "seo": {
-            "title": "Cómo retirar en Codere: cobro online y en efectivo | Codere®",
-            "description": "Aprende cómo retirar tus ganancias en Codere: cobros online o en efectivo, métodos disponibles, requisitos, tiempos de pago y qué hacer si tu retiro falla."
+"withdrawals": {
+  "id": "withdrawals",
+  "label": "Cobro online y presencial",
+  "url": "/ayuda/cuenta/cobro-online-y-local",
+  "page": {
+    "seo": {
+      "title": "Cómo retirar en Codere: cobro online y en efectivo | Codere®",
+      "description": "Aprende cómo retirar tus ganancias en Codere: cobros online o en efectivo, métodos disponibles, requisitos, tiempos de pago y qué hacer si tu retiro falla."
+    },
+    "top": {
+      "title": "Cómo cobrar tus ganancias en Codere de forma fácil y segura",
+      "description": "En Codere cobrar tus ganancias es rápido, seguro y sin complicaciones. Ya sea que prefieras hacerlo en línea o en efectivo, siempre tendrás opciones disponibles para disponer de tu dinero en cuestión de minutos."
+    },
+    "content": [
+      {
+        "title": "Retiro online: tu saldo siempre disponible",
+        "description": "El dinero que tengas en tu cuenta online estará siempre listo para retirarse. Solo tienes que ingresar a tu perfil y seleccionar la opción \"Retiro\".",
+        "subcontent": [
+          {
+            "title": "Métodos de retiro online disponibles",
+            "description": "Actualmente puedes retirar tus ganancias mediante:"
           },
-          "top": {
-            "title": "Cómo cobrar tus ganancias en Codere de forma fácil y segura",
-            "description": "En Codere cobrar tus ganancias es rápido, seguro y sin complicaciones. Ya sea que prefieras hacerlo en línea o en efectivo, siempre tendrás opciones disponibles para disponer de tu dinero en cuestión de minutos."
+          {
+            "title": "SPEI Transferencia",
+            "description": "Recibe tu dinero directamente en tu cuenta bancaria. Solo tienes que seleccionar el monto y una de las cuentas que ya tengas verificadas en tu perfil. Si prefieres agregar una nueva cuenta, podrás hacerlo, pero deberás enviarnos por correo electrónico un comprobante de titularidad de esa cuenta para que podamos verificarla."
           },
-          "content": [
-            {
-              "title": "Retiro online: tu saldo siempre disponible",
-              "description": "El dinero que tengas en tu cuenta online estará siempre listo para retirarse. Solo tienes que ingresar a tu perfil y seleccionar la opción \"Retiro\".",
-              "subcontent": [
-                {
-                  "title": "Métodos de retiro online disponibles",
-                  "description": "Actualmente puedes retirar tus ganancias mediante:",
-                  "ul": [
-                    "SPEI Transferencia: recibe tu dinero directo en tu cuenta bancaria.",
-                    "Oxxo efectivo: cobra en tu tienda OXXO de manera práctica y cercana.",
-                    "Tarjeta Círculo Premia: retira tus fondos fácilmente a tu tarjeta.",
-                    "Local Codere: acude a un punto autorizado para retirar en ventanilla.",
-                    "AstroPay: cobra de manera digital con rapidez y seguridad."
-                  ]
-                }
-              ]
-            },
-            {
-              "title": "Retiro por transferencia bancaria (método en proceso de reemplazo)",
-              "description": "Aunque está siendo sustituido, este método sigue disponible en algunos casos. Para usarlo:",
-              "ul": [
-                "Inicia sesión y dirígete a \"Cobrar online > Transferencia bancaria\".",
-                "Ingresa el nombre del titular de la cuenta bancaria (debe coincidir con tu cuenta Codere).",
-                "Escribe la CLABE de 18 dígitos.",
-                "Indica el monto que deseas cobrar y confirma la solicitud.",
-                "El departamento de seguridad revisará tu solicitud y en 2 a 3 días hábiles tendrás el dinero en tu cuenta corriente."
-              ],
-              "subcontent": [
-                {
-                  "title": "Importante",
-                  "description": "La primera vez que uses este método, deberás enviar un comprobante bancario (recibo de luz, internet, celular, etc.) con tu nombre completo y el número de cuenta destino."
-                }
-              ]
-            },
-            {
-              "title": "Retiro en Book: cobra en efectivo al instante",
-              "description": "Si ya completaste tu verificación documental, podrás retirar dinero directamente en cualquier Book autorizado:",
-              "ul": [
-                "Ingresa a tu cuenta desde el celular.",
-                "Selecciona \"Cobro en Book\" en el menú.",
-                "Introduce el monto a retirar (mínimo $10 MXN).",
-                "Obtén tu código de barras y muéstralo junto a tu identificación oficial (INE o pasaporte).",
-                "Recibe el efectivo de inmediato en ventanilla."
-              ]
-            },
-            {
-              "title": "Cómo habilitar los cobros en tu cuenta",
-              "description": "Para habilitar las opciones de retiro, es necesario estar verificado documentalmente.",
-              "ul": [
-                "Si ya lo estás, pero no aparecen los métodos disponibles, contacta con Atención al Cliente para que gestionen tu solicitud."
-              ]
-            },
-            {
-              "title": "¿Cuánto tarda en pagar Codere?",
-              "description": "Los tiempos de pago dependen del método elegido:",
-              "ul": [
-                "Retiro en efectivo o local Codere: inmediato tras la validación.",
-                "Retiro online (SPEI, AstroPay, Oxxo efectivo, tarjeta Círculo Premia): puede ser inmediato o tardar algunos días según el método y la revisión de seguridad."
-              ]
-            },
-            {
-              "title": "Qué hacer si tu cobro no se realizó correctamente",
-              "ul": [
-                "Revisa si el saldo regresó automáticamente a tu cuenta de juego.",
-                "Si no aparece, contacta de inmediato con nuestro equipo de Atención al Cliente para resolver la incidencia cuanto antes."
-              ]
-            }
-          ]
-        }
+          {
+            "title": "Oxxo efectivo",
+            "description": "Cobra en tu tienda OXXO de manera práctica y cercana. Solo tienes que ingresar el monto que deseas retirar. Una vez confirmada la solicitud, recibirás un código en el correo electrónico registrado en tu perfil de Codere."
+          },
+          {
+            "title": "Tarjeta Círculo Premia",
+            "description": "Retira tus fondos fácilmente a tu tarjeta. Primero debes tener una tarjeta Círculo Premia, o tarjeta Codere, asociada a tu cuenta. Luego, solo tienes que ingresar el monto que deseas retirar y confirmar la operación. El saldo se transferirá directamente a tu tarjeta Círculo Premia."
+          },
+          {
+            "title": "Local Codere",
+            "description": "Acude a un punto autorizado para retirar en ventanilla. Solo tienes que ingresar el monto que deseas retirar y confirmar la solicitud. Luego, deberás acercarte a un local Codere para recibir el saldo solicitado. Una vez realizada la solicitud, recibirás un código de identificación por SMS o en el correo electrónico registrado en tu cuenta, que deberás presentar en el local para completar el cobro."
+          },
+          {
+            "title": "AstroPay",
+            "description": "Cobra de manera digital con rapidez y seguridad. Para retirar mediante AstroPay, debes tener una cuenta activa en la plataforma y utilizar el mismo número de teléfono registrado tanto en tu perfil de Codere como en AstroPay. Una vez cumplidos estos requisitos, podrás realizar tu retiro de forma sencilla y segura."
+          }
+        ]
+      },
+      {
+        "title": "Retiro por transferencia bancaria",
+        "ul": [
+          "Inicia sesión y dirígete a \"Cobrar online > Transferencia bancaria\".",
+          "Ingresa el nombre del titular de la cuenta bancaria, que debe coincidir con tu cuenta Codere.",
+          "Escribe la CLABE de 18 dígitos.",
+          "Indica el monto que deseas cobrar y confirma la solicitud.",
+          "El departamento de seguridad revisará tu solicitud y en 2 a 3 días hábiles tendrás el dinero en tu cuenta corriente."
+        ],
+        "subcontent": [
+          {
+            "title": "Importante",
+            "description": "La primera vez que uses este método, deberás enviar un comprobante bancario (recibo de luz, internet, celular, etc.) con tu nombre completo y el número de cuenta destino."
+          }
+        ]
+      },
+      {
+        "title": "Retiro en Book: cobra en efectivo al instante",
+        "description": "Si ya completaste tu verificación documental, podrás retirar dinero directamente en cualquier Book autorizado:",
+        "ul": [
+          "Ingresa a tu cuenta desde el celular.",
+          "Selecciona \"Cobro en Book\" en el menú.",
+          "Introduce el monto a retirar (mínimo $10 MXN).",
+          "Obtén tu código de barras y muéstralo junto a tu identificación oficial (INE o pasaporte).",
+          "Recibe el efectivo de inmediato en ventanilla."
+        ]
+      },
+      {
+        "title": "Cómo habilitar los cobros en tu cuenta",
+        "description": "Para habilitar las opciones de retiro, es necesario estar verificado documentalmente.",
+        "ul": [
+          "Si ya lo estás, pero no aparecen los métodos disponibles, contacta con Atención al Cliente para que gestionen tu solicitud."
+        ]
+      },
+      {
+        "title": "¿Cuánto tarda en pagar Codere?",
+        "description": "Los tiempos de pago dependen del método elegido:",
+        "ul": [
+          "Retiro en efectivo o local Codere: inmediato tras la validación.",
+          "Retiro online (SPEI, AstroPay, Oxxo efectivo, tarjeta Círculo Premia): puede ser inmediato o tardar algunos días según el método y la revisión de seguridad."
+        ]
+      },
+      {
+        "title": "Qué hacer si tu cobro no se realizó correctamente",
+        "ul": [
+          "Revisa si el saldo regresó automáticamente a tu cuenta de juego.",
+          "Si no aparece, contacta de inmediato con nuestro equipo de Atención al Cliente para resolver la incidencia cuanto antes."
+        ]
       }
+    ]
+  }
     }
+  }
   },
   "atencion-cliente": {
     "id": "Atención al cliente",
@@ -2432,100 +2471,606 @@
           ]
         }
       },
-      "terms-and-conditions": {
-        "id": "terms-and-conditions",
-        "label": "Términos y condiciones",
-        "url": "/ayuda/legal/terminos-y-condiciones",
-        "page": {
-          "seo": {
-            "title": "Términos de uso y condiciones generales | Codere®",
-            "description": "Consulta los Términos y Condiciones de Codere México: reglas de uso, apuestas, pagos, seguridad y juego responsable."
+"terms-and-conditions": {
+  "id": "terms-and-conditions",
+  "label": "Términos y condiciones",
+  "url": "/ayuda/legal/terminos-y-condiciones",
+  "page": {
+    "seo": {
+      "title": "Términos de uso y condiciones generales | Codere®",
+      "description": "Consulta los Términos y Condiciones de Codere México: reglas de uso, apuestas, pagos, seguridad y juego responsable."
+    },
+    "top": {
+      "title": "Términos y Condiciones de la Plataforma Codere.mx",
+      "description": "Al registrarse en nuestra plataforma, compuesta por un sitio de internet https://www.codere.mx y una aplicación para dispositivos móviles (en adelante la “Plataforma”), usted acepta de manera expresa y sin reservas todos los términos, condiciones y políticas aquí establecidos (en adelante los “Términos y Condiciones”), respecto de los cuales es titular, administra y opera Libros Foráneos, S.A de C.V. (en adelante la “Empresa”). Como operador responsable, queremos asegurar una experiencia de juego segura, transparente y justa para todos nuestros usuarios."
+    },
+    "content": [
+      {
+        "title": "1. Políticas generales",
+        "subcontent": [
+          {
+            "title": "1.1.",
+            "description": "La Empresa puede ofrecer el servicio de apuesta telefónica, telemática mediante conexión que no requiera internet o vía internet para recibir apuestas de eventos futuros con resultados por resolver. Dichos eventos podrían ser deportivos o carreras de caballos y galgos, entre otros. Para recibir dichos servicios, el cliente deberá signar de conformidad un contrato o solicitud, aceptando con ello las reglas de la prestación del servicio por parte de la Empresa."
           },
-          "top": {
-            "title": "Términos y condiciones de uso de Codere México",
-            "description": "Esta guía resume, en lenguaje claro, las políticas que rigen los juegos con apuesta y sorteos de Codere cuando participas por Internet, telefónicamente o mediante medios electrónicos en México. Aquí encontrarás cómo se presta el servicio, quién puede jugar, cómo se registran las transacciones, cómo se pagan premios, qué áreas de juego existen y qué hacer ante incidencias."
+          {
+            "title": "1.2.",
+            "description": "Los términos y condiciones del servicio, visibles en la Plataforma, son las normas, reglas y políticas establecidas por la Empresa, conforme a las cuales operan los juegos con apuesta y sorteos vía internet, telefónica o electrónica, siendo susceptibles de ser modificadas en cualquier momento y sin más aviso que una notificación posterior al respecto."
           },
-          "content": [
-            {
-              "title": "Políticas generales del servicio",
-              "description": "Codere puede ofrecer apuestas por teléfono, por medios telemáticos que no usan Internet y por Internet para eventos futuros con resultado por resolver, como deportes, carreras de caballos y galgos. Para usar estos servicios debes suscribir previamente un contrato o solicitud y aceptar las reglas de prestación del servicio. Los Términos y Condiciones del Portal son las normas que rigen los juegos y sorteos por estos canales y pueden modificarse sin previo aviso. El sistema de control interno asegura la inviolabilidad y evita la manipulación de apuestas y sorteos.*Se emplea tecnología actualizada para garantizar que las participaciones se realicen dentro del territorio nacional; el Portal registra tu IP, puede emplear cookies y, con fines de verificación, registrar la dirección MAC del dispositivo. Todas las apuestas, información de manejo, bolsas, premios y pagos se reflejan en pesos mexicanos."
-            },
-            {
-              "title": "Requisitos del usuario y registro",
-              "description": "Para participar debes ser mayor de 18 años o la edad mínima legal aplicable. Al registrarte aceptas previamente las condiciones del servicio. El registro se realiza en el sistema principal completando el formulario con los datos de tu INE o, si no cuentas con ella, tu pasaporte (solo válido si eres mayor de edad).*Solo puedes tener una cuenta activa (telefónica, telemática o por Internet) y debes conectarte o llamar desde ciudades donde apostar por teléfono esté permitido. También debes contar con saldo suficiente. Estás obligado a mantener tus datos actualizados (domicilio, teléfono, correo) desde el Portal."
-            },
-            {
-              "title": "Acceso, seguridad y uso de la cuenta",
-              "description": "Tu cuenta es personal e intransferible. Usuario y contraseña son confidenciales; eres responsable de su uso. Para apuestas telefónicas podrás ser verificado con usuario y PIN, y la Empresa puede implementar autenticación biométrica u otros métodos de mayor seguridad.*Está prohibido abrir cuentas mediante interpósita persona. Toda la información que proporciones es confidencial y se trata conforme al Aviso de Privacidad. Tras revisar tu apuesta, debes confirmarla en el sistema; asegúrate de que fue registrada correctamente. Una vez confirmada, no se aceptan cambios ni reclamaciones."
-            },
-            {
-              "title": "Depósitos, retiros, pago de apuestas y cobro de premios",
-              "description": "Puedes usar el sistema siempre que tengas saldo a favor; tu saldo está disponible para consulta. Los depósitos y retiros se realizan con medios de pago seguros y autorizados en México. Si el retiro supera el equivalente a $65,000 MXN, notifícalo con 48 horas hábiles de anticipación.*Para cumplir con normas antilavado y mejores prácticas corporativas, Codere puede solicitar acreditación de identidad y referencias del origen de fondos. Los premios y reembolsos se abonan al saldo una vez descontados gastos e impuestos correspondientes; podrá aplicar un cargo por administración de riesgo de hasta el 20% del valor del premio pagado. No se permiten transferencias de saldo entre cuentas de distintos usuarios."
-            },
-            {
-              "title": "Condición de apuesta mínima para retiros en canal Internet",
-              "description": "Para retirar saldos del canal digital, debes haber apostado al menos el 50% del dinero depositado a lo largo de tu histórico en cualquiera de los productos disponibles. Las solicitudes de retiro que no cumplan esta condición serán denegadas."
-            },
-            {
-              "title": "Sistema Central y resguardo de información",
-              "description": "El Registro de Cuentas de Participante y Transacciones, y el Sistema de Juegos/Sorteos/Apuestas, se alojan dentro de México, con requisitos técnicos y de seguridad de alto nivel. No se ubicarán fuera del país y los datos personales se tratan conforme a la ley mexicana. SEGOB y el SAT pueden monitorear estos sistemas."
-            },
-            {
-              "title": "Áreas y pantallas de juego disponibles",
-              "subcontent": [
-                {
-                  "title": "Bingo clásico (Yak)",
-                  "description": "Partidas (sorteos de números) con combinaciones/patrones ganadores detallados en pantalla. El premio a repartir depende de participantes o cartones vendidos. Puedes comprar cartones para la siguiente, una en específico o varias consecutivas."
-                },
-                {
-                  "title": "Video Bingo activo",
-                  "description": "Premios fijos según patrones conseguidos durante la extracción de bolas numeradas. La partida dura pocos segundos y puede participar uno o varios jugadores."
-                },
-                {
-                  "title": "Máquinas de video rodillos (slots)",
-                  "description": "Premios según combinaciones de símbolos tras el sorteo de números. Partidas de pocos segundos con un participante por juego. Variantes por número de líneas, montos mínimos por combinación, combinaciones opcionales, segundos premios, acumulados y bonos."
-                },
-                {
-                  "title": "Juegos clásicos",
-                  "description": "Apuestas en juegos tradicionales como dados y otras variedades de apuesta fija a números, colores, docenas, tercios, columnas, cruces y diagonales."
-                },
-                {
-                  "title": "Juegos de momios fijos",
-                  "description": "Apuestas a juegos de cuota fija, con visualización digital o imágenes reales, reglas y esquemas de premios explicados en pantallas informativas bajo solicitud."
-                },
-                {
-                  "title": "Apuesta deportiva",
-                  "description": "Apuestas a eventos de fútbol, futbol americano, basquetbol, béisbol, hockey, tenis, automovilismo, box, carreras de caballos y galgos, eSports, entre otros. Puedes apostar a eventos en vivo o futuros. Se permiten combinadas de distintos eventos futuros y el resultado final de una apuesta combinada se contabiliza al concluir el último evento."
-                }
-              ]
-            },
-            {
-              "title": "Resultados, RNG y celebración de juegos",
-              "description": "Para juegos con apuesta y sorteos (excepto Apuesta Deportiva), los resultados se generan mediante un Generador de Números Aleatorios (RNG) insertado en el sistema/servidor, certificado por laboratorios especializados y conforme a los procesos de Evaluación de la Conformidad dictados por la autoridad (SEGOB y/o Secretaría de Economía). Esto garantiza aleatoriedad y equidad."
-            },
-            {
-              "title": "Devoluciones e incidencias técnicas",
-              "description": "Si durante un sorteo ocurre un fallo o avería en terminales, teléfonos o aparatos, el sorteo se suspende y se devuelve a las cuentas el importe íntegro de las apuestas en juego. El Sistema Central genera un registro de la incidencia por 10 días para posibles reclamaciones. Todos los pagos procedentes de malfuncionamiento del sistema serán anulados."
-            },
-            {
-              "title": "Exención de responsabilidad sobre contenidos de terceros",
-              "description": "Codere puede dar acceso a información de terceros (livescores, resultados, transmisiones de video, etc.). No asume responsabilidad por errores en exactitud, integridad o actualidad de estos contenidos y puede corregir a posteriori errores o fallos."
-            },
-            {
-              "title": "Juego responsable y soporte al usuario",
-              "description": "No se admite la participación de menores de edad. Puedes cancelar tu cuenta cuando quieras; tras la cancelación, no se permitirá un nuevo registro hasta pasadas 24 horas. Puedes definir límites de depósito diarios, semanales o mensuales como medida de autocontrol. La Empresa dispone de un centro de atención telefónica y un sistema de autoexclusión."
-            },
-            {
-              "title": "Buenas prácticas para jugar seguro",
-              "description": "Confirma siempre tu apuesta antes de Aceptar; una vez confirmada, no admite cambios. Mantén actualizados tus datos y protege tu contraseña. Verifica tus retiros cumpliendo la condición de apuesta mínima del canal Internet. Revisa con antelación retiros superiores a $65,000 MXN. Conserva tus comprobantes electrónicos y número de folio."
-            },
-            {
-              "title": "Resumen para empezar hoy",
-              "description": "Regístrate, verifica tu identidad, deposita con métodos autorizados, confirma tus apuestas y consulta resultados oficiales desde tu cuenta. Tus fondos están segregados, tus transacciones se registran en México y los juegos usan RNG certificado cuando aplica. Ante dudas o incidencias, tienes soporte, devoluciones por fallos y reglas claras para cada modalidad."
-            }
-          ]
-        }
+          {
+            "title": "1.3.",
+            "description": "La Empresa cuenta con un sistema de control interno para las transacciones que se efectúen por vía internet, telefónica o electrónica, que asegura su inviolabilidad e impide la manipulación de los sistemas de apuestas y/o sorteos."
+          },
+          {
+            "title": "1.4.",
+            "description": "La Empresa utilizará la tecnología más actualizada disponible en el mercado con el fin de garantizar que las apuestas o participaciones en los sorteos sean realizadas dentro del territorio nacional."
+          },
+          {
+            "title": "1.5.",
+            "description": "La Plataforma registrará la dirección IP de la terminal conectada a internet mediante el uso de métodos de identificación y seguridad, tales como “cookies”. Asimismo, la Plataforma podrá registrar la dirección MAC de la terminal de donde se está conectando con fines de verificación."
+          },
+          {
+            "title": "1.6.",
+            "description": "La Empresa se reserva el derecho de no permitir el acceso a un usuario."
+          },
+          {
+            "title": "1.7.",
+            "description": "El costo de conexión a internet o del uso de transmisión de datos en que incurra el usuario para acceder a la Plataforma será por cuenta de éste."
+          },
+          {
+            "title": "1.8.",
+            "description": "Para participar, el usuario deberá acceder a la aplicación del juego a través de su sistema de telefonía celular o bien, por medio del sitio de internet https://www.codere.mx. El sistema central verificará que la ubicación o generación de la conexión se efectúe dentro del territorio de los Estados Unidos Mexicanos, así como la autenticación del usuario. Las direcciones de internet que use la Empresa y que encaminen a uno o más sitios de internet deberán corresponder a dominios registrados bajo “.com.mx” y/o “.mx”. Para la prestación del servicio, la Empresa comunicará oportunamente los nombres completos de las direcciones de internet que vaya a usar o use en cada momento."
+          },
+          {
+            "title": "1.9.",
+            "description": "Todas las apuestas serán en moneda nacional. Toda la información de manejos, bolsas, premios, pagos y apuestas será reflejada en pesos mexicanos."
+          }
+        ]
       },
+      {
+        "title": "2. Del Usuario",
+        "subcontent": [
+          {
+            "title": "2.1.",
+            "description": "Para participar en los juegos con apuestas y sorteos vía internet, telefónica o electrónica, el participante, al momento de su registro deberá obligatoriamente ser mayor de 18 años o con la edad mínima que las leyes señalen para poder usar dicho servicio de tiempo en tiempo."
+          },
+          {
+            "title": "2.2.",
+            "description": "En caso de que algún usuario se haya registrado en la Plataforma antes de cumplir la edad mencionada en el párrafo inmediato anterior y al momento de la verificación documental de su cuenta dentro de la Plataforma, se advierta que aportó información falsa en su registro, se procederá con la cancelación de su cuenta de forma inmediata y el saldo de su cuenta podrá ser retenido por la Empresa hasta en tanto la autoridad ordene su devolución."
+          },
+          {
+            "title": "2.3.",
+            "description": "Al momento de su registro, el participante deberá aceptar los presentes Términos y Condiciones, conforme a los cuales se operan los juegos con apuestas y sorteos vía internet, telefónica o electrónicamente, mismos que se detallan en estas esta Plataforma, a los cuales el participante se sujeta y obliga a cumplir desde el momento en que realice su registro y mismos que estarán en todo momento disponibles para su consulta en la Plataforma."
+          },
+          {
+            "title": "2.4.",
+            "description": "Para ser usuario, la persona deberá registrarse en la Plataforma llenando el formulario que la Empresa ha dispuesto para tal fin, cumplimentando los campos con información que, bajo protesta de decir verdad, será correcta y verificable mediante identificación oficial que contenga fotografía de la persona, tal como credencial para votar o pasaporte."
+          },
+          {
+            "title": "2.5.",
+            "description": "Para registrarse y utilizar la Plataforma, la persona al momento de su registro deberá:",
+            "ul": [
+              "(a) Ser persona física con 18 años o más cumplidos en la fecha de su registro.",
+              "(b) Actuar en nombre propio.",
+              "(c) Proporcionar información veraz, completa y actualizada.",
+              "(d) Utilizar fondos propios para depositar a su cuenta dentro de la Plataforma y retirarlos únicamente a cuentas o tarjetas bancarias propias.",
+              "(e) No haber tenido cuenta suspendida dentro de la Plataforma ni haber realizado contracargos a su tarjeta bancaria.",
+              "(f) Permitir la validación de identidad mediante fotografía, así como el envío de documentos cuando la Empresa lo requiera."
+            ]
+          },
+          {
+            "title": "2.6.",
+            "description": "El usuario deberá facilitar datos veraces, exactos y completos de su identidad, así como mantener los datos de su registro y cuenta actualizados."
+          },
+          {
+            "title": "2.7.",
+            "description": "Sólo se permitirá el registro como usuarios a personas debidamente identificadas."
+          },
+          {
+            "title": "2.8.",
+            "description": "Para hacer uso del servicio otorgado por la Empresa, y que por tanto, la persona adquiera su calidad de usuario, deberá haberse registrado con información correcta y haber aceptado los Términos y Condiciones, por lo que para todos los efectos a los que haya lugar, antes de ello, no podrá ser considerado usuario, cliente, consumidor o cualquier categoría análoga, respecto de la Empresa o cualquiera de sus subsidiarias y/o afiliadas."
+          },
+          {
+            "title": "2.9.",
+            "description": "El usuario acepta que los Servicios se ofrecen exclusivamente dentro del territorio de los Estados Unidos Mexicanos y sólo podrán utilizarlos quienes se encuentren físicamente en México, con métodos de pago aceptados en el país y cumplan con los requisitos de identificación y verificación aplicables. El uso de VPN, proxies o tecnologías de ocultamiento de ubicación está prohibido."
+          },
+          {
+            "title": "2.10.",
+            "description": "La Empresa podrá anular apuestas realizadas desde otros territorios fuera de México. Los depósitos efectuados desde el extranjero podrán ser devueltos al medio de origen deduciendo una cuota administrativa razonable, así como los cargos bancarios aplicables. Las ganancias obtenidas desde ubicaciones distintas a los Estados Unidos Mexicanos no serán pagaderas y la cuenta podrá ser bloqueada."
+          },
+          {
+            "title": "2.11.",
+            "description": "En caso de solicitar el retiro de fondos a una cuenta bancaria en el extranjero, el usuario acepta el cobro a su cargo de cualquier gasto o comisión que por dicha transferencia se origine."
+          },
+          {
+            "title": "2.12.",
+            "description": "El usuario sólo podrá tener una cuenta activa, ya sea telefónica o telemáticamente o vía internet, por lo que, en caso de que sea detectada duplicidad de cuentas o más, será inmediatamente cancelada la cuenta de más reciente creación."
+          },
+          {
+            "title": "2.13.",
+            "description": "La apertura y el uso de la cuenta están limitados a una sola cuenta por persona. No podrán registrarse ni utilizar los Servicios los empleados, directivos, consultores o agentes de Codere.mx, sus afiliadas o proveedores relevantes, ni sus familiares directos."
+          },
+          {
+            "title": "2.14.",
+            "description": "Para poder realizar alguna apuesta o jugar dentro de la Plataforma, el usuario deberá tener saldo suficiente en su cuenta para realizar las apuestas solicitadas."
+          },
+          {
+            "title": "2.15.",
+            "description": "El usuario se obliga a notificar a la Empresa sobre cualquier cambio en los datos proporcionados, tales como dirección, teléfono o cuentas de correo electrónico, actualizándolos en la Plataforma."
+          },
+          {
+            "title": "2.16.",
+            "description": "La Empresa se reserva en todo momento el derecho de dar por concluida la participación del usuario a través de este sistema de juegos con apuestas y sorteos, quedando obligada únicamente a devolver la cantidad total del saldo que tenga el usuario, excepto si, por razones justificadas tuviera la necesidad u obligación de retener fondos."
+          },
+          {
+            "title": "2.17.",
+            "description": "En todo momento, el usuario podrá avisar a la Empresa su voluntad de no participar en los juegos con apuestas y sorteos, de conformidad con la política de Juego Responsable establecida para tales efectos por la Empresa, quedando la Empresa obligada únicamente a devolver la cantidad total del saldo que tenga el usuario disponible en su cuenta al momento de realizar la exclusión del usuario. En ambos casos, la Empresa podrá descontar los costes financieros que conlleven dichas operaciones, así como los impuestos que en su caso sean aplicables."
+          }
+        ]
+      },
+      {
+        "title": "3. Acceso y Uso del Sistema",
+        "subcontent": [
+          {
+            "title": "3.1.",
+            "description": "El usuario acepta que su cuenta es de uso exclusivo y personal. El nombre de usuario y contraseña con los que accede a la Plataforma son confidenciales, personales e intransferibles, por lo que no podrá cederlos a otra persona, siendo el único responsable por el uso de las mismas, por lo que la Empresa no aceptará reclamación alguna por el mal uso que el usuario haga de su información confidencial."
+          },
+          {
+            "title": "3.2.",
+            "description": "El usuario se deberá identificar con su nombre de usuario (o bien con su número de cuenta) y contraseña, lo cual será en todo momento responsabilidad del usuario. Para apuestas vía telefónica, el cliente podrá ser verificado con su nombre de usuario y número PIN telefónico. La Empresa podrá, eventualmente, implementar métodos de identificación biométricos o de otras características que otorguen mayor seguridad en los procesos de identificación y validación del usuario."
+          },
+          {
+            "title": "3.3.",
+            "description": "La contraseña deberá ser una combinación alfanumérica escogida por el usuario, puede ser una palabra, números, o combinación de ambos."
+          },
+          {
+            "title": "3.4.",
+            "description": "El precio de uso del sistema y de los juegos, en caso de aplicarlo la Empresa, también quedará establecido y aparecerá en las pantallas."
+          },
+          {
+            "title": "3.5.",
+            "description": "Queda estrictamente prohibido el que el usuario abra una cuenta a través de interpósita persona."
+          },
+          {
+            "title": "3.6.",
+            "description": "Toda información recibida por la Empresa por parte del usuario se considera confidencial y será tratada como tal, para lo cual el usuario deberá leer y estar de acuerdo con el Aviso de Privacidad para la Protección de sus Datos Personales, mismo que aparecerá en la Plataforma al momento de su registro y estará disponible en la misma en todo momento para su consulta. La Empresa no proporcionará información alguna sobre los movimientos, saldos o información del usuario salvo mandato de la autoridad judicial o administrativa, o que de otra forma sea requerida en términos de un contrato para fines de la operación de la Plataforma, pero en cualquier caso dicha información será mantenida como confidencial."
+          },
+          {
+            "title": "3.7.",
+            "description": "Una vez revisada la apuesta por el usuario, éste deberá confirmar la apuesta en el sistema. El usuario tendrá la responsabilidad de cerciorarse de que sus apuestas hayan sido bien entendidas y/o registradas, confirmando al final del proceso mediante ‘clic”. Una vez confirmada la apuesta, la Empresa no aceptará cambios o reclamaciones subsecuentes."
+          },
+          {
+            "title": "3.8.",
+            "description": "En el sistema quedará registrado, el número de cuenta e identidad del cliente, así como la fecha, hora, número de transacción, la cantidad apostada y la selección solicitada por el usuario."
+          }
+        ]
+      },
+      {
+        "title": "4. Depósitos y retiros, pago de apuestas y cobro de premios",
+        "subcontent": [
+          {
+            "title": "4.1.",
+            "description": "El usuario podrá hacer uso del sistema siempre y cuando tenga saldo positivo en su cuenta dentro de la Plataforma, la cual estará siempre disponible para ser consultada por él."
+          },
+          {
+            "title": "4.2.",
+            "description": "Para participar, el usuario podrá utilizar cualquier medio de pago seguro y autorizado para operar en México de entre los ofrecidos por la Empresa."
+          },
+          {
+            "title": "4.3.",
+            "description": "El usuario podrá depositar y retirar dinero de su cuenta en cualquier establecimiento de la Empresa previa solicitud. Si el retiro fuera mayor a $65,000.00 pesos, deberá notificarlo a la Empresa con 48 horas hábiles de anticipación. Asimismo, el usuario podrá utilizar establecimientos asociados y cualquier medio electrónico seguro de los que operan en los Estados Unidos Mexicanos ofrecidos por la Empresa."
+          },
+          {
+            "title": "4.4.",
+            "description": "La Empresa podrá solicitar al usuario en cualquier momento diversas formas de acreditación y/o referencias tanto de su persona como del dinero depositado, con el fin de cumplir con los estándares y disposiciones legales vigentes contra el lavado de dinero, por lo que en caso de que el usuario no las aporte, la Empresa podrá suspender la cuenta del usuario de forma temporal o indefinida."
+          },
+          {
+            "title": "4.5.",
+            "description": "Una vez verificado el pago, el sistema central le informará al usuario del saldo con el que cuenta y las modalidades de juegos con apuesta y sorteos que se ofrezcan, las instrucciones y tabla de pagos con carácter general en español."
+          },
+          {
+            "title": "4.6.",
+            "description": "La Empresa ingresará los depósitos de las cuentas de los participantes en una cuenta corriente de banco dentro del territorio nacional que identificará oportunamente a la Secretaría de Gobernación. La cuenta de depósito de saldos de cuentas de participantes se conciliará diariamente."
+          },
+          {
+            "title": "4.7.",
+            "description": "Dichos depósitos (fondos), deberán en todo momento, permanecerán segregados de cualesquiera fondos operativos de la Empresa y en todos los casos deberán permanecer dentro de México."
+          },
+          {
+            "title": "4.8.",
+            "description": "La Empresa descontará automáticamente del saldo del usuario el costo de las apuestas al momento de su realización y confirmación. Al declararse los resultados oficiales, en caso de ser ganador, la Empresa depositará en la cuenta del usuario dentro de la Plataforma la cantidad del premio."
+          },
+          {
+            "title": "4.9.",
+            "description": "La Empresa no se hará responsable de apuestas no confirmadas por el sistema central, ni de su pago."
+          },
+          {
+            "title": "4.10.",
+            "description": "En caso de que la comunicación se haya cortado o el vínculo con la página se haya roto al momento de realizar la Apuesta, será responsabilidad del usuario confirmar si se realizó dicha transacción."
+          },
+          {
+            "title": "4.11.",
+            "description": "En las apuestas y/o sorteos vía internet, telefónica o electrónica no se emitirá boleto, la información de las apuestas y/o sorteos quedará registrada en el sistema, inmediatamente después de haberse realizado. Se podrán generar comprobantes electrónicos y ser enviados al usuario por algún método de comunicación electrónica directa, en función de las reglas específicas de alguno de los sorteos o apuestas disponibles."
+          },
+          {
+            "title": "4.12.",
+            "description": "El usuario tendrá siempre opción de acceso para consulta e impresión, a una constancia con su número de folio y de los derechos que le correspondan."
+          },
+          {
+            "title": "4.13.",
+            "description": "Los premios no serán pagados hasta que se declaren todos los resultados de los eventos en base a las políticas de apuesta. El sistema acreditará automáticamente al saldo del participante la cantidad de dinero que gane en dicho juego con apuesta o sorteo."
+          },
+          {
+            "title": "4.14.",
+            "description": "El pago de las apuestas ganadoras y los reembolsos que procedan según las políticas, se realizarán abonando la cantidad ganadora descontando los gastos e impuestos correspondientes al saldo de la cuenta del usuario."
+          },
+          {
+            "title": "4.15.",
+            "description": "La Empresa podrá trasladar, cobrar o retener al usuario los impuestos federales o locales que resulten aplicables, de conformidad con las leyes, reglamentos y resoluciones judiciales o administrativas."
+          },
+          {
+            "title": "4.16.",
+            "description": "La Empresa podrá cobrar al usuario un cargo o tarifa por el acceso a la Plataforma y/o a contenidos, juegos o transmisiones en vivo disponibles en ésta."
+          },
+          {
+            "title": "4.17.",
+            "description": "El abono o rembolso de cualquier transacción podrá ser negado en caso de que aparezca como transacción pagada o no válida. No se permiten transferencias de saldos entre cuentas de distintos usuarios de la Plataforma."
+          },
+          {
+            "title": "4.18.",
+            "description": "Con el objetivo de mantener un entorno de juego y apuesta acorde con su propósito, los saldos de la cuenta de jugador podrán ser retirados solo bajo cumplimiento de las condiciones de apuesta mínimas de la Empresa en el canal internet."
+          },
+          {
+            "title": "4.19.",
+            "description": "Para el cumplimiento de las condiciones de retiro de fondos de la cuenta del usuario en el canal internet, se requiere haber apostado o puesto en juego al menos el 50% del dinero depositado en todo el histórico del usuario en el canal digital y en cualquiera de los productos disponibles. Las solicitudes de retiro de los saldos de cuenta de jugador que no cumplan esta condición serán denegadas."
+          },
+          {
+            "title": "4.20.",
+            "description": "Los saldos de la cuenta de usuario podrán ser retirados por éste, devolviéndolos la Empresa mediante transferencia a su cuenta bancaria o cobro en el banco establecimientos de la Empresa y otros asociados o por cualquier medio electrónico seguro de los que operan en México ofrecidos por la Empresa."
+          },
+          {
+            "title": "4.21.",
+            "description": "La Empresa podrá solicitar al usuario diversas formas de acreditación y/o referencias tanto de su persona como del dinero depositado con el fin de cumplir con los estándares establecidos para las Empresas listadas en la Bolsa Mexicana de Valores, S.A. de C.V., así como por el Código de Mejores Prácticas Corporativas adoptado por la misma, con el objeto de prevenir operaciones con recursos de procedencia ilícita."
+          },
+          {
+            "title": "4.22.",
+            "description": "La ganancia máxima por apuesta sencilla dentro de la Plataforma será de $1,500,000.00 (un millón quinientos mil pesos 00/100 Moneda Nacional). El límite también podrá aplicar de forma agregada cuando la Empresa detecte que varias cuentas o personas actúan en conjunto o que múltiples apuestas equivalen, en sustancia, a la misma operación. Si las ganancias superaran el monto establecido como máximo, sólo se pagará hasta ese límite. La Empresa puede establecer límites adicionales dependiendo del tipo de juego. La Empresa contará en todo momento con el derecho de retener o limitar de cualquier forma el pago de una apuesta si sospecha que se ha cometido fraude, vulneración de sus sistemas, amaño o alguna trampa para obtener un beneficio indebido."
+          }
+        ]
+      },
+      {
+        "title": "5. Sistema central",
+        "subcontent": [
+          {
+            "title": "5.1.",
+            "description": "El registro de cuentas, así como de depósitos, retiros y todo tipo de transacciones económicas, incluyendo la admisión y gestión de participantes y de sus cuentas de contabilización de ingresos de cantidades destinadas a participar en los sorteos o juegos con apuesta y los premios obtenidos, así como el seguimiento de cobros y pagos, estará instalado dentro del territorio de los Estados Unidos Mexicanos (México), en el lugar que al efecto señale la Empresa oportunamente, reuniendo los más altos requisitos técnicos y de seguridad para albergar este tipo de sistemas y sus telecomunicaciones. En ningún caso se situará este registro de cuentas de participante y transacciones fuera del territorio de los Estados Unidos Mexicanos."
+          },
+          {
+            "title": "5.2.",
+            "description": "Tanto el registro de cuentas de los usuarios y transacciones como el sistema de juegos, sorteos y apuestas podrán ser monitoreados por la Secretaría de Gobernación así como por el Sistema de Administración Tributaria (SAT). A su vez el registro de cuentas y transacciones, mediante un Proveedor de Servicios Autorizado (PSA), o conforme al procedimiento que las Normas, Leyes y/o Reglamentos vigentes dictaminen al respecto."
+          },
+          {
+            "title": "5.3.",
+            "description": "Para recobrar los fallos o desastres que pudieran ocurrir, por accidente o catástrofe que afecte al Sistema del Registro de Cuentas del Participante y Transacciones Económicas de admisión y gestión de participantes y de sus cuentas, se ubicará uno o varios respaldos en sitios de seguridad alternos, bajo estricta vigilancia y control por parte de la Empresa, cumpliendo con los estándares y recomendaciones de seguridad en dicha materia."
+          }
+        ]
+      },
+      {
+        "title": "6. Áreas de juegos con apuesta y sorteos",
+        "description": "El participante accederá a cualquiera de las siguientes pantallas o salones virtuales a través del canal remoto de juegos con apuesta y sorteos de números:",
+        "subcontent": [
+          {
+            "title": "a) Pantallas de Bingo (Yak) Clásico",
+            "description": "Sorteo de Números parimutual, en donde se realiza una partida (sorteo de números) cada determinado tiempo, bajo las reglas de cada tipo de sorteo, que se explican detalladamente en las pantallas en las que se listan las combinaciones ganadoras o patrones posibles. El monto de premio a repartir dependerá del número de participantes o cartones vendidos. El participante tendrá opción a comprar cartones para la siguiente partida, para alguna partida en específico o para un determinado número de partidas consecutivas (por ejemplo, para las siguientes 10 partidas).",
+            "ul": [
+              "Características de la partida. Se pueden definir, por mencionar algunas: tipos de premios, patrones, costo del cartón, premio garantizado, número de cartones mínimos a comprar, si participa en algún acumulado en particular o general y número máximo de cartones en venta.",
+              "Los premios a repartir pueden variar entre las diferentes partidas según sus características: Línea, Dos Líneas, Cartón, 4 esquinas, Premio Extra o Premio Sembrado, Consolación.",
+              "Se puede ofrecer un acumulado o no, en ciertas partidas según las características de ésta. El acumulado se puede obtener al conformar un patrón en determinado número de extracciones. El monto del acumulado o proporción del mismo elegible, puede variar según la extracción obtenida."
+            ]
+          },
+          {
+            "title": "b) Pantalla de Video Bingo Activo",
+            "description": "Sorteo de números sobre combinaciones predeterminadas. Es donde el participante obtiene premios fijos dependiendo de los patrones conseguidos durante la extracción de un determinado número de bolas en las que se reflejan los números y en proporción a éstas.",
+            "ul": [
+              "La partida tiene una duración de pocos segundos y puede participar uno o varios jugadores.",
+              "El juego puede ofrecer o no, la opción de comprar bolas adicionales; al primer grupo de bolas a determinado precio, dependiendo de la ganancia potencial a la que puede ser acreedor el jugador, quien tendrá el poder de decidir si desea comprar las bolas extras ofrecidas o continuar la partida sin hacerlo.",
+              "Se pueden ofrecer diferentes tipos de juego, con diferentes opciones o patrones de premios, número de extracciones, etc. Los juegos pueden estar animados o caracterizados con alguna temática o gráficos y símbolos en particular con el fin de hacerlo más atractivo o entretenido.",
+              "Se pueden ofrecer uno o varios premios acumulados o bolsas, los cuales se podrán obtener al conformar un patrón en determinado número de extracciones. El monto del acumulado o proporción del mismo al que puede ser elegible puede variar según la participación realizada, con una participación de determinados fondos disponibles.",
+              "También pueden generarse aleatoriamente premios sorpresa a participantes que estén jugando, que han jugado o que han perdido o han ganado algún premio. En ese caso, el sistema hace constar la condición de premio sorpresa."
+            ]
+          },
+          {
+            "title": "c) Pantalla Máquinas Juegos de Video Rodillos",
+            "description": "Sorteos de números reflejados en símbolos. Es donde el participante obtiene premios con base en la combinación de figuras obtenidas durante el sorteo.",
+            "ul": [
+              "La partida tiene duración de pocos segundos y participa un solo jugador.",
+              "Se ofrecen tipos de juegos con diferentes opciones o características, el participante podrá elegir el que más le interese.",
+              "El juego normalmente está animado o caracterizado con alguna temática o gráficos con el fin de hacerlo más atractivo.",
+              "Las características que ofrecen los juegos podrán variar en cuanto al número de líneas o combinaciones con las cuales puede participar, monto mínimo de participación por combinación, opción a combinaciones y adicionales con la cual puede participar en un segundo premio, Acumulados, Bonos y tablas de premios."
+            ]
+          },
+          {
+            "title": "d) Pantalla de juegos clásicos",
+            "description": "Permite al participante hacer apuestas en juegos con apuestas tradicionales como los de dados en sus distintas modalidades y como en otras variedades de apuesta fija a números y colores o símbolos y sus agrupaciones en docenas, tercios así como sus posiciones en el conjunto, columnas, cruces, diagonales, etc. La visualización de los distintos juegos podrá efectuarse por medio de generación digital de gráficos o de visualización de imágenes reales que personalicen el juego con las reglas del juego que correspondan.",
+            "ul": [
+              "La partida tiene una duración de unos pocos segundos y participa un solo jugador.",
+              "Se ofrecen diferentes tipos de juegos con diferentes opciones o características, el participante podrá el que más le interese.",
+              "Las reglas de los juegos serán claramente indicadas en las pantallas explicativas mediante la selección de los pulsadores digitales habilitados en todo momento en las pantallas de juego.",
+              "El juego normalmente está animado o caracterizado con alguna temática o gráficos con el fin de hacerlo más atractivo."
+            ]
+          },
+          {
+            "title": "e) Pantalla de apuestas a juegos de Momios fijos",
+            "description": "Permite al participante hacer apuestas a juegos de Momios fijos. La visualización de los distintos juegos podrá efectuarse por medio de generación digital de gráficos o por medio de visualización de imágenes reales que personalicen el juego en cuestión, siempre con las reglas del juego que correspondan.",
+            "ul": [
+              "La partida tiene una duración de pocos segundos y participa un solo participante.",
+              "Se ofrecen diferentes tipos de juegos con diferentes opciones o características, el participante podrá elegir el que más le interese.",
+              "Las reglas de los juegos y los esquemas de premios que el participante puede obtener en función de sus elecciones de apuesta, serán claramente indicadas en las pantallas explicativas que se visualizarán al respecto, a expresa instrucción del participante, mediante la selección de los pulsadores digitales habilitados en todo momento en las pantallas de juego.",
+              "El juego normalmente está animado o caracterizado con alguna temática o gráficos con el fin de hacerlo más atractivo; podrán ofrecerse imágenes reales siempre que no varíen las reglas de los juegos publicitados y serán puestos a disposición del participante."
+            ]
+          },
+          {
+            "title": "f) Pantalla de apuesta deportiva",
+            "description": "Permite al participante hacer apuestas a diferentes eventos deportivos que se celebren alrededor del mundo, como: Fútbol, Fútbol Americano, Basquetbol, Béisbol, Hockey, Tenis, Automovilismo, Box, Carreras de Caballos, eSports, carreras de Galgos, entre otros. La visualización de los distintos eventos podrá efectuarse por medio de generación digital de gráficos sobre el evento o por medio de visualización de imágenes reales relativas a los juegos, eventos o competencias, siempre que se disponga de las mismas, con las reglas del juego que correspondan.",
+            "ul": [
+              "La apuesta podrá, de acuerdo a las reglas y momios, realizarse a eventos en proceso, cuyo resultado se dará normalmente en forma cercana en el tiempo, o bien a eventos futuros, en cuyo caso se especificará siempre la fecha y hora en la que el evento tendrá lugar. La actividad del participante y el resultado, es independiente de las apuestas que otros participantes realicen sobre los mismos eventos.",
+              "Se ofrecen diferentes tipos de opciones o características de apuestas, pudiéndose realizar apuestas combinadas a distintos tipos de eventos futuros; el participante podrá elegir el que más le interese.",
+              "Las reglas relativas a las apuestas y los potenciales premios que se podrán obtener, serán claramente indicados en las pantallas explicativas que se visualizarán al respecto, a expresa instrucción del participante, mediante la selección de los pulsadores digitales habilitados en las pantallas de juego.",
+              "Podrán visualizarse estadísticas de comportamiento de los equipos o individuos sobre los que se podrá apostar, que orienten al participante a tomar las decisiones que estime conveniente.",
+              "El resultado final de la apuesta se contabilizará a la finalización del último evento (en tiempo) que forme parte de la misma.",
+              "El participante tendrá acceso a toda la información relativa a sus apuestas y resultados de las mismas, mediante el acceso a su información en la Plataforma, pudiendo, a solicitud del mismo, recibir, en forma electrónica, los comprobantes de los movimientos y detalles asociados a su actividad.",
+              "Para efectos de apuesta deportiva, aplican las reglas y políticas dispuestas en el capítulo V de estas condiciones.",
+              "La Empresa se reserva el derecho de aceptar, negar o limitar la apuesta de acuerdo a los niveles de riesgo actual o potencial identificados."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Celebración de los juegos con apuesta y sorteos",
+        "description": "La resolución de los resultados ganadores para los Juegos con Apuesta y sorteos, a excepción de las Apuestas Deportivas, se producirán mediante la generación al azar de secuencias de números aleatorios por medio de un Generador de Números Aleatorios (GNA o RNG por sus siglas en inglés), mismo que estará inserto en el sistema informático de gestión de juegos o en el servidor. Este GNA estará certificado por alguno de los principales laboratorios especializados del mundo con el fin de garantizar su aleatoriedad, certificación que se ajustará a los procesos de evaluación de conformidad con lo que dicte la autoridad (Secretaría de Gobernación y/o Secretaría de Economía)."
+      },
+      {
+        "title": "8. Fallas o Averías",
+        "subcontent": [
+          {
+            "title": "8.1.",
+            "description": "Si durante la realización de un sorteo se producen fallos o averías en los aparatos que soportan la operación de la Plataforma, se suspenderá el sorteo y se procederá a devolver a las cuentas de los participantes el importe íntegro de las apuestas en juego. El sistema central generará un archivo o récord de la incidencia, que se mantendrá durante 10 días para el caso de que surja alguna reclamación."
+          },
+          {
+            "title": "8.2.",
+            "description": "Todos los pagos realizados procedentes de un malfuncionamiento del sistema no imputables al usuario, serán anulados."
+          }
+        ]
+      },
+      {
+        "title": "9. Exención de Responsabilidad",
+        "subcontent": [
+          {
+            "description": "Como parte del servicio prestado, la Empresa podrá darle acceso al usuario a información y contenidos diversos que obtenga de terceros proveedores (por ejemplo, marcadores en vivo o “Livescores”, resultados, transmisiones de vídeo, etc.) a través de su sitio de internet o bien podrá tener acceso a sitios de terceros afiliados que contengan dicha información. La Empresa no asume responsabilidad alguna relativa a errores derivados de la exactitud, integridad y actualidad de dichas informaciones y contenidos. La Empresa se reserva el derecho de corregir, eventualmente a posteriori, errores o fallos producidos, especialmente en la introducción de cuotas de apuestas y/o en la valoración de resultados de apuestas o de declarar todas aquellas apuestas afectadas como no válidas."
+          },
+          {
+            "description": "El resultado oficial de cualquier juego o apuesta es el determinado por los servidores de Codere.mx; en caso de discrepancia con el dispositivo del usuario, prevalecerá el registro del servidor. Un mal funcionamiento técnico anula jugadas y pagos relacionados."
+          },
+          {
+            "description": "La Empresa no garantiza la operación ininterrumpida ni libre de errores, interrupciones, virus, fallas de comunicación o actos de terceros y no será responsable por fallas de internet o equipos del usuario, errores evidentes de cuotas/precios ni por servicios de terceros (procesadores de pago, telecomunicaciones). En tales casos, la Empresa podrá corregir, reliquidar, anular o reembolsar la apuesta según corresponda."
+          },
+          {
+            "description": "La responsabilidad máxima de la Empresa por daños directos derivados exclusivamente de un fallo técnico atribuible a sus sistemas durante el uso de los Servicios se limita al monto de la apuesta afectada o al monto efectivamente extraviado por dicho fallo. Nada de lo anterior excluye responsabilidades que no puedan limitarse conforme a la ley aplicable."
+          }
+        ]
+      },
+      {
+        "title": "10. Juego responsable",
+        "subcontent": [
+          {
+            "title": "10.1.",
+            "description": "La Empresa no admitirá la participación de menores de edad en los juegos, apuestas y sorteos."
+          },
+          {
+            "title": "10.2.",
+            "description": "La Empresa permitirá a cualquier participante cancelar su cuenta dentro de la plataforma. Una vez que el participante haya cancelado su cuenta, no se le permitirá reabrirla hasta transcurridas al menos 24 horas posteriores al momento en que canceló su cuenta. Una vez que el participante haya cancelado su cuenta, la Empresa implementará los medios razonablemente necesarios para prevenir que abra una cuenta distinta asociada al mismo dispositivo, correo electrónico, dirección IP o cualquier otro dato que permita ligarla a la cuenta cancelada."
+          },
+          {
+            "title": "10.3.",
+            "description": "Los participantes podrán definir el monto máximo que puedan depositar en su cuenta, ya sea de manera diaria, semanal o mensual, a efectos de mantener el auto-control de juego responsable."
+          },
+          {
+            "title": "10.4.",
+            "description": "La Empresa dispondrá de un centro de llamadas para atención a clientes sobre incidencias de todo orden."
+          },
+          {
+            "title": "10.5.",
+            "description": "La Empresa deberá proporcionar un sistema de auto-exclusión para dar mayor asistencia a los clientes con el manejo de cuestiones de juego responsable que puedan surgir, de conformidad con la política de Juego responsable disponible en la Plataforma."
+          },
+          {
+            "title": "10.6.",
+            "description": "La Empresa implementará los mecanismos de autoexclusión solicitados por el usuario y hará los mejores esfuerzos para evitar la apertura de nuevas cuentas durante ese período. No obstante, el usuario deberá abstenerse de reabrir su cuenta por cualquier otro medio y la Empresa no se responsabiliza en caso de que el usuario abra cuentas con datos diferentes."
+          },
+          {
+            "title": "10.7.",
+            "description": "La Empresa se reserva el derecho de limitar, suspender o cerrar la cuenta por temas vinculados a Juego Responsable y prevención de juego problemático, cuando existan indicios de ello, y pondrá a disposición canales de soporte e información de ayuda especializada. Los aspectos relacionados con Juego Responsable, autoexclusión y protocolos relacionados se regirán de conformidad con la Política de Juego Responsable de la Empresa disponible en el sitio de Codere.mx en la sección de Responsabilidad Social."
+          }
+        ]
+      },
+      {
+        "title": "11. Cuenta Inactiva",
+        "subcontent": [
+          {
+            "description": "Si una cuenta es clasificada como inactiva y presenta un saldo positivo, se aplicará una comisión mensual de mantenimiento por inactividad de $50.00 MXN, que se descontará del saldo restante a partir del último día del periodo de gracia (730 días de inactividad) y dentro de los primeros 3 (tres) días hábiles de cada mes. Esta comisión no se aplicará en ningún caso a jugadores que hayan solicitado la autoexclusión."
+          },
+          {
+            "description": "Una cuenta será considerada inactiva si el usuario no ha realizado ninguna de las siguientes acciones durante un periodo continuo de 730 días (2 años):",
+            "ul": [
+              "(a) Realizar un depósito.",
+              "(b) Realizar una apuesta con dinero real.",
+              "(c) Participar en cualquiera de los productos disponibles en el sitio, incluyendo deportes, casino, casino en vivo, bingo o póker."
+            ]
+          },
+          {
+            "description": "Si al momento de considerarse inactiva, la cuenta presenta un saldo de $0.00, no se aplicará ningún cargo. De igual manera, si el saldo de la cuenta llega a cero se dejará de cobrar la citada cuota, pero ello no conllevará la cancelación de la cuenta."
+          },
+          {
+            "description": "La cuenta podrá reactivarse en cualquier momento realizando alguna de las siguientes acciones:",
+            "ul": [
+              "(a) Realizar un depósito satisfactorio.",
+              "(b) Hacer una apuesta o participar en cualquiera de los productos disponibles."
+            ]
+          },
+          {
+            "description": "La Empresa tomará medidas razonables para notificarle por correo electrónico o por el medio de contacto registrado, al menos con 30 días naturales de anticipación antes de comenzar a aplicar el cargo por cuenta inactiva."
+          }
+        ]
+      },
+      {
+        "title": "12. Contracargos",
+        "description": "Para el caso de que el usuario haya solicitado un contracargo a su tarjeta de crédito o débito por un cargo realizado con el fin de depositar a su cuenta dentro de la Plataforma, como mecanismo para cooperar efectivamente para la recuperación de los fondos, su cuenta podrá ser suspendida a partir de que la Empresa reciba la notificación del contracargo en cuestión, por lo que, adicionalmente, la Empresa podrá retener en todo o en parte el saldo que el usuario tenga en su cuenta en dicho momento hasta en tanto sea resuelto el contracargo, sin perjuicio de las demás medidas que pueda tomar la Empresa con la cuenta y fondos del usuario a fin de hacer frente a sus obligaciones de cara a los proveedores de pagos relativos a dichos contracargos."
+      },
+      {
+        "title": "13. Especificaciones del Proceso de Verificación de Cuenta",
+        "subcontent": [
+          {
+            "title": "13.1. Documentos válidos",
+            "description": "Identificación oficial vigente, tales como:",
+            "ul": [
+              "Credencial para votar expedida por el Instituto Nacional Electoral.",
+              "Pasaporte (solo serán válidos los pasaportes correspondientes a mayores de edad).",
+              "Forma Migratoria (residencia temporal o permanente)."
+            ]
+          },
+          {
+            "title": "13.2. Documentos no válidos",
+            "ul": [
+              "Licencia de conducir.",
+              "Cédula profesional.",
+              "Cartilla del servicio militar nacional.",
+              "Cédula migratoria de refugiado.",
+              "Cédula migratoria de visitante."
+            ]
+          },
+          {
+            "title": "13.3. Otro tipo de documentos",
+            "description": "En ocasiones específicas, la Empresa puede llegar a solicitar documentos adicionales para verificar la identidad del cliente tales como, comprobantes de domicilio, estados de cuenta bancario, historial de movimientos bancarios, recibos de telefonía, entre otros, mismos que deberán ser proporcionados por el usuario bajo pena de suspensión de su cuenta."
+          },
+          {
+            "title": "13.4. Control de verificación por depósitos mayores a $38,125.75 MXN",
+            "description": "El usuario que no haya verificado su cuenta mediante el aporte de documentos, tendrá prohibido realizar depósitos a su cuenta mayores al umbral establecido para la prevención de lavado de dinero, establecido por la autoridad, por lo que para poder ingresar una cantidad igual o superior a dicho umbral, obligatoriamente el usuario deberá tener su cuenta verificada."
+          },
+          {
+            "title": "13.5. Solicitud de documentos para mantener o actualizar el expediente del usuario",
+            "description": "Como buena práctica de cumplimiento y conforme a los más altos estándares establecidos para la prevención de lavado de dinero la Empresa podrá, cuando así lo estime necesario, solicitar nuevamente al usuario que envíe los documentos para verificar su cuenta con el fin de mantener actualizados y vigentes sus documentos."
+          }
+        ]
+      },
+      {
+        "title": "13. Métodos de Depósito y Cobro",
+        "subcontent": [
+          {
+            "title": "13.1.",
+            "description": "El usuario podrá depositar fondos a su cuenta mediante el uso de tarjeta de crédito, débito, transferencia electrónica (Sistema SPEI), pago en establecimientos Codere, Yak o Royal Yak, así como distintos establecimientos de autoservicio, tiendas de conveniencia o departamentales, con los que la Empresa tenga suscrito un convenio para tales efectos."
+          },
+          {
+            "title": "13.2.",
+            "description": "Asimismo, el usuario podrá retirar fondos de su cuenta mediante transferencia electrónica (Sistema SPEI), cobro en establecimientos Codere, Yak o Royal Yak, así como distintos establecimientos de autoservicio, cajeros automáticos, tiendas de conveniencia o departamentales, con los que la Empresa tenga suscrito un convenio para tales efectos."
+          },
+          {
+            "title": "13.3.",
+            "description": "El procesamiento de dichos pagos será llevado a cabo por Empresas ajenas e independientes por completo a la Empresa, mismas que, de conformidad con los convenios suscritos con ellas, cuentan con las certificaciones más altas en materia de seguridad y procesamiento de pagos, por lo que el trámite de dichas transacciones no será responsabilidad de la Empresa, derivado de que en ningún momento la Empresa tendrá acceso a los números de tarjeta de los Usuarios, sino que dicha información al ser sensible y estrictamente confidencial, queda encriptada en los sistemas de seguridad con los que cuente cada una de las Empresas procesadoras de pagos."
+          },
+          {
+            "title": "13.2.",
+            "description": "En caso de que un usuario desee efectuar un retiro o depósito por un monto igual o mayor a $376,447.79 MXN (trescientos setenta y seis mil cuatrocientos cuarenta y siete pesos 79/100 M.N.), el usuario será requerido para completar el formato de ventas especiales o premios especiales, de conformidad con lo establecido en las leyes y reglamentos."
+          }
+        ]
+      },
+      {
+        "title": "14. Prevención de Fraude y Lavado de Dinero",
+        "subcontent": [
+          {
+            "description": "Como parte de los procesos rigurosos de prevención de lavado de dinero, así como de prevención de fraude a los cuales la Empresa se somete regularmente de forma voluntaria, la Empresa contará en todo momento con la facultad de suspender de forma temporal o definitiva la cuenta de todo aquel usuario sobre el cual se tengan sospechas de estar involucrado en alguna operación fraudulenta o bien se tengan sospechas de que se pretende utilizar la Plataforma como medio para cometer alguna conducta ilícita, en especial aquellas relacionadas con la operación con recursos de procedencia ilícita. Los recursos disponibles en la cuenta de dichos usuarios podrán ser retenidos por la Empresa hasta que la autoridad competente ordene un destino para los mismos."
+          },
+          {
+            "description": "La Empresa podrá suspender, limitar, bloquear o cerrar cuentas, así como retener temporalmente retiros y anular apuestas/ganancias cuando existan indicios de:",
+            "ul": [
+              "(a) Fraude, colusión, amaño o actividades ilegales.",
+              "(b) Uso de la Plataforma desde jurisdicciones prohibidas o mediante el uso de VPN/proxy.",
+              "(c) Que el usuario haya proporcionado información falsa o incompleta.",
+              "(d) Uso de métodos de pago de terceros o contracargos.",
+              "(e) Incumplimiento de verificación de identidad/edad o de juego mínimo para retiro.",
+              "(f) Abuso de promociones o errores técnicos deliberadamente explotados.",
+              "(g) Cualquier incumplimiento de estos Términos y Condiciones."
+            ]
+          },
+          {
+            "description": "Confirmadas las irregularidades, la Empresa podrá confiscar ganancias indebidas, restituir fondos al medio de origen cuando proceda, cerrar definitivamente la cuenta, prohibir nuevas aperturas y reportar a las autoridades competentes, sin obligación de reembolso adicional. La Empresa procurará notificar por los canales de contacto registrados, salvo impedimento legal."
+          }
+        ]
+      },
+      {
+        "title": "15. Actividades prohibidas",
+        "description": "Queda expresamente prohibido:",
+        "ul": [
+          "15.1. Registrar más de una cuenta.",
+          "15.2. Compartir o permitir el uso de la cuenta por terceros.",
+          "15.3. Utilizar métodos de pago o retiro de terceros.",
+          "15.4. Ocultar ubicación mediante VPN/proxy.",
+          "15.5. Colusión, amaño de eventos o uso de información privilegiada.",
+          "15.6. Patrones de apuesta de bajo riesgo para explotar promociones.",
+          "15.7. El abuso de bonos o promociones.",
+          "15.8. El uso de bots, scrapers o software/IA para automatizar decisiones de apuesta.",
+          "15.9. Fraude, lavado de dinero o contracargos injustificados.",
+          "15.10. Manipular errores técnicos o del sistema.",
+          "15.11. Cualquier uso contrario a la ley, a estos Términos y Condiciones o a la integridad deportiva."
+        ],
+        "subcontent": [
+          {
+            "description": "En caso de configurarse alguno de los supuestos anteriores, la Empresa podrá anular apuestas afectadas, confiscar ganancias indebidas, retener retiros y cerrar cuentas involucradas, sin perjuicio de las acciones civiles, administrativas o penales que correspondan."
+          }
+        ]
+      },
+      {
+        "title": "16. Depósito y/o Cobro sin Actividad",
+        "description": "La Empresa no fungirá como institución bancaria, por lo que el usuario no podrá utilizar a la Empresa con tal carácter, con el objeto de almacenar fondos que no tengan como propósito destinarse al juego o cruce de apuestas."
+      },
+      {
+        "title": "17. Depósito de empresa y/o a terceros",
+        "description": "No está permitido realizar depósitos o retiros desde o hacia alguna cuenta bancaria o tarjeta propiedad de personas jurídicas, cualquiera que sea su régimen o tipo social. Asimismo, tampoco está permitido realizar retiros a cuentas bancarias en las que el titular de dicha cuenta bancaria sea distinto al nombre completo con el cual el usuario se registró en la Plataforma. El incumplimiento de lo anterior, dará lugar a la suspensión de la cuenta del usuario."
+      },
+      {
+        "title": "18. Menores de edad",
+        "description": "No está permitida la participación a los menores de edad, en caso de que se identifique o se tenga la sospecha de que una cuenta es manipulada por un menor de edad, se procederá de la siguiente manera:",
+        "ul": [
+          "a) Se bloqueará la cuenta inmediatamente.",
+          "b) Se anularán o cancelarán las apuestas.",
+          "c) No se devolverá el saldo o depósitos si existiesen en el balance de la cuenta, salvo requerimiento de autoridad competente."
+        ]
+      },
+      {
+        "title": "19. Suplantación de identidad",
+        "description": "Si la Empresa llegare a identificar o se tuviera la sospecha de que una persona está operando una cuenta de la cual no es el titular o en caso de que la Empresa tuviere sospecha de que está ingresando información falsa o manipulada, actuaremos de la forma establecida en el punto inmediato anterior."
+      },
+      {
+        "title": "20. Duplicidad de cuenta",
+        "description": "En caso de que la Empresa detecte que una persona realizó un registro doble o coincidente en gran medida con datos aportados anteriormente por otro usuario o desde la misma dirección IP, pero que se trata de la misma persona, se procederá de la siguiente manera:",
+        "ul": [
+          "a) Se bloquearán las cuentas involucradas.",
+          "b) De ser elegible, se dejará una sola cuenta activa.",
+          "c) Se podrá concentrar el saldo en una sola cuenta, la cuenta del usuario que se mantendrá activa, anulando bonificaciones en las cuentas que permanecerán bloqueadas incluyendo la activa. En caso de considerarlo para preservar la integridad del sistema de la Plataforma o bien, conforme a los presentes Términos y Condiciones, se procederá con el bloqueo de todas las cuentas, incluyendo la principal y no será procedente la devolución del saldo en caso de que existiese."
+        ]
+      },
+      {
+        "title": "21. Fraude documental",
+        "description": "En caso de que, derivado de los controles de seguridad con los que cuenta la Empresa, se detecte o sospeche que un usuario ha falseado o manipulado documentos, información entre otros, se procederá con el bloqueo de la cuenta de manera inmediata y en caso de que hubiera saldo en el balance, éste no será devuelto."
+      },
+      {
+        "title": "22. Abuso de promociones",
+        "description": "Si la Empresa llegase a detectar o sospechar fundadamente que un usuario está tomando ventaja indebida de ciertas bonificaciones o promociones, se procederá con el bloqueo de la cuenta de manera definitiva y se retendrán las ganancias que haya obtenido derivado de dichas bonificaciones o promociones, incluyendo la no devolución del saldo."
+      },
+      {
+        "title": "22. Cargos no reconocidos",
+        "description": "En caso de que personas ajenas a la Plataforma, es decir, personas que no tengan un registro como usuario en nuestra plataforma y llegasen a comunicarse por los canales establecidos reclamando algún cargo que se les haya hecho a nombre de la Empresa, la Empresa no será bajo ninguna manera responsable de dicho reclamo derivado de que el mismo no fue originado por una causa directamente imputable a la Empresa, por lo que, en su caso, dicha persona deberá acudir a su institución bancaria y/o autoridades correspondientes a levantar la correspondiente queja o denuncia, instancia en la cual la Empresa colaborará activamente para la correcta investigación y resolución del asunto."
+      }
+    ]
+  }
+},
       "responsible-gaming": {
         "id": "responsible-gaming",
         "label": "Juego responsable",
