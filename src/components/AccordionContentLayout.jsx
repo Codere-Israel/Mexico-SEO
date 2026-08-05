@@ -192,6 +192,13 @@ function ContentList({ items, type = "ul" }) {
                 {item.description}
               </span>
             )}
+
+            {item?.description_html && (
+              <span
+                className={item?.title ? "ms-1" : ""}
+                dangerouslySetInnerHTML={{ __html: item.description_html }}
+              />
+            )}
           </li>
         );
       })}

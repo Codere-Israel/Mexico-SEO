@@ -243,7 +243,7 @@
           "Elige el método de verificación.",
           "Documento de identidad: validación automática a través de Shufti (sistema automático de verificación). Si lo inicias en computadora, deberás completarlo desde tu celular.",
           "Verificación bancaria: opción de enviar tu documentación por correo electrónico.",
-          "Caso especial – Pasaporte: deberás enviar tu pasaporte + comprobante de domicilio a verificacion@codere.mx.",
+          { "description_html": "Caso especial – Pasaporte: deberás enviar tu pasaporte + comprobante de domicilio a <a class=\"underline!\" href=\"mailto:verificacion@codere.mx\">verificacion@codere.mx</a>." },
           "Sube los archivos solicitados y sigue las recomendaciones que aparecen en pantalla o en el cajero virtual. El sistema solicitará datos personales del jugador, como por ejemplo su domicilio, como parte del proceso de verificación.",
           "Espera la confirmación: recibirás un correo electrónico con el estado de tu verificación."
         ],
@@ -267,7 +267,7 @@
         "title": "Cómo enviar los documentos",
         "ul": [
           "Automáticamente: sube tus documentos en la pestaña de verificación de tu cuenta (válido para documentos de identidad y residencias permanentes o temporales).",
-          "Por correo: si usas pasaporte o no logras validar de manera automática, envía tus documentos a verificacion@codere.mx desde el correo electrónico asociado a tu cuenta."
+          { "description_html": "Por correo: si usas pasaporte o no logras validar de manera automática, envía tus documentos a <a class=\"underline!\" href=\"mailto:verificacion@codere.mx\">verificacion@codere.mx</a> desde el correo electrónico asociado a tu cuenta." }
         ]
       },
       {

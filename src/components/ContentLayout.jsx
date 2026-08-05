@@ -19,7 +19,13 @@ function renderList(items, type, key) {
     <ListTag className={`${listClass} ml-6 mt-2`}>
       {items.map((item, i) => (
         <li key={`${key}-${i}`} className="mt-1">
-          {item}
+          {typeof item === "string" ? (
+            item
+          ) : item?.description_html ? (
+            <span dangerouslySetInnerHTML={{ __html: item.description_html }} />
+          ) : (
+            item?.description || ""
+          )}
         </li>
       ))}
     </ListTag>
