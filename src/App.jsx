@@ -8,7 +8,7 @@ const App = observer(() => {
     <div className="scrollbar-none bg-[#252a30] min-h-screen">
       <div className="flex flex-col md:flex-row">
         <NavigationBar />
-        <div className="mt-[40px] md:mt-[10px]">
+        <div className="mt-[40px] md:mt-[10px] pb-8">
           <AyudaRoutes />
         </div>
       </div>
