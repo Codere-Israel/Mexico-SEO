@@ -21,7 +21,7 @@ export default function SportGames() {
   const [title, setTitle] = useState("");
 
   const config = [
-    { title: "Mundial 2026", leagueId: "69679" },
+    { title: "Liga MX", leagueId: "45349" },
     { title: "Premier League", leagueId: "19157" },
   ];
   // const titles = ["Liga de México", "Premier League"];
