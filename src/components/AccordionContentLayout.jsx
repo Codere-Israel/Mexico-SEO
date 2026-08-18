@@ -311,8 +311,7 @@ function AccordionItem({ node, depth, path, isOpen, onToggle }) {
           aria-controls={contentId}
           onClick={onToggle}
           className={`
-            group
-            flex
+            group flex text-white
             w-full
             items-center
             justify-between
