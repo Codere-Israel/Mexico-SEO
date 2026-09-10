@@ -24,7 +24,7 @@ body {
 }
 
 .text-green {
-  color: #79c000 !important;
+  color: #c546d3 !important;
 }
 
 .floating-button {
@@ -33,7 +33,7 @@ body {
 }
 
 .table-of-contents i {
-  background: #79c000;
+  background: #c546d3;
   border-radius: 2.5px;
   display: inline-block;
   margin-right: 10px;
@@ -47,7 +47,7 @@ body {
 }
 
 .table-of-contents li span:hover {
-  color: #79c000;
+  color: #c546d3;
 }
 
 .responsive-picture {
@@ -83,13 +83,18 @@ body {
 }
 
 .seo-nav-active {
-  color: #79c000;
+  color: #c546d3;
   filter: brightness(0) saturate(100%) invert(77%) sepia(60%) saturate(4287%)
     hue-rotate(40deg) brightness(96%) contrast(101%);
 }
+.seo-casino-nav-active {
+  color: #c546d3;
+  filter: brightness(0) saturate(100%) invert(50%) sepia(39%) saturate(5243%)
+    hue-rotate(261deg) brightness(83%) contrast(99%);
+}
 
 .seo-nav-active .underline {
-  background-color: #79c000;
+  background-color: #c546d3;
 }
 
 .underline {
@@ -211,7 +216,7 @@ body {
 }
 
 .odds:hover {
-  background-color: #79c000aa;
+  background-color: #c546d3aa;
 }
 
 .text-elepsis {

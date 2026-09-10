@@ -4,7 +4,6 @@ import { CodereHelmet } from "../data/helpers";
 import { useLocation } from "react-router-dom";
 import TableOfContents from "./TableOfContents";
 import SportGames from "./sport-games/SportGames";
-import { toJS } from "mobx";
 
 const ContentLayout = ({ subtopicObject }) => {
   const splitParagraphs = (text) => text?.split("*")?.filter(Boolean);
@@ -91,7 +90,7 @@ const ContentLayout = ({ subtopicObject }) => {
       )}
 
       <div className="w-8/9 xl:w-3/5 mx-auto">
-        {myStore?.subtopic === "deportes" && <SportGames />}
+        {myStore?.subtopic === "casinos" && <SportGames />}
         {/* Top Section */}
         <section className="top-section mt-5">
           <h1 className="text-[24px] min-[767px]:text-[28px] text-green font-medium leading-none">

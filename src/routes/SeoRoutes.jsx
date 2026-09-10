@@ -4,7 +4,7 @@ import IndexLayout from "../components/IndexLayout";
 import ContentLayout from "../components/ContentLayout";
 import myStore from "../mobx/myStore";
 import eventos from "../data/events.json";
-import deportes from "../data/cuotas.json";
+import casinos from "../data/casinos.json";
 
 const SeoRoutes = () => {
   // TODO: work on subTopic !!!!
@@ -12,12 +12,12 @@ const SeoRoutes = () => {
   const [subtopicObject, setSubtopicObject] = useState({});
   useEffect(() => {
     let p = location.pathname;
-    let temp = p.includes("eventos") ? "eventos" : "deportes";
+    let temp = p.includes("eventos") ? "eventos" : "casino";
     myStore.updateTopic(temp);
-    myStore.setTopicObject(temp === "eventos" ? eventos : deportes);
+    myStore.setTopicObject(temp === "eventos" ? eventos : casinos);
     let hasSubtopic = p.split("/").filter((item) => !!item).length > 1;
 
-    if (!hasSubtopic && temp === "deportes") myStore.updateSubtopic("deportes");
+    if (!hasSubtopic && temp === "casino") myStore.updateSubtopic("casino");
 
     if (hasSubtopic) {
       let tempSubtopic = getSubtopicByLocation(p);
@@ -49,11 +49,11 @@ const SeoRoutes = () => {
             element={<ContentLayout subtopicObject={subtopicObject} />}
           />
         </Route>
-        <Route exact path="deportes">
-          <Route exact path="" element={<IndexLayout topic="deportes" />} />
+        <Route exact path="casino">
+          <Route exact path="" element={<IndexLayout topic="casino" />} />
           <Route
             exact
-            path=":cuota"
+            path=":casino"
             element={<ContentLayout subtopicObject={subtopicObject} />}
           />
         </Route>

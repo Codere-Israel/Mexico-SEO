@@ -4,7 +4,8 @@ import { observer } from "mobx-react";
 import { Link } from "react-router-dom";
 
 const NavigationBar = observer(() => {
-  const ICONS_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/icons/{subtopic}.svg`;
+  const ICONS_PREFIX = `https://www.codere.mx/library/SEO_pages_assets/img/{subtopic}.svg`;
+  const ICONS_PREFIX_PA = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/{subtopic}.svg`;
   // const ICONS_PREFIX = `https://portal-admin.codere.mx/library/SEO_pages_assets/img/icons/{subtopic}.svg`;
   const entries = Object.entries(myStore.topicObject || {});
 
@@ -15,7 +16,7 @@ const NavigationBar = observer(() => {
           <div
             style={{ width: 80, height: 61 }}
             className={`seo-nav-tab  items-center ${
-              key === myStore.subtopic ? `seo-nav-active` : ""
+              key === myStore.subtopic ? `seo-casino-nav-active` : ""
             }`}
           >
             <Link
@@ -27,8 +28,15 @@ const NavigationBar = observer(() => {
               }`}
             >
               <img
-                className="h-[29px]"
+                className="h-[29px] "
                 src={ICONS_PREFIX.replace("{subtopic}", key.toLowerCase())}
+                onError={(e) => {
+                  e.target.onerror = null;
+                  e.target.src = ICONS_PREFIX_PA.replace(
+                    "{subtopic}",
+                    key.toLowerCase(),
+                  );
+                }}
                 width={28}
                 height={28}
               />
